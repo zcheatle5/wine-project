@@ -5,8 +5,8 @@ impact of climate change on wine/grape production in CA
 
 
 ### Team Members
-      - Adam Mcvey
-      - Rosa Zhu
+      - Adam McVey
+      - Jiuhe (Rosa) Zhu
       - Matthew Berkley
       - Laura Rice
       - Gianni Adamo
