@@ -1,4 +1,4 @@
-# Final Project
+# CA Wine Analysis Final Project
 impact of climate change on wine/grape production in CA 
 
 ### Project Proposal
