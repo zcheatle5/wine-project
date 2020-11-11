@@ -1,4 +1,4 @@
-# wine-project
+# CA Wine Final Project
 impact of climate change on wine/grape production in CA 
 
 ### Project Proposal
@@ -16,3 +16,6 @@ impact of climate change on wine/grape production in CA
 
 
 ### Data Sources
+
+
+## Project Outline
