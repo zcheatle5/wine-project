@@ -16,7 +16,7 @@ impact of climate change on wine/grape production in CA
 
 
 ### Data Sources
-1. Grape Acreage Reports: [USDA's National Agricultural Statistics Service](https://www.nass.usda.gov/Statistics_by_State/California/Publications/Specialty_and_Other_Releases/Grapes/Acreage/Reports/index.php)
+1. Grape Acreage Reports (Current and Historic): [USDA's National Agricultural Statistics Service](https://www.nass.usda.gov/Statistics_by_State/California/Publications/Specialty_and_Other_Releases/Grapes/Acreage/Reports/index.php)
 2. Climate Change:
 
 ## Project Outline
