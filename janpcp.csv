@@ -1,0 +1,523 @@
+County,Date,PCP
+Alameda County,201101,1.04
+Alameda County,201201,2.08
+Alameda County,201301,0.81
+Alameda County,201401,0.11
+Alameda County,201501,0.01
+Alameda County,201601,5.65
+Alameda County,201701,9.38
+Alameda County,201801,4.28
+Alameda County,201901,3.73
+Alpine County,201101,1.69
+Alpine County,201201,4.98
+Alpine County,201301,1.22
+Alpine County,201401,2.98
+Alpine County,201501,0.22
+Alpine County,201601,8.29
+Alpine County,201701,22.13
+Alpine County,201801,3.65
+Alpine County,201901,8.17
+Amador County,201101,2.89
+Amador County,201201,4.88
+Amador County,201301,1.34
+Amador County,201401,1.45
+Amador County,201501,0.14
+Amador County,201601,9.96
+Amador County,201701,18.68
+Amador County,201801,5.62
+Amador County,201901,8.17
+Butte County,201101,2.21
+Butte County,201201,7.48
+Butte County,201301,1.19
+Butte County,201401,0.84
+Butte County,201501,0.21
+Butte County,201601,14.46
+Butte County,201701,16.25
+Butte County,201801,6.19
+Butte County,201901,12.01
+Calaveras County,201101,2.9
+Calaveras County,201201,4.55
+Calaveras County,201301,1.29
+Calaveras County,201401,1.31
+Calaveras County,201501,0.13
+Calaveras County,201601,9.56
+Calaveras County,201701,17.72
+Calaveras County,201801,5.28
+Calaveras County,201901,7.7
+Colusa County,201101,2.14
+Colusa County,201201,4.66
+Colusa County,201301,1.54
+Colusa County,201401,0.59
+Colusa County,201501,0.18
+Colusa County,201601,6.5
+Colusa County,201701,10.07
+Colusa County,201801,3.94
+Colusa County,201901,6.09
+Contra Costa County,201101,1.28
+Contra Costa County,201201,2.75
+Contra Costa County,201301,0.79
+Contra Costa County,201401,0.14
+Contra Costa County,201501,0.01
+Contra Costa County,201601,6.44
+Contra Costa County,201701,10.68
+Contra Costa County,201801,4.02
+Contra Costa County,201901,4.66
+Del Norte County,201101,4.73
+Del Norte County,201201,15.85
+Del Norte County,201301,5.16
+Del Norte County,201401,3.11
+Del Norte County,201501,3.49
+Del Norte County,201601,19.64
+Del Norte County,201701,19.87
+Del Norte County,201801,13.33
+Del Norte County,201901,13.57
+El Dorado County,201101,2.39
+El Dorado County,201201,6.61
+El Dorado County,201301,1.44
+El Dorado County,201401,2.44
+El Dorado County,201501,0.12
+El Dorado County,201601,11.92
+El Dorado County,201701,24.56
+El Dorado County,201801,6.61
+El Dorado County,201901,10.66
+Fresno County,201101,2.07
+Fresno County,201201,2.39
+Fresno County,201301,1.07
+Fresno County,201401,0.58
+Fresno County,201501,0.19
+Fresno County,201601,5.47
+Fresno County,201701,12.17
+Fresno County,201801,2.1
+Fresno County,201901,4.01
+Glenn County,201101,1.7
+Glenn County,201201,4.64
+Glenn County,201301,1.69
+Glenn County,201401,0.22
+Glenn County,201501,0.11
+Glenn County,201601,8.9
+Glenn County,201701,10.5
+Glenn County,201801,3.64
+Glenn County,201901,7.86
+Humboldt County,201101,2.69
+Humboldt County,201201,11.05
+Humboldt County,201301,3.21
+Humboldt County,201401,1.79
+Humboldt County,201501,2.13
+Humboldt County,201601,19.71
+Humboldt County,201701,18.42
+Humboldt County,201801,11.12
+Humboldt County,201901,12.3
+Imperial County,201101,0.01
+Imperial County,201201,0.02
+Imperial County,201301,0.78
+Imperial County,201401,0
+Imperial County,201501,0.36
+Imperial County,201601,0.94
+Imperial County,201701,1.11
+Imperial County,201801,0.17
+Imperial County,201901,0.65
+Inyo County,201101,0.21
+Inyo County,201201,0.95
+Inyo County,201301,0.38
+Inyo County,201401,0.09
+Inyo County,201501,0.64
+Inyo County,201601,1.02
+Inyo County,201701,3.87
+Inyo County,201801,0.91
+Inyo County,201901,1.64
+Kern County,201101,0.56
+Kern County,201201,0.65
+Kern County,201301,0.81
+Kern County,201401,0.16
+Kern County,201501,0.81
+Kern County,201601,2.49
+Kern County,201701,5.12
+Kern County,201801,1.53
+Kern County,201901,2.8
+Kings County,201101,1.22
+Kings County,201201,0.52
+Kings County,201301,0.34
+Kings County,201401,0.11
+Kings County,201501,0.17
+Kings County,201601,2.39
+Kings County,201701,3.74
+Kings County,201801,1.08
+Kings County,201901,1.66
+Lake County,201101,3.14
+Lake County,201201,8.16
+Lake County,201301,2.01
+Lake County,201401,0.58
+Lake County,201501,0.46
+Lake County,201601,14.73
+Lake County,201701,22.13
+Lake County,201801,8.1
+Lake County,201901,11.76
+Lassen County,201101,0.55
+Lassen County,201201,2.6
+Lassen County,201301,1.03
+Lassen County,201401,0.75
+Lassen County,201501,0.13
+Lassen County,201601,5.09
+Lassen County,201701,7.83
+Lassen County,201801,2.65
+Lassen County,201901,4.32
+Los Angeles County,201101,0.67
+Los Angeles County,201201,0.85
+Los Angeles County,201301,1.29
+Los Angeles County,201401,0.07
+Los Angeles County,201501,1.39
+Los Angeles County,201601,3.47
+Los Angeles County,201701,7.83
+Los Angeles County,201801,2.12
+Los Angeles County,201901,5.64
+Madera County,201101,2.23
+Madera County,201201,2.81
+Madera County,201301,1.13
+Madera County,201401,0.92
+Madera County,201501,0.16
+Madera County,201601,6.12
+Madera County,201701,11.94
+Madera County,201801,2.56
+Madera County,201901,4.9
+Marin County,201101,2.18
+Marin County,201201,6.35
+Marin County,201301,0.9
+Marin County,201401,0.1
+Marin County,201501,0.05
+Marin County,201601,10.73
+Marin County,201701,17.01
+Marin County,201801,6.77
+Marin County,201901,7.95
+Mariposa County,201101,2.71
+Mariposa County,201201,3.82
+Mariposa County,201301,1.09
+Mariposa County,201401,1.43
+Mariposa County,201501,0.13
+Mariposa County,201601,8.08
+Mariposa County,201701,14.89
+Mariposa County,201801,3.75
+Mariposa County,201901,6.52
+Mendocino County,201101,2.77
+Mendocino County,201201,8.28
+Mendocino County,201301,2.06
+Mendocino County,201401,0.88
+Mendocino County,201501,1.04
+Mendocino County,201601,16.86
+Mendocino County,201701,20.27
+Mendocino County,201801,9.85
+Mendocino County,201901,11.31
+Merced County,201101,1.24
+Merced County,201201,0.99
+Merced County,201301,1.05
+Merced County,201401,0.39
+Merced County,201501,0.02
+Merced County,201601,4.66
+Merced County,201701,5.81
+Merced County,201801,2.2
+Merced County,201901,2.3
+Modoc County,201101,0.78
+Modoc County,201201,1.67
+Modoc County,201301,1.27
+Modoc County,201401,0.51
+Modoc County,201501,0.39
+Modoc County,201601,3.95
+Modoc County,201701,4.59
+Modoc County,201801,2.01
+Modoc County,201901,3.18
+Mono County,201101,0.75
+Mono County,201201,2.11
+Mono County,201301,0.39
+Mono County,201401,1.08
+Mono County,201501,0.18
+Mono County,201601,2.71
+Mono County,201701,10.09
+Mono County,201801,1.06
+Mono County,201901,3.19
+Monterey County,201101,2.6
+Monterey County,201201,2.65
+Monterey County,201301,1.31
+Monterey County,201401,0.11
+Monterey County,201501,0.1
+Monterey County,201601,6.92
+Monterey County,201701,12.07
+Monterey County,201801,3.93
+Monterey County,201901,5.09
+Napa County,201101,2.17
+Napa County,201201,5.42
+Napa County,201301,0.98
+Napa County,201401,0.13
+Napa County,201501,0.06
+Napa County,201601,9.59
+Napa County,201701,17.81
+Napa County,201801,5.5
+Napa County,201901,8.69
+Nevada County,201101,2.16
+Nevada County,201201,7.41
+Nevada County,201301,1.18
+Nevada County,201401,2.01
+Nevada County,201501,0.11
+Nevada County,201601,14.36
+Nevada County,201701,26.44
+Nevada County,201801,8.09
+Nevada County,201901,12.94
+Orange County,201101,0.8
+Orange County,201201,0.93
+Orange County,201301,1.14
+Orange County,201401,0.04
+Orange County,201501,0.84
+Orange County,201601,2.54
+Orange County,201701,8.31
+Orange County,201801,1.7
+Orange County,201901,5.07
+Placer County,201101,2.04
+Placer County,201201,6.86
+Placer County,201301,1.23
+Placer County,201401,2.26
+Placer County,201501,0.12
+Placer County,201601,12.37
+Placer County,201701,25.03
+Placer County,201801,7.27
+Placer County,201901,11.64
+Plumas County,201101,1.22
+Plumas County,201201,6.44
+Plumas County,201301,1.21
+Plumas County,201401,1.27
+Plumas County,201501,0.15
+Plumas County,201601,11.63
+Plumas County,201701,20.55
+Plumas County,201801,5.8
+Plumas County,201901,11.38
+Riverside County,201101,0.27
+Riverside County,201201,0.2
+Riverside County,201301,1
+Riverside County,201401,0.03
+Riverside County,201501,0.75
+Riverside County,201601,2.32
+Riverside County,201701,4.09
+Riverside County,201801,1.29
+Riverside County,201901,2.03
+Sacramento County,201101,1.54
+Sacramento County,201201,2.6
+Sacramento County,201301,1.1
+Sacramento County,201401,0.22
+Sacramento County,201501,0.02
+Sacramento County,201601,5.86
+Sacramento County,201701,10.18
+Sacramento County,201801,4.47
+Sacramento County,201901,4.53
+San Benito County,201101,2.44
+San Benito County,201201,1.89
+San Benito County,201301,1.19
+San Benito County,201401,0.22
+San Benito County,201501,0.04
+San Benito County,201601,5.78
+San Benito County,201701,9.17
+San Benito County,201801,3.34
+San Benito County,201901,3.51
+San Bernardino County,201101,0.13
+San Bernardino County,201201,0.15
+San Bernardino County,201301,0.73
+San Bernardino County,201401,0.02
+San Bernardino County,201501,1.01
+San Bernardino County,201601,1.49
+San Bernardino County,201701,2.91
+San Bernardino County,201801,1.12
+San Bernardino County,201901,1.87
+San Diego County,201101,0.96
+San Diego County,201201,0.72
+San Diego County,201301,1.56
+San Diego County,201401,0.14
+San Diego County,201501,0.6
+San Diego County,201601,4.03
+San Diego County,201701,5.78
+San Diego County,201801,2.55
+San Diego County,201901,2.92
+San Francisco County,201101,1.45
+San Francisco County,201201,3.14
+San Francisco County,201301,0.59
+San Francisco County,201401,0.08
+San Francisco County,201501,0
+San Francisco County,201601,7.46
+San Francisco County,201701,10.63
+San Francisco County,201801,5.61
+San Francisco County,201901,5.57
+San Joaquin County,201101,1.02
+San Joaquin County,201201,1.69
+San Joaquin County,201301,1.2
+San Joaquin County,201401,0.21
+San Joaquin County,201501,0.01
+San Joaquin County,201601,4.86
+San Joaquin County,201701,7.4
+San Joaquin County,201801,3.12
+San Joaquin County,201901,2.73
+San Luis Obispo County,201101,1.88
+San Luis Obispo County,201201,2.4
+San Luis Obispo County,201301,0.94
+San Luis Obispo County,201401,0.01
+San Luis Obispo County,201501,0.35
+San Luis Obispo County,201601,5.29
+San Luis Obispo County,201701,10.07
+San Luis Obispo County,201801,2.47
+San Luis Obispo County,201901,5.58
+San Mateo County,201101,1.64
+San Mateo County,201201,3.43
+San Mateo County,201301,0.61
+San Mateo County,201401,0.07
+San Mateo County,201501,0.01
+San Mateo County,201601,8.05
+San Mateo County,201701,13.98
+San Mateo County,201801,6.24
+San Mateo County,201901,6.54
+Santa Barbara County,201101,1.24
+Santa Barbara County,201201,1.64
+Santa Barbara County,201301,1.18
+Santa Barbara County,201401,0.02
+Santa Barbara County,201501,0.95
+Santa Barbara County,201601,5.22
+Santa Barbara County,201701,8.75
+Santa Barbara County,201801,2.75
+Santa Barbara County,201901,7.52
+Santa Clara County,201101,1.85
+Santa Clara County,201201,3.07
+Santa Clara County,201301,0.98
+Santa Clara County,201401,0.2
+Santa Clara County,201501,0.01
+Santa Clara County,201601,7.73
+Santa Clara County,201701,12.68
+Santa Clara County,201801,4.74
+Santa Clara County,201901,5.45
+Santa Cruz County,201101,2.37
+Santa Cruz County,201201,4.11
+Santa Cruz County,201301,1.01
+Santa Cruz County,201401,0.08
+Santa Cruz County,201501,0
+Santa Cruz County,201601,11.48
+Santa Cruz County,201701,19.27
+Santa Cruz County,201801,6.08
+Santa Cruz County,201901,8.87
+Shasta County,201101,1.65
+Shasta County,201201,6.06
+Shasta County,201301,1.43
+Shasta County,201401,0.64
+Shasta County,201501,0.67
+Shasta County,201601,13.62
+Shasta County,201701,14.71
+Shasta County,201801,5.62
+Shasta County,201901,9.06
+Sierra County,201101,1.52
+Sierra County,201201,6.83
+Sierra County,201301,1
+Sierra County,201401,1.86
+Sierra County,201501,0.11
+Sierra County,201601,12.28
+Sierra County,201701,25.17
+Sierra County,201801,6.15
+Sierra County,201901,12
+Siskiyou County,201101,1.9
+Siskiyou County,201201,6.69
+Siskiyou County,201301,2.34
+Siskiyou County,201401,1.31
+Siskiyou County,201501,1.67
+Siskiyou County,201601,10.96
+Siskiyou County,201701,10.61
+Siskiyou County,201801,4.34
+Siskiyou County,201901,6.39
+Solano County,201101,1.52
+Solano County,201201,3.41
+Solano County,201301,0.72
+Solano County,201401,0.13
+Solano County,201501,0.02
+Solano County,201601,6.71
+Solano County,201701,12.48
+Solano County,201801,3.98
+Solano County,201901,5.94
+Sonoma County,201101,2.4
+Sonoma County,201201,8.08
+Sonoma County,201301,1.22
+Sonoma County,201401,0.25
+Sonoma County,201501,0.19
+Sonoma County,201601,12.73
+Sonoma County,201701,19.58
+Sonoma County,201801,7.92
+Sonoma County,201901,9.67
+Stanislaus County,201101,1.31
+Stanislaus County,201201,1.42
+Stanislaus County,201301,1.07
+Stanislaus County,201401,0.41
+Stanislaus County,201501,0.02
+Stanislaus County,201601,5.05
+Stanislaus County,201701,6.98
+Stanislaus County,201801,2.89
+Stanislaus County,201901,2.89
+Sutter County,201101,1.49
+Sutter County,201201,3.61
+Sutter County,201301,0.87
+Sutter County,201401,0.31
+Sutter County,201501,0.1
+Sutter County,201601,5.42
+Sutter County,201701,9.03
+Sutter County,201801,4.38
+Sutter County,201901,5.22
+Tehama County,201101,1.79
+Tehama County,201201,6.17
+Tehama County,201301,1.37
+Tehama County,201401,0.5
+Tehama County,201501,0.25
+Tehama County,201601,12.23
+Tehama County,201701,11.81
+Tehama County,201801,5.24
+Tehama County,201901,9.32
+Trinity County,201101,2.51
+Trinity County,201201,10.69
+Trinity County,201301,2.16
+Trinity County,201401,1.54
+Trinity County,201501,1.79
+Trinity County,201601,19.74
+Trinity County,201701,18.3
+Trinity County,201801,7.62
+Trinity County,201901,11.37
+Tulare County,201101,1.78
+Tulare County,201201,3.44
+Tulare County,201301,1.44
+Tulare County,201401,0.59
+Tulare County,201501,0.47
+Tulare County,201601,4.99
+Tulare County,201701,12.91
+Tulare County,201801,1.92
+Tulare County,201901,4.55
+Tuolumne County,201101,3.07
+Tuolumne County,201201,6.25
+Tuolumne County,201301,1.28
+Tuolumne County,201401,2.22
+Tuolumne County,201501,0.14
+Tuolumne County,201601,9.76
+Tuolumne County,201701,22.84
+Tuolumne County,201801,4.59
+Tuolumne County,201901,8.22
+Ventura County,201101,0.86
+Ventura County,201201,1.37
+Ventura County,201301,1.46
+Ventura County,201401,0.09
+Ventura County,201501,1.97
+Ventura County,201601,4.78
+Ventura County,201701,10.18
+Ventura County,201801,2.87
+Ventura County,201901,8.17
+Yolo County,201101,1.76
+Yolo County,201201,3.42
+Yolo County,201301,0.83
+Yolo County,201401,0.2
+Yolo County,201501,0.06
+Yolo County,201601,5.95
+Yolo County,201701,12.72
+Yolo County,201801,4.36
+Yolo County,201901,6.44
+Yuba County,201101,2.12
+Yuba County,201201,5.98
+Yuba County,201301,0.92
+Yuba County,201401,1.06
+Yuba County,201501,0.08
+Yuba County,201601,11.66
+Yuba County,201701,17.58
+Yuba County,201801,6.85
+Yuba County,201901,9.52
