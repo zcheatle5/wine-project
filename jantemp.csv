@@ -1,0 +1,523 @@
+County,Date,Temp
+Alameda County,201101,48.2
+Alameda County,201201,49.4
+Alameda County,201301,45.8
+Alameda County,201401,53.2
+Alameda County,201501,51.2
+Alameda County,201601,50
+Alameda County,201701,46.5
+Alameda County,201801,51.1
+Alameda County,201901,50.7
+Alpine County,201101,33.8
+Alpine County,201201,35.6
+Alpine County,201301,29
+Alpine County,201401,37.6
+Alpine County,201501,38.1
+Alpine County,201601,31.3
+Alpine County,201701,28.5
+Alpine County,201801,37.1
+Alpine County,201901,33.4
+Amador County,201101,45
+Amador County,201201,47.4
+Amador County,201301,42.9
+Amador County,201401,52.1
+Amador County,201501,50.2
+Amador County,201601,43.8
+Amador County,201701,40.9
+Amador County,201801,48.6
+Amador County,201901,46.7
+Butte County,201101,45.4
+Butte County,201201,47
+Butte County,201301,43.9
+Butte County,201401,52.6
+Butte County,201501,50.3
+Butte County,201601,45.4
+Butte County,201701,43.1
+Butte County,201801,48.8
+Butte County,201901,48
+Calaveras County,201101,44.8
+Calaveras County,201201,47.4
+Calaveras County,201301,42.9
+Calaveras County,201401,51.7
+Calaveras County,201501,50.1
+Calaveras County,201601,44.2
+Calaveras County,201701,41.7
+Calaveras County,201801,49.5
+Calaveras County,201901,47
+Colusa County,201101,46.8
+Colusa County,201201,47.7
+Colusa County,201301,45.5
+Colusa County,201401,53.3
+Colusa County,201501,50.8
+Colusa County,201601,47.3
+Colusa County,201701,44.9
+Colusa County,201801,49
+Colusa County,201901,48.4
+Contra Costa County,201101,47.5
+Contra Costa County,201201,49.3
+Contra Costa County,201301,45.9
+Contra Costa County,201401,54.4
+Contra Costa County,201501,51.4
+Contra Costa County,201601,49.1
+Contra Costa County,201701,45.9
+Contra Costa County,201801,50.6
+Contra Costa County,201901,50.2
+Del Norte County,201101,43.6
+Del Norte County,201201,42.3
+Del Norte County,201301,40.7
+Del Norte County,201401,45.8
+Del Norte County,201501,47.7
+Del Norte County,201601,40.9
+Del Norte County,201701,37.7
+Del Norte County,201801,43.9
+Del Norte County,201901,44.2
+El Dorado County,201101,42.8
+El Dorado County,201201,44.2
+El Dorado County,201301,39.4
+El Dorado County,201401,48.1
+El Dorado County,201501,47.2
+El Dorado County,201601,40.6
+El Dorado County,201701,38.1
+El Dorado County,201801,45.3
+El Dorado County,201901,43.3
+Fresno County,201101,41.2
+Fresno County,201201,43.6
+Fresno County,201301,39.4
+Fresno County,201401,47.6
+Fresno County,201501,44.2
+Fresno County,201601,41.9
+Fresno County,201701,39.7
+Fresno County,201801,45.9
+Fresno County,201901,43.7
+Glenn County,201101,46.1
+Glenn County,201201,46.8
+Glenn County,201301,44.6
+Glenn County,201401,52.7
+Glenn County,201501,50.5
+Glenn County,201601,46.3
+Glenn County,201701,43.5
+Glenn County,201801,48
+Glenn County,201901,47.6
+Humboldt County,201101,45.4
+Humboldt County,201201,43.4
+Humboldt County,201301,41.2
+Humboldt County,201401,45.7
+Humboldt County,201501,47.8
+Humboldt County,201601,46.4
+Humboldt County,201701,40.8
+Humboldt County,201801,46.4
+Humboldt County,201901,46
+Imperial County,201101,57
+Imperial County,201201,58.8
+Imperial County,201301,54.2
+Imperial County,201401,61.8
+Imperial County,201501,59.2
+Imperial County,201601,56.3
+Imperial County,201701,56.1
+Imperial County,201801,61.6
+Imperial County,201901,55.7
+Inyo County,201101,44.1
+Inyo County,201201,45.5
+Inyo County,201301,41
+Inyo County,201401,49
+Inyo County,201501,47.3
+Inyo County,201601,41.7
+Inyo County,201701,40.5
+Inyo County,201801,47.9
+Inyo County,201901,44.2
+Kern County,201101,45.9
+Kern County,201201,48.9
+Kern County,201301,44
+Kern County,201401,52.2
+Kern County,201501,49.4
+Kern County,201601,47
+Kern County,201701,44.9
+Kern County,201801,51.2
+Kern County,201901,47.9
+Kings County,201101,45.4
+Kings County,201201,48.3
+Kings County,201301,45.1
+Kings County,201401,51.7
+Kings County,201501,47.7
+Kings County,201601,49.8
+Kings County,201701,47.2
+Kings County,201801,51.3
+Kings County,201901,50.2
+Lake County,201101,46.6
+Lake County,201201,46
+Lake County,201301,43.8
+Lake County,201401,52.4
+Lake County,201501,51.1
+Lake County,201601,43.6
+Lake County,201701,42
+Lake County,201801,46.9
+Lake County,201901,46.6
+Lassen County,201101,33.3
+Lassen County,201201,34
+Lassen County,201301,25.4
+Lassen County,201401,37.3
+Lassen County,201501,38
+Lassen County,201601,31.4
+Lassen County,201701,27.3
+Lassen County,201801,37.1
+Lassen County,201901,33.9
+Los Angeles County,201101,51.5
+Los Angeles County,201201,53.6
+Los Angeles County,201301,48.3
+Los Angeles County,201401,56.9
+Los Angeles County,201501,54.5
+Los Angeles County,201601,50
+Los Angeles County,201701,48
+Los Angeles County,201801,55.6
+Los Angeles County,201901,50.7
+Madera County,201101,42.1
+Madera County,201201,44
+Madera County,201301,39.7
+Madera County,201401,47.6
+Madera County,201501,45.2
+Madera County,201601,42.7
+Madera County,201701,40.1
+Madera County,201801,46.7
+Madera County,201901,44.5
+Marin County,201101,49.3
+Marin County,201201,50.4
+Marin County,201301,47.4
+Marin County,201401,54.6
+Marin County,201501,53
+Marin County,201601,50.6
+Marin County,201701,47.8
+Marin County,201801,51.4
+Marin County,201901,51.9
+Mariposa County,201101,42.2
+Mariposa County,201201,44.8
+Mariposa County,201301,39.8
+Mariposa County,201401,48.4
+Mariposa County,201501,46.7
+Mariposa County,201601,40.8
+Mariposa County,201701,38.5
+Mariposa County,201801,46.9
+Mariposa County,201901,43.6
+Mendocino County,201101,46.6
+Mendocino County,201201,45.2
+Mendocino County,201301,43.4
+Mendocino County,201401,49.6
+Mendocino County,201501,49.8
+Mendocino County,201601,46.3
+Mendocino County,201701,42.9
+Mendocino County,201801,47.3
+Mendocino County,201901,47.2
+Merced County,201101,45.2
+Merced County,201201,48.8
+Merced County,201301,45.3
+Merced County,201401,52
+Merced County,201501,48
+Merced County,201601,49.5
+Merced County,201701,46.9
+Merced County,201801,51.6
+Merced County,201901,50.2
+Modoc County,201101,32.7
+Modoc County,201201,33.6
+Modoc County,201301,26.9
+Modoc County,201401,36.9
+Modoc County,201501,38.7
+Modoc County,201601,31.4
+Modoc County,201701,27
+Modoc County,201801,37.3
+Modoc County,201901,34.6
+Mono County,201101,31.1
+Mono County,201201,33.4
+Mono County,201301,26.6
+Mono County,201401,36
+Mono County,201501,36
+Mono County,201601,28.8
+Mono County,201701,25.2
+Mono County,201801,35.4
+Mono County,201901,31.5
+Monterey County,201101,50.3
+Monterey County,201201,50.1
+Monterey County,201301,47.2
+Monterey County,201401,54.9
+Monterey County,201501,53.2
+Monterey County,201601,50.6
+Monterey County,201701,47.8
+Monterey County,201801,53.2
+Monterey County,201901,50.9
+Napa County,201101,47.4
+Napa County,201201,48.1
+Napa County,201301,45.4
+Napa County,201401,53.1
+Napa County,201501,51.2
+Napa County,201601,48.2
+Napa County,201701,45.6
+Napa County,201801,49.6
+Napa County,201901,49.8
+Nevada County,201101,40.5
+Nevada County,201201,41.6
+Nevada County,201301,37.4
+Nevada County,201401,45.6
+Nevada County,201501,45.3
+Nevada County,201601,38.3
+Nevada County,201701,35.8
+Nevada County,201801,42.8
+Nevada County,201901,40.6
+Orange County,201101,58.3
+Orange County,201201,59.5
+Orange County,201301,54.7
+Orange County,201401,62.3
+Orange County,201501,60.7
+Orange County,201601,55.9
+Orange County,201701,55
+Orange County,201801,61.8
+Orange County,201901,57
+Placer County,201101,41.6
+Placer County,201201,42.9
+Placer County,201301,38.8
+Placer County,201401,46.7
+Placer County,201501,46
+Placer County,201601,40
+Placer County,201701,37.4
+Placer County,201801,44
+Placer County,201901,42.3
+Plumas County,201101,34.6
+Plumas County,201201,35.4
+Plumas County,201301,28.4
+Plumas County,201401,37.9
+Plumas County,201501,38.7
+Plumas County,201601,33.8
+Plumas County,201701,30
+Plumas County,201801,37.3
+Plumas County,201901,35.5
+Riverside County,201101,53.7
+Riverside County,201201,55.6
+Riverside County,201301,50.6
+Riverside County,201401,58.5
+Riverside County,201501,55.6
+Riverside County,201601,52
+Riverside County,201701,51.3
+Riverside County,201801,57.9
+Riverside County,201901,52.7
+Sacramento County,201101,46.1
+Sacramento County,201201,48.6
+Sacramento County,201301,45.2
+Sacramento County,201401,52.1
+Sacramento County,201501,50.1
+Sacramento County,201601,49.6
+Sacramento County,201701,46.4
+Sacramento County,201801,50.3
+Sacramento County,201901,50.6
+San Benito County,201101,48.1
+San Benito County,201201,49.3
+San Benito County,201301,45.3
+San Benito County,201401,54.2
+San Benito County,201501,51.6
+San Benito County,201601,47.7
+San Benito County,201701,45.1
+San Benito County,201801,51.6
+San Benito County,201901,48.7
+San Bernardino County,201101,49.2
+San Bernardino County,201201,51.6
+San Bernardino County,201301,45.8
+San Bernardino County,201401,54.6
+San Bernardino County,201501,52.1
+San Bernardino County,201601,48
+San Bernardino County,201701,46.6
+San Bernardino County,201801,54
+San Bernardino County,201901,49
+San Diego County,201101,53.7
+San Diego County,201201,55.3
+San Diego County,201301,49.8
+San Diego County,201401,58.1
+San Diego County,201501,55.5
+San Diego County,201601,51.9
+San Diego County,201701,50.7
+San Diego County,201801,57.9
+San Diego County,201901,52.6
+San Francisco County,201101,50.6
+San Francisco County,201201,51
+San Francisco County,201301,48.2
+San Francisco County,201401,54.8
+San Francisco County,201501,54
+San Francisco County,201601,52.2
+San Francisco County,201701,49.1
+San Francisco County,201801,52.9
+San Francisco County,201901,53.1
+San Joaquin County,201101,46
+San Joaquin County,201201,48.4
+San Joaquin County,201301,45
+San Joaquin County,201401,51.7
+San Joaquin County,201501,49.6
+San Joaquin County,201601,50
+San Joaquin County,201701,47.2
+San Joaquin County,201801,51.8
+San Joaquin County,201901,50.9
+San Luis Obispo County,201101,50
+San Luis Obispo County,201201,50.2
+San Luis Obispo County,201301,47.3
+San Luis Obispo County,201401,54.3
+San Luis Obispo County,201501,52.3
+San Luis Obispo County,201601,50.3
+San Luis Obispo County,201701,48.2
+San Luis Obispo County,201801,53.9
+San Luis Obispo County,201901,50.9
+San Mateo County,201101,50.8
+San Mateo County,201201,50.6
+San Mateo County,201301,48.3
+San Mateo County,201401,54.1
+San Mateo County,201501,53.6
+San Mateo County,201601,51.6
+San Mateo County,201701,48.7
+San Mateo County,201801,52.7
+San Mateo County,201901,52.4
+Santa Barbara County,201101,52
+Santa Barbara County,201201,52.5
+Santa Barbara County,201301,48.4
+Santa Barbara County,201401,56.4
+Santa Barbara County,201501,54.6
+Santa Barbara County,201601,51.1
+Santa Barbara County,201701,48.8
+Santa Barbara County,201801,55.2
+Santa Barbara County,201901,51.7
+Santa Clara County,201101,49
+Santa Clara County,201201,49.3
+Santa Clara County,201301,46.1
+Santa Clara County,201401,52.5
+Santa Clara County,201501,51.2
+Santa Clara County,201601,48.7
+Santa Clara County,201701,45.7
+Santa Clara County,201801,51.3
+Santa Clara County,201901,49.9
+Santa Cruz County,201101,50.8
+Santa Cruz County,201201,50.4
+Santa Cruz County,201301,48.4
+Santa Cruz County,201401,55
+Santa Cruz County,201501,54.3
+Santa Cruz County,201601,51.4
+Santa Cruz County,201701,48.3
+Santa Cruz County,201801,52.9
+Santa Cruz County,201901,52.3
+Shasta County,201101,42.6
+Shasta County,201201,41.7
+Shasta County,201301,38.8
+Shasta County,201401,46.5
+Shasta County,201501,47
+Shasta County,201601,39.8
+Shasta County,201701,37.4
+Shasta County,201801,44.1
+Shasta County,201901,43.2
+Sierra County,201101,35.3
+Sierra County,201201,36.6
+Sierra County,201301,30.5
+Sierra County,201401,39.2
+Sierra County,201501,40
+Sierra County,201601,33.4
+Sierra County,201701,30.7
+Sierra County,201801,38.2
+Sierra County,201901,35.8
+Siskiyou County,201101,37.1
+Siskiyou County,201201,36
+Siskiyou County,201301,33.2
+Siskiyou County,201401,39.5
+Siskiyou County,201501,41.6
+Siskiyou County,201601,34.6
+Siskiyou County,201701,31.3
+Siskiyou County,201801,38.8
+Siskiyou County,201901,38.2
+Solano County,201101,46.8
+Solano County,201201,48.7
+Solano County,201301,45.4
+Solano County,201401,52.6
+Solano County,201501,50.3
+Solano County,201601,49.7
+Solano County,201701,46.6
+Solano County,201801,50.2
+Solano County,201901,50.8
+Sonoma County,201101,48.6
+Sonoma County,201201,48.7
+Sonoma County,201301,46.4
+Sonoma County,201401,53.5
+Sonoma County,201501,52.3
+Sonoma County,201601,49
+Sonoma County,201701,46.3
+Sonoma County,201801,50.2
+Sonoma County,201901,50.5
+Stanislaus County,201101,45.5
+Stanislaus County,201201,47.9
+Stanislaus County,201301,44.8
+Stanislaus County,201401,51.5
+Stanislaus County,201501,48.4
+Stanislaus County,201601,49.2
+Stanislaus County,201701,46.8
+Stanislaus County,201801,51.5
+Stanislaus County,201901,50.1
+Sutter County,201101,46.3
+Sutter County,201201,48.5
+Sutter County,201301,45.4
+Sutter County,201401,52.6
+Sutter County,201501,50.2
+Sutter County,201601,49.1
+Sutter County,201701,46.4
+Sutter County,201801,50
+Sutter County,201901,49.9
+Tehama County,201101,45.8
+Tehama County,201201,45.7
+Tehama County,201301,43.8
+Tehama County,201401,52.1
+Tehama County,201501,50.4
+Tehama County,201601,44.1
+Tehama County,201701,41.8
+Tehama County,201801,47.2
+Tehama County,201901,46.5
+Trinity County,201101,41.3
+Trinity County,201201,38.9
+Trinity County,201301,37.5
+Trinity County,201401,42.8
+Trinity County,201501,44.7
+Trinity County,201601,40.1
+Trinity County,201701,36.3
+Trinity County,201801,42.1
+Trinity County,201901,41.6
+Tulare County,201101,39.9
+Tulare County,201201,42.8
+Tulare County,201301,38.1
+Tulare County,201401,46.2
+Tulare County,201501,43.2
+Tulare County,201601,40.1
+Tulare County,201701,38.2
+Tulare County,201801,44.7
+Tulare County,201901,41.8
+Tuolumne County,201101,38
+Tuolumne County,201201,40.8
+Tuolumne County,201301,35.8
+Tuolumne County,201401,44.3
+Tuolumne County,201501,43.4
+Tuolumne County,201601,36.7
+Tuolumne County,201701,34.2
+Tuolumne County,201801,42.7
+Tuolumne County,201901,39.4
+Ventura County,201101,50
+Ventura County,201201,51.2
+Ventura County,201301,47.2
+Ventura County,201401,55.1
+Ventura County,201501,52.7
+Ventura County,201601,48.7
+Ventura County,201701,46.7
+Ventura County,201801,54.4
+Ventura County,201901,49.8
+Yolo County,201101,46.4
+Yolo County,201201,48.6
+Yolo County,201301,45.1
+Yolo County,201401,52.9
+Yolo County,201501,50.1
+Yolo County,201601,48.9
+Yolo County,201701,46.1
+Yolo County,201801,49.7
+Yolo County,201901,50.1
+Yuba County,201101,46.4
+Yuba County,201201,47.9
+Yuba County,201301,44.6
+Yuba County,201401,52.9
+Yuba County,201501,50.8
+Yuba County,201601,46.3
+Yuba County,201701,43.8
+Yuba County,201801,49.2
+Yuba County,201901,48.5
