@@ -1,0 +1,523 @@
+,County,Temp,Year
+0,Alameda,57.9,2011
+1,Alameda,59.3,2012
+2,Alameda,59.5,2013
+3,Alameda,62.0,2014
+4,Alameda,61.1,2015
+5,Alameda,60.4,2016
+6,Alameda,60.5,2017
+7,Alameda,59.8,2018
+8,Alameda,59.6,2019
+9,Alpine,42.7,2011
+10,Alpine,45.1,2012
+11,Alpine,44.6,2013
+12,Alpine,46.8,2014
+13,Alpine,46.4,2015
+14,Alpine,45.9,2016
+15,Alpine,45.4,2017
+16,Alpine,45.7,2018
+17,Alpine,43.5,2019
+18,Amador,56.1,2011
+19,Amador,58.5,2012
+20,Amador,59.1,2013
+21,Amador,61.0,2014
+22,Amador,60.4,2015
+23,Amador,59.2,2016
+24,Amador,59.5,2017
+25,Amador,59.7,2018
+26,Amador,57.9,2019
+27,Butte,58.2,2011
+28,Butte,59.8,2012
+29,Butte,60.4,2013
+30,Butte,62.4,2014
+31,Butte,62.0,2015
+32,Butte,60.8,2016
+33,Butte,61.1,2017
+34,Butte,61.0,2018
+35,Butte,60.2,2019
+36,Calaveras,56.5,2011
+37,Calaveras,59.0,2012
+38,Calaveras,59.3,2013
+39,Calaveras,61.1,2014
+40,Calaveras,60.7,2015
+41,Calaveras,59.5,2016
+42,Calaveras,60.0,2017
+43,Calaveras,60.0,2018
+44,Calaveras,58.3,2019
+45,Colusa,60.0,2011
+46,Colusa,61.6,2012
+47,Colusa,62.1,2013
+48,Colusa,64.4,2014
+49,Colusa,63.9,2015
+50,Colusa,62.5,2016
+51,Colusa,62.9,2017
+52,Colusa,62.5,2018
+53,Colusa,61.7,2019
+54,Contra Costa,58.7,2011
+55,Contra Costa,60.2,2012
+56,Contra Costa,60.7,2013
+57,Contra Costa,62.7,2014
+58,Contra Costa,62.0,2015
+59,Contra Costa,61.2,2016
+60,Contra Costa,61.5,2017
+61,Contra Costa,61.0,2018
+62,Contra Costa,60.5,2019
+63,Del Norte,51.3,2011
+64,Del Norte,51.8,2012
+65,Del Norte,52.9,2013
+66,Del Norte,54.9,2014
+67,Del Norte,54.7,2015
+68,Del Norte,52.9,2016
+69,Del Norte,52.4,2017
+70,Del Norte,52.9,2018
+71,Del Norte,52.1,2019
+72,El Dorado,52.4,2011
+73,El Dorado,54.7,2012
+74,El Dorado,55.0,2013
+75,El Dorado,56.7,2014
+76,El Dorado,56.3,2015
+77,El Dorado,55.2,2016
+78,El Dorado,55.3,2017
+79,El Dorado,55.4,2018
+80,El Dorado,53.6,2019
+81,Fresno,54.3,2011
+82,Fresno,56.7,2012
+83,Fresno,56.8,2013
+84,Fresno,59.0,2014
+85,Fresno,57.6,2015
+86,Fresno,57.3,2016
+87,Fresno,57.3,2017
+88,Fresno,57.4,2018
+89,Fresno,55.9,2019
+90,Glenn,58.9,2011
+91,Glenn,60.2,2012
+92,Glenn,60.8,2013
+93,Glenn,62.8,2014
+94,Glenn,63.3,2015
+95,Glenn,60.9,2016
+96,Glenn,61.1,2017
+97,Glenn,61.0,2018
+98,Glenn,60.5,2019
+99,Humboldt,53.0,2011
+100,Humboldt,54.1,2012
+101,Humboldt,54.2,2013
+102,Humboldt,56.7,2014
+103,Humboldt,56.5,2015
+104,Humboldt,55.8,2016
+105,Humboldt,54.8,2017
+106,Humboldt,54.8,2018
+107,Humboldt,54.5,2019
+108,Imperial,73.3,2011
+109,Imperial,75.2,2012
+110,Imperial,74.4,2013
+111,Imperial,76.5,2014
+112,Imperial,75.9,2015
+113,Imperial,75.5,2016
+114,Imperial,76.3,2017
+115,Imperial,75.3,2018
+116,Imperial,72.8,2019
+117,Inyo,59.9,2011
+118,Inyo,62.5,2012
+119,Inyo,61.8,2013
+120,Inyo,63.6,2014
+121,Inyo,62.4,2015
+122,Inyo,62.3,2016
+123,Inyo,62.6,2017
+124,Inyo,62.7,2018
+125,Inyo,60.0,2019
+126,Kern,60.7,2011
+127,Kern,63.2,2012
+128,Kern,62.9,2013
+129,Kern,65.0,2014
+130,Kern,63.8,2015
+131,Kern,63.6,2016
+132,Kern,63.8,2017
+133,Kern,63.6,2018
+134,Kern,61.7,2019
+135,Kings,62.2,2011
+136,Kings,64.5,2012
+137,Kings,64.5,2013
+138,Kings,67.2,2014
+139,Kings,65.7,2015
+140,Kings,65.7,2016
+141,Kings,65.6,2017
+142,Kings,65.2,2018
+143,Kings,64.4,2019
+144,Lake,56.0,2011
+145,Lake,57.1,2012
+146,Lake,58.2,2013
+147,Lake,60.1,2014
+148,Lake,59.9,2015
+149,Lake,58.0,2016
+150,Lake,58.5,2017
+151,Lake,58.5,2018
+152,Lake,57.3,2019
+153,Lassen,45.9,2011
+154,Lassen,48.3,2012
+155,Lassen,47.3,2013
+156,Lassen,50.1,2014
+157,Lassen,49.7,2015
+158,Lassen,48.5,2016
+159,Lassen,48.3,2017
+160,Lassen,48.0,2018
+161,Lassen,46.6,2019
+162,Los Angeles,60.7,2011
+163,Los Angeles,62.9,2012
+164,Los Angeles,62.8,2013
+165,Los Angeles,64.8,2014
+166,Los Angeles,64.1,2015
+167,Los Angeles,63.7,2016
+168,Los Angeles,64.1,2017
+169,Los Angeles,63.5,2018
+170,Los Angeles,61.1,2019
+171,Madera,54.8,2011
+172,Madera,57.3,2012
+173,Madera,57.2,2013
+174,Madera,59.3,2014
+175,Madera,58.4,2015
+176,Madera,57.9,2016
+177,Madera,57.8,2017
+178,Madera,57.7,2018
+179,Madera,56.4,2019
+180,Marin,54.7,2011
+181,Marin,55.6,2012
+182,Marin,56.3,2013
+183,Marin,58.8,2014
+184,Marin,58.3,2015
+185,Marin,57.1,2016
+186,Marin,57.5,2017
+187,Marin,56.7,2018
+188,Marin,56.9,2019
+189,Mariposa,53.8,2011
+190,Mariposa,56.4,2012
+191,Mariposa,56.3,2013
+192,Mariposa,58.4,2014
+193,Mariposa,57.5,2015
+194,Mariposa,56.9,2016
+195,Mariposa,57.0,2017
+196,Mariposa,56.9,2018
+197,Mariposa,55.0,2019
+198,Mendocino,54.3,2011
+199,Mendocino,55.4,2012
+200,Mendocino,56.0,2013
+201,Mendocino,58.1,2014
+202,Mendocino,58.0,2015
+203,Mendocino,56.6,2016
+204,Mendocino,56.6,2017
+205,Mendocino,56.2,2018
+206,Mendocino,55.8,2019
+207,Merced,60.8,2011
+208,Merced,63.2,2012
+209,Merced,63.0,2013
+210,Merced,65.1,2014
+211,Merced,64.0,2015
+212,Merced,64.0,2016
+213,Merced,64.0,2017
+214,Merced,63.4,2018
+215,Merced,63.0,2019
+216,Modoc,45.5,2011
+217,Modoc,47.6,2012
+218,Modoc,46.8,2013
+219,Modoc,49.7,2014
+220,Modoc,49.8,2015
+221,Modoc,48.4,2016
+222,Modoc,48.2,2017
+223,Modoc,48.0,2018
+224,Modoc,46.7,2019
+225,Mono,43.2,2011
+226,Mono,46.0,2012
+227,Mono,45.3,2013
+228,Mono,47.2,2014
+229,Mono,46.4,2015
+230,Mono,46.3,2016
+231,Mono,45.8,2017
+232,Mono,46.1,2018
+233,Mono,43.5,2019
+234,Monterey,57.5,2011
+235,Monterey,58.8,2012
+236,Monterey,59.1,2013
+237,Monterey,61.7,2014
+238,Monterey,60.8,2015
+239,Monterey,60.0,2016
+240,Monterey,60.4,2017
+241,Monterey,59.9,2018
+242,Monterey,59.2,2019
+243,Napa,58.2,2011
+244,Napa,59.5,2012
+245,Napa,60.1,2013
+246,Napa,62.0,2014
+247,Napa,61.6,2015
+248,Napa,60.4,2016
+249,Napa,60.8,2017
+250,Napa,60.4,2018
+251,Napa,60.0,2019
+252,Nevada,50.7,2011
+253,Nevada,53.0,2012
+254,Nevada,53.2,2013
+255,Nevada,55.0,2014
+256,Nevada,54.8,2015
+257,Nevada,53.4,2016
+258,Nevada,53.7,2017
+259,Nevada,53.8,2018
+260,Nevada,52.0,2019
+261,Orange,63.2,2011
+262,Orange,65.0,2012
+263,Orange,64.3,2013
+264,Orange,67.0,2014
+265,Orange,67.0,2015
+266,Orange,66.1,2016
+267,Orange,66.3,2017
+268,Orange,65.8,2018
+269,Orange,63.9,2019
+270,Placer,52.2,2011
+271,Placer,54.4,2012
+272,Placer,54.6,2013
+273,Placer,56.4,2014
+274,Placer,56.0,2015
+275,Placer,55.0,2016
+276,Placer,55.0,2017
+277,Placer,55.0,2018
+278,Placer,53.4,2019
+279,Plumas,46.3,2011
+280,Plumas,48.5,2012
+281,Plumas,47.9,2013
+282,Plumas,50.3,2014
+283,Plumas,50.0,2015
+284,Plumas,48.9,2016
+285,Plumas,48.7,2017
+286,Plumas,48.6,2018
+287,Plumas,47.1,2019
+288,Riverside,67.5,2011
+289,Riverside,69.7,2012
+290,Riverside,68.9,2013
+291,Riverside,70.8,2014
+292,Riverside,70.0,2015
+293,Riverside,70.1,2016
+294,Riverside,70.7,2017
+295,Riverside,70.2,2018
+296,Riverside,67.6,2019
+297,Sacramento,60.5,2011
+298,Sacramento,62.4,2012
+299,Sacramento,62.7,2013
+300,Sacramento,64.9,2014
+301,Sacramento,64.1,2015
+302,Sacramento,63.5,2016
+303,Sacramento,63.7,2017
+304,Sacramento,62.9,2018
+305,Sacramento,62.8,2019
+306,San Benito,57.6,2011
+307,San Benito,59.5,2012
+308,San Benito,59.7,2013
+309,San Benito,62.2,2014
+310,San Benito,61.1,2015
+311,San Benito,60.4,2016
+312,San Benito,60.7,2017
+313,San Benito,60.3,2018
+314,San Benito,59.1,2019
+315,San Bernardino,65.5,2011
+316,San Bernardino,68.0,2012
+317,San Bernardino,67.0,2013
+318,San Bernardino,69.0,2014
+319,San Bernardino,68.1,2015
+320,San Bernardino,68.1,2016
+321,San Bernardino,68.7,2017
+322,San Bernardino,68.4,2018
+323,San Bernardino,65.5,2019
+324,San Diego,62.0,2011
+325,San Diego,63.9,2012
+326,San Diego,63.4,2013
+327,San Diego,65.9,2014
+328,San Diego,64.9,2015
+329,San Diego,64.8,2016
+330,San Diego,65.2,2017
+331,San Diego,64.8,2018
+332,San Diego,62.5,2019
+333,San Francisco,56.1,2011
+334,San Francisco,56.5,2012
+335,San Francisco,57.1,2013
+336,San Francisco,59.9,2014
+337,San Francisco,59.4,2015
+338,San Francisco,58.3,2016
+339,San Francisco,58.5,2017
+340,San Francisco,57.6,2018
+341,San Francisco,57.9,2019
+342,San Joaquin,60.4,2011
+343,San Joaquin,62.2,2012
+344,San Joaquin,62.2,2013
+345,San Joaquin,64.5,2014
+346,San Joaquin,63.9,2015
+347,San Joaquin,63.3,2016
+348,San Joaquin,63.7,2017
+349,San Joaquin,63.3,2018
+350,San Joaquin,62.7,2019
+351,San Luis Obispo,58.4,2011
+352,San Luis Obispo,60.2,2012
+353,San Luis Obispo,60.6,2013
+354,San Luis Obispo,62.7,2014
+355,San Luis Obispo,61.4,2015
+356,San Luis Obispo,61.1,2016
+357,San Luis Obispo,61.7,2017
+358,San Luis Obispo,61.1,2018
+359,San Luis Obispo,59.7,2019
+360,San Mateo,56.0,2011
+361,San Mateo,56.6,2012
+362,San Mateo,57.2,2013
+363,San Mateo,59.6,2014
+364,San Mateo,59.2,2015
+365,San Mateo,58.2,2016
+366,San Mateo,58.4,2017
+367,San Mateo,57.6,2018
+368,San Mateo,57.9,2019
+369,Santa Barbara,57.6,2011
+370,Santa Barbara,59.0,2012
+371,Santa Barbara,59.0,2013
+372,Santa Barbara,61.8,2014
+373,Santa Barbara,61.2,2015
+374,Santa Barbara,60.4,2016
+375,Santa Barbara,60.7,2017
+376,Santa Barbara,60.2,2018
+377,Santa Barbara,58.9,2019
+378,Santa Clara,57.2,2011
+379,Santa Clara,58.6,2012
+380,Santa Clara,58.9,2013
+381,Santa Clara,61.0,2014
+382,Santa Clara,60.4,2015
+383,Santa Clara,59.9,2016
+384,Santa Clara,59.8,2017
+385,Santa Clara,59.5,2018
+386,Santa Clara,59.0,2019
+387,Santa Cruz,56.5,2011
+388,Santa Cruz,56.9,2012
+389,Santa Cruz,58.0,2013
+390,Santa Cruz,60.2,2014
+391,Santa Cruz,60.1,2015
+392,Santa Cruz,58.9,2016
+393,Santa Cruz,58.9,2017
+394,Santa Cruz,58.4,2018
+395,Santa Cruz,58.5,2019
+396,Shasta,53.8,2011
+397,Shasta,55.3,2012
+398,Shasta,56.2,2013
+399,Shasta,57.9,2014
+400,Shasta,58.0,2015
+401,Shasta,56.3,2016
+402,Shasta,56.6,2017
+403,Shasta,56.6,2018
+404,Shasta,55.2,2019
+405,Sierra,45.9,2011
+406,Sierra,48.2,2012
+407,Sierra,47.8,2013
+408,Sierra,50.0,2014
+409,Sierra,49.7,2015
+410,Sierra,48.6,2016
+411,Sierra,48.7,2017
+412,Sierra,48.7,2018
+413,Sierra,46.9,2019
+414,Siskiyou,47.6,2011
+415,Siskiyou,49.3,2012
+416,Siskiyou,49.8,2013
+417,Siskiyou,51.8,2014
+418,Siskiyou,51.9,2015
+419,Siskiyou,50.1,2016
+420,Siskiyou,50.0,2017
+421,Siskiyou,50.3,2018
+422,Siskiyou,49.0,2019
+423,Solano,59.5,2011
+424,Solano,61.1,2012
+425,Solano,61.5,2013
+426,Solano,63.5,2014
+427,Solano,62.8,2015
+428,Solano,61.9,2016
+429,Solano,62.2,2017
+430,Solano,61.6,2018
+431,Solano,61.6,2019
+432,Sonoma,55.9,2011
+433,Sonoma,56.9,2012
+434,Sonoma,57.5,2013
+435,Sonoma,59.7,2014
+436,Sonoma,59.4,2015
+437,Sonoma,58.2,2016
+438,Sonoma,58.5,2017
+439,Sonoma,58.1,2018
+440,Sonoma,57.9,2019
+441,Stanislaus,59.9,2011
+442,Stanislaus,61.9,2012
+443,Stanislaus,61.9,2013
+444,Stanislaus,64.0,2014
+445,Stanislaus,63.1,2015
+446,Stanislaus,63.2,2016
+447,Stanislaus,63.4,2017
+448,Stanislaus,62.9,2018
+449,Stanislaus,62.4,2019
+450,Sutter,61.3,2011
+451,Sutter,63.3,2012
+452,Sutter,63.5,2013
+453,Sutter,65.6,2014
+454,Sutter,65.0,2015
+455,Sutter,64.3,2016
+456,Sutter,64.6,2017
+457,Sutter,63.7,2018
+458,Sutter,63.3,2019
+459,Tehama,57.2,2011
+460,Tehama,58.8,2012
+461,Tehama,60.0,2013
+462,Tehama,61.5,2014
+463,Tehama,61.3,2015
+464,Tehama,59.7,2016
+465,Tehama,60.1,2017
+466,Tehama,60.1,2018
+467,Tehama,58.8,2019
+468,Trinity,51.2,2011
+469,Trinity,52.6,2012
+470,Trinity,53.4,2013
+471,Trinity,55.4,2014
+472,Trinity,55.6,2015
+473,Trinity,54.0,2016
+474,Trinity,53.7,2017
+475,Trinity,53.8,2018
+476,Trinity,52.9,2019
+477,Tulare,53.2,2011
+478,Tulare,55.6,2012
+479,Tulare,55.6,2013
+480,Tulare,57.6,2014
+481,Tulare,56.2,2015
+482,Tulare,55.8,2016
+483,Tulare,56.0,2017
+484,Tulare,55.9,2018
+485,Tulare,54.2,2019
+486,Tuolumne,48.5,2011
+487,Tuolumne,51.5,2012
+488,Tuolumne,51.0,2013
+489,Tuolumne,53.1,2014
+490,Tuolumne,52.5,2015
+491,Tuolumne,51.8,2016
+492,Tuolumne,51.8,2017
+493,Tuolumne,51.9,2018
+494,Tuolumne,49.8,2019
+495,Ventura,57.0,2011
+496,Ventura,58.9,2012
+497,Ventura,59.4,2013
+498,Ventura,61.0,2014
+499,Ventura,60.7,2015
+500,Ventura,59.7,2016
+501,Ventura,60.3,2017
+502,Ventura,59.5,2018
+503,Ventura,58.2,2019
+504,Yolo,60.5,2011
+505,Yolo,62.2,2012
+506,Yolo,62.5,2013
+507,Yolo,64.7,2014
+508,Yolo,63.9,2015
+509,Yolo,63.1,2016
+510,Yolo,63.1,2017
+511,Yolo,62.4,2018
+512,Yolo,62.2,2019
+513,Yuba,59.1,2011
+514,Yuba,61.1,2012
+515,Yuba,61.5,2013
+516,Yuba,63.4,2014
+517,Yuba,63.0,2015
+518,Yuba,61.7,2016
+519,Yuba,62.3,2017
+520,Yuba,62.0,2018
+521,Yuba,60.9,2019

@@ -1,0 +1,523 @@
+,County,Total Pcp,Year
+0,Alameda,14.53,2011
+1,Alameda,20.78,2012
+2,Alameda,5.08,2013
+3,Alameda,19.88,2014
+4,Alameda,10.39,2015
+5,Alameda,22.55,2016
+6,Alameda,24.97,2017
+7,Alameda,16.57,2018
+8,Alameda,22.29,2019
+9,Alpine,33.58,2011
+10,Alpine,35.65,2012
+11,Alpine,13.55,2013
+12,Alpine,29.38,2014
+13,Alpine,30.36,2015
+14,Alpine,39.63,2016
+15,Alpine,64.24,2017
+16,Alpine,32.2,2018
+17,Alpine,47.21,2019
+18,Amador,33.13,2011
+19,Amador,40.6,2012
+20,Amador,12.25,2013
+21,Amador,31.29,2014
+22,Amador,26.66,2015
+23,Amador,41.01,2016
+24,Amador,55.94,2017
+25,Amador,34.04,2018
+26,Amador,48.65,2019
+27,Butte,38.73,2011
+28,Butte,53.46,2012
+29,Butte,12.19,2013
+30,Butte,43.72,2014
+31,Butte,20.74,2015
+32,Butte,55.96,2016
+33,Butte,56.41,2017
+34,Butte,34.51,2018
+35,Butte,60.1,2019
+36,Calaveras,32.11,2011
+37,Calaveras,37.79,2012
+38,Calaveras,11.14,2013
+39,Calaveras,29.56,2014
+40,Calaveras,25.26,2015
+41,Calaveras,40.49,2016
+42,Calaveras,51.55,2017
+43,Calaveras,32.63,2018
+44,Calaveras,48.25,2019
+45,Colusa,22.35,2011
+46,Colusa,29.95,2012
+47,Colusa,8.22,2013
+48,Colusa,28.67,2014
+49,Colusa,11.92,2015
+50,Colusa,25.49,2016
+51,Colusa,27.44,2017
+52,Colusa,18.08,2018
+53,Colusa,32.89,2019
+54,Contra Costa,15.69,2011
+55,Contra Costa,23.25,2012
+56,Contra Costa,5.27,2013
+57,Contra Costa,21.07,2014
+58,Contra Costa,9.28,2015
+59,Contra Costa,22.55,2016
+60,Contra Costa,26.84,2017
+61,Contra Costa,17.52,2018
+62,Contra Costa,23.29,2019
+63,Del Norte,67.35,2011
+64,Del Norte,102.62,2012
+65,Del Norte,35.0,2013
+66,Del Norte,67.16,2014
+67,Del Norte,69.35,2015
+68,Del Norte,97.59,2016
+69,Del Norte,92.56,2017
+70,Del Norte,54.46,2018
+71,Del Norte,79.65,2019
+72,El Dorado,41.67,2011
+73,El Dorado,52.88,2012
+74,El Dorado,16.06,2013
+75,El Dorado,39.91,2014
+76,El Dorado,32.49,2015
+77,El Dorado,53.14,2016
+78,El Dorado,73.52,2017
+79,El Dorado,40.29,2018
+80,El Dorado,60.52,2019
+81,Fresno,17.62,2011
+82,Fresno,16.34,2012
+83,Fresno,5.29,2013
+84,Fresno,12.44,2014
+85,Fresno,12.23,2015
+86,Fresno,19.6,2016
+87,Fresno,27.16,2017
+88,Fresno,16.87,2018
+89,Fresno,25.12,2019
+90,Glenn,22.55,2011
+91,Glenn,28.93,2012
+92,Glenn,7.59,2013
+93,Glenn,31.68,2014
+94,Glenn,12.36,2015
+95,Glenn,29.61,2016
+96,Glenn,28.56,2017
+97,Glenn,18.95,2018
+98,Glenn,39.12,2019
+99,Humboldt,51.17,2011
+100,Humboldt,74.5,2012
+101,Humboldt,21.3,2013
+102,Humboldt,54.59,2014
+103,Humboldt,50.55,2015
+104,Humboldt,79.86,2016
+105,Humboldt,76.72,2017
+106,Humboldt,48.62,2018
+107,Humboldt,71.48,2019
+108,Imperial,2.53,2011
+109,Imperial,2.48,2012
+110,Imperial,3.6,2013
+111,Imperial,2.06,2014
+112,Imperial,2.21,2015
+113,Imperial,3.06,2016
+114,Imperial,2.82,2017
+115,Imperial,2.07,2018
+116,Imperial,3.76,2019
+117,Inyo,3.92,2011
+118,Inyo,4.06,2012
+119,Inyo,3.52,2013
+120,Inyo,4.68,2014
+121,Inyo,5.17,2015
+122,Inyo,4.91,2016
+123,Inyo,7.68,2017
+124,Inyo,4.52,2018
+125,Inyo,10.0,2019
+126,Kern,6.71,2011
+127,Kern,5.81,2012
+128,Kern,3.6,2013
+129,Kern,6.17,2014
+130,Kern,5.56,2015
+131,Kern,9.21,2016
+132,Kern,9.68,2017
+133,Kern,7.03,2018
+134,Kern,13.32,2019
+135,Kings,6.98,2011
+136,Kings,5.6,2012
+137,Kings,2.37,2013
+138,Kings,6.15,2014
+139,Kings,4.58,2015
+140,Kings,7.61,2016
+141,Kings,8.21,2017
+142,Kings,5.61,2018
+143,Kings,9.69,2019
+144,Lake,37.29,2011
+145,Lake,53.91,2012
+146,Lake,12.35,2013
+147,Lake,48.5,2014
+148,Lake,25.36,2015
+149,Lake,55.34,2016
+150,Lake,56.99,2017
+151,Lake,34.37,2018
+152,Lake,60.95,2019
+153,Lassen,16.68,2011
+154,Lassen,21.64,2012
+155,Lassen,8.55,2013
+156,Lassen,20.3,2014
+157,Lassen,17.23,2015
+158,Lassen,23.63,2016
+159,Lassen,28.47,2017
+160,Lassen,18.88,2018
+161,Lassen,25.57,2019
+162,Los Angeles,12.03,2011
+163,Los Angeles,9.31,2012
+164,Los Angeles,4.95,2013
+165,Los Angeles,10.32,2014
+166,Los Angeles,7.11,2015
+167,Los Angeles,12.59,2016
+168,Los Angeles,13.69,2017
+169,Los Angeles,10.79,2018
+170,Los Angeles,23.4,2019
+171,Madera,20.05,2011
+172,Madera,20.75,2012
+173,Madera,6.64,2013
+174,Madera,13.96,2014
+175,Madera,14.42,2015
+176,Madera,24.08,2016
+177,Madera,29.76,2017
+178,Madera,20.72,2018
+179,Madera,25.3,2019
+180,Marin,28.49,2011
+181,Marin,44.26,2012
+182,Marin,8.4,2013
+183,Marin,40.24,2014
+184,Marin,15.93,2015
+185,Marin,40.81,2016
+186,Marin,45.85,2017
+187,Marin,30.49,2018
+188,Marin,46.7,2019
+189,Mariposa,28.19,2011
+190,Mariposa,29.99,2012
+191,Mariposa,9.39,2013
+192,Mariposa,19.44,2014
+193,Mariposa,20.0,2015
+194,Mariposa,34.7,2016
+195,Mariposa,41.99,2017
+196,Mariposa,30.17,2018
+197,Mariposa,38.06,2019
+198,Mendocino,42.9,2011
+199,Mendocino,59.58,2012
+200,Mendocino,15.5,2013
+201,Mendocino,55.43,2014
+202,Mendocino,35.42,2015
+203,Mendocino,65.92,2016
+204,Mendocino,61.04,2017
+205,Mendocino,41.72,2018
+206,Mendocino,62.39,2019
+207,Merced,10.04,2011
+208,Merced,10.16,2012
+209,Merced,3.5,2013
+210,Merced,10.12,2014
+211,Merced,6.98,2015
+212,Merced,14.46,2016
+213,Merced,13.02,2017
+214,Merced,10.5,2018
+215,Merced,13.85,2019
+216,Modoc,14.61,2011
+217,Modoc,17.61,2012
+218,Modoc,10.81,2013
+219,Modoc,18.21,2014
+220,Modoc,16.85,2015
+221,Modoc,19.17,2016
+222,Modoc,21.12,2017
+223,Modoc,17.29,2018
+224,Modoc,21.22,2019
+225,Mono,13.92,2011
+226,Mono,14.18,2012
+227,Mono,6.08,2013
+228,Mono,10.68,2014
+229,Mono,14.08,2015
+230,Mono,15.22,2016
+231,Mono,26.45,2017
+232,Mono,14.08,2018
+233,Mono,19.12,2019
+234,Monterey,20.3,2011
+235,Monterey,19.94,2012
+236,Monterey,4.18,2013
+237,Monterey,19.93,2014
+238,Monterey,11.24,2015
+239,Monterey,20.86,2016
+240,Monterey,25.02,2017
+241,Monterey,19.21,2018
+242,Monterey,30.5,2019
+243,Napa,27.53,2011
+244,Napa,39.43,2012
+245,Napa,6.72,2013
+246,Napa,33.28,2014
+247,Napa,13.88,2015
+248,Napa,36.01,2016
+249,Napa,43.3,2017
+250,Napa,24.56,2018
+251,Napa,43.5,2019
+252,Nevada,43.47,2011
+253,Nevada,62.85,2012
+254,Nevada,15.56,2013
+255,Nevada,48.42,2014
+256,Nevada,32.08,2015
+257,Nevada,65.78,2016
+258,Nevada,82.59,2017
+259,Nevada,45.36,2018
+260,Nevada,66.92,2019
+261,Orange,9.47,2011
+262,Orange,8.62,2012
+263,Orange,4.21,2013
+264,Orange,7.63,2014
+265,Orange,5.91,2015
+266,Orange,10.92,2016
+267,Orange,13.2,2017
+268,Orange,8.79,2018
+269,Orange,21.24,2019
+270,Placer,40.14,2011
+271,Placer,54.97,2012
+272,Placer,14.6,2013
+273,Placer,42.03,2014
+274,Placer,31.0,2015
+275,Placer,57.28,2016
+276,Placer,75.84,2017
+277,Placer,42.42,2018
+278,Placer,61.82,2019
+279,Plumas,35.98,2011
+280,Plumas,52.28,2012
+281,Plumas,12.06,2013
+282,Plumas,39.05,2014
+283,Plumas,26.23,2015
+284,Plumas,52.75,2016
+285,Plumas,68.34,2017
+286,Plumas,35.36,2018
+287,Plumas,56.14,2019
+288,Riverside,6.34,2011
+289,Riverside,6.21,2012
+290,Riverside,4.87,2013
+291,Riverside,5.23,2014
+292,Riverside,5.43,2015
+293,Riverside,8.04,2016
+294,Riverside,7.94,2017
+295,Riverside,5.82,2018
+296,Riverside,12.78,2019
+297,Sacramento,17.39,2011
+298,Sacramento,22.58,2012
+299,Sacramento,6.41,2013
+300,Sacramento,18.89,2014
+301,Sacramento,9.56,2015
+302,Sacramento,22.67,2016
+303,Sacramento,27.87,2017
+304,Sacramento,18.95,2018
+305,Sacramento,25.88,2019
+306,San Benito,17.41,2011
+307,San Benito,16.7,2012
+308,San Benito,3.53,2013
+309,San Benito,15.71,2014
+310,San Benito,10.12,2015
+311,San Benito,17.65,2016
+312,San Benito,18.11,2017
+313,San Benito,15.78,2018
+314,San Benito,22.97,2019
+315,San Bernardino,4.77,2011
+316,San Bernardino,5.06,2012
+317,San Bernardino,4.37,2013
+318,San Bernardino,4.82,2014
+319,San Bernardino,5.54,2015
+320,San Bernardino,6.6,2016
+321,San Bernardino,5.56,2017
+322,San Bernardino,5.11,2018
+323,San Bernardino,10.79,2019
+324,San Diego,12.78,2011
+325,San Diego,9.8,2012
+326,San Diego,7.86,2013
+327,San Diego,8.07,2014
+328,San Diego,9.08,2015
+329,San Diego,13.17,2016
+330,San Diego,12.79,2017
+331,San Diego,9.69,2018
+332,San Diego,21.17,2019
+333,San Francisco,21.16,2011
+334,San Francisco,30.87,2012
+335,San Francisco,6.21,2013
+336,San Francisco,28.74,2014
+337,San Francisco,11.15,2015
+338,San Francisco,28.85,2016
+339,San Francisco,31.59,2017
+340,San Francisco,22.51,2018
+341,San Francisco,29.56,2019
+342,San Joaquin,11.61,2011
+343,San Joaquin,15.68,2012
+344,San Joaquin,5.06,2013
+345,San Joaquin,14.4,2014
+346,San Joaquin,7.69,2015
+347,San Joaquin,18.33,2016
+348,San Joaquin,19.08,2017
+349,San Joaquin,14.35,2018
+350,San Joaquin,17.6,2019
+351,San Luis Obispo,15.48,2011
+352,San Luis Obispo,13.9,2012
+353,San Luis Obispo,3.12,2013
+354,San Luis Obispo,12.18,2014
+355,San Luis Obispo,6.65,2015
+356,San Luis Obispo,16.06,2016
+357,San Luis Obispo,20.89,2017
+358,San Luis Obispo,14.4,2018
+359,San Luis Obispo,23.65,2019
+360,San Mateo,22.94,2011
+361,San Mateo,33.17,2012
+362,San Mateo,6.19,2013
+363,San Mateo,28.55,2014
+364,San Mateo,14.07,2015
+365,San Mateo,33.08,2016
+366,San Mateo,36.79,2017
+367,San Mateo,22.73,2018
+368,San Mateo,34.33,2019
+369,Santa Barbara,16.36,2011
+370,Santa Barbara,12.51,2012
+371,Santa Barbara,3.94,2013
+372,Santa Barbara,13.21,2014
+373,Santa Barbara,5.05,2015
+374,Santa Barbara,15.99,2016
+375,Santa Barbara,20.52,2017
+376,Santa Barbara,12.72,2018
+377,Santa Barbara,26.65,2019
+378,Santa Clara,19.71,2011
+379,Santa Clara,25.16,2012
+380,Santa Clara,5.12,2013
+381,Santa Clara,24.39,2014
+382,Santa Clara,13.73,2015
+383,Santa Clara,29.64,2016
+384,Santa Clara,31.53,2017
+385,Santa Clara,21.1,2018
+386,Santa Clara,32.17,2019
+387,Santa Cruz,28.46,2011
+388,Santa Cruz,36.02,2012
+389,Santa Cruz,6.07,2013
+390,Santa Cruz,33.51,2014
+391,Santa Cruz,17.02,2015
+392,Santa Cruz,40.44,2016
+393,Santa Cruz,47.63,2017
+394,Santa Cruz,27.33,2018
+395,Santa Cruz,46.24,2019
+396,Shasta,35.57,2011
+397,Shasta,50.76,2012
+398,Shasta,14.77,2013
+399,Shasta,44.52,2014
+400,Shasta,27.65,2015
+401,Shasta,57.21,2016
+402,Shasta,52.95,2017
+403,Shasta,34.13,2018
+404,Shasta,54.84,2019
+405,Sierra,40.07,2011
+406,Sierra,54.97,2012
+407,Sierra,13.57,2013
+408,Sierra,41.88,2014
+409,Sierra,31.09,2015
+410,Sierra,60.57,2016
+411,Sierra,80.2,2017
+412,Sierra,39.27,2018
+413,Sierra,60.82,2019
+414,Siskiyou,31.04,2011
+415,Siskiyou,45.16,2012
+416,Siskiyou,16.12,2013
+417,Siskiyou,36.62,2014
+418,Siskiyou,32.34,2015
+419,Siskiyou,48.93,2016
+420,Siskiyou,43.62,2017
+421,Siskiyou,26.23,2018
+422,Siskiyou,39.49,2019
+423,Solano,17.16,2011
+424,Solano,24.88,2012
+425,Solano,5.1,2013
+426,Solano,22.04,2014
+427,Solano,8.74,2015
+428,Solano,22.86,2016
+429,Solano,30.57,2017
+430,Solano,17.34,2018
+431,Solano,28.79,2019
+432,Sonoma,32.85,2011
+433,Sonoma,51.03,2012
+434,Sonoma,10.12,2013
+435,Sonoma,44.19,2014
+436,Sonoma,21.43,2015
+437,Sonoma,49.56,2016
+438,Sonoma,52.76,2017
+439,Sonoma,36.02,2018
+440,Sonoma,57.85,2019
+441,Stanislaus,11.89,2011
+442,Stanislaus,14.2,2012
+443,Stanislaus,4.37,2013
+444,Stanislaus,14.42,2014
+445,Stanislaus,8.63,2015
+446,Stanislaus,18.04,2016
+447,Stanislaus,16.82,2017
+448,Stanislaus,13.57,2018
+449,Stanislaus,17.77,2019
+450,Sutter,18.17,2011
+451,Sutter,22.78,2012
+452,Sutter,6.57,2013
+453,Sutter,20.03,2014
+454,Sutter,8.87,2015
+455,Sutter,21.39,2016
+456,Sutter,25.41,2017
+457,Sutter,17.61,2018
+458,Sutter,28.23,2019
+459,Tehama,29.58,2011
+460,Tehama,43.09,2012
+461,Tehama,11.42,2013
+462,Tehama,42.34,2014
+463,Tehama,19.56,2015
+464,Tehama,47.99,2016
+465,Tehama,40.84,2017
+466,Tehama,30.58,2018
+467,Tehama,48.44,2019
+468,Trinity,46.77,2011
+469,Trinity,69.0,2012
+470,Trinity,19.11,2013
+471,Trinity,55.3,2014
+472,Trinity,43.21,2015
+473,Trinity,74.92,2016
+474,Trinity,67.76,2017
+475,Trinity,39.76,2018
+476,Trinity,66.14,2019
+477,Tulare,17.94,2011
+478,Tulare,18.29,2012
+479,Tulare,6.87,2013
+480,Tulare,14.47,2014
+481,Tulare,15.27,2015
+482,Tulare,19.73,2016
+483,Tulare,27.33,2017
+484,Tulare,16.35,2018
+485,Tulare,29.53,2019
+486,Tuolumne,38.92,2011
+487,Tuolumne,42.11,2012
+488,Tuolumne,12.64,2013
+489,Tuolumne,30.42,2014
+490,Tuolumne,30.01,2015
+491,Tuolumne,45.14,2016
+492,Tuolumne,64.58,2017
+493,Tuolumne,37.4,2018
+494,Tuolumne,52.12,2019
+495,Ventura,16.52,2011
+496,Ventura,12.34,2012
+497,Ventura,4.93,2013
+498,Ventura,14.86,2014
+499,Ventura,6.82,2015
+500,Ventura,16.14,2016
+501,Ventura,20.91,2017
+502,Ventura,14.24,2018
+503,Ventura,31.01,2019
+504,Yolo,18.92,2011
+505,Yolo,25.72,2012
+506,Yolo,5.79,2013
+507,Yolo,21.62,2014
+508,Yolo,9.19,2015
+509,Yolo,22.92,2016
+510,Yolo,30.74,2017
+511,Yolo,17.84,2018
+512,Yolo,33.14,2019
+513,Yuba,33.62,2011
+514,Yuba,48.71,2012
+515,Yuba,11.15,2013
+516,Yuba,38.61,2014
+517,Yuba,19.52,2015
+518,Yuba,46.73,2016
+519,Yuba,55.01,2017
+520,Yuba,33.66,2018
+521,Yuba,52.15,2019
