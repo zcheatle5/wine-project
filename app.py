@@ -24,7 +24,7 @@ def predict():
 
     output = round(prediction[0], 2)
 
-    return render_template('index.html', prediction_text='Next Years Yield Should Be {} Wine Grape Acres', wine_bottle_text='Napa will have ({}*2) bottles of wine next year'.format(output))
+    return render_template('index.html', prediction_text='2020 Napa Valley wine grape yield should be {} acres'.format(output))
 
 if __name__ == "__main__":
     app.run(debug=True)
