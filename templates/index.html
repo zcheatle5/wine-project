@@ -34,20 +34,19 @@
       <div class="row">
         <div class="col-md-12 text-center">
           <a class="btn btn-primary btn-lg" href="/" role="button">Homepage</a>
-          <a class="btn btn-success btn-lg" href="/predict" role="button">Explore Model</a>
-          <a class="btn btn-info btn-lg" href="" role="button">Tableau Dashboard</a>
-          <a class="btn btn-danger btn-lg" href="/api/v1.0/wine_data" role="button">CA Wine Info</a>
+          <a class="btn btn-success btn-lg" href="/predict" role="button">Explore Prediction Model</a>
+          <a class="btn btn-danger btn-lg" href="" role="button">Tableau Dashboard</a>
           <!-- <a class="btn btn-danger btn-lg" href="/api/v1.0/wildfire_data" role="button">Wildfires API</a> -->
           <hr>
         </div>
         <div class="row" id="login">
-         <h1>Predict Grape Yield</h1>
+         <h1>Wine Grape Yield Prediction Model for Napa County</h1>
        
             <!-- Main Input For Receiving Query to our ML -->
            <form action="{{ url_for('predict')}}"method="post">
-            <input type="text" name="Ozone Presence" placeholder="Ozone Days" required="required" />
-             <input type="text" name="Pecipitation" placeholder="Avg precip per year (in)" required="required" />
-               <input type="text" name="Temperature" placeholder="Avg temp per year(F)" required="required" />
+            <input type="text" name="Ozone Presence" placeholder="Avg ozone days per year (# of days)" required="required" />
+             <input type="text" name="Pecipitation" placeholder="Avg precipitation per year (in)" required="required" />
+               <input type="text" name="Temperature" placeholder="Avg temperature per year (℉)" required="required" />
        
                <button type="submit" class="btn btn-primary btn-block btn-large">Predict</button>
            </form>
@@ -57,7 +56,8 @@
           {{ prediction_text }}
 
           <br>
-          {{ wine_bottle_text }}
+          <br>
+          {{ wine_text }}
        
         </div>
        

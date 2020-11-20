@@ -23,8 +23,10 @@ def predict():
     prediction = model.predict(final_features)
 
     output = round(prediction[0], 2)
+    A = round(prediction[0], 2)
+    W = round((prediction * 2)[0])
 
-    return render_template('index.html', prediction_text='2020 Napa Valley wine grape yield should be {} acres'.format(output))
+    return render_template('index.html', prediction_text=f'The 2020 Napa Valley wine grape yield should be about {A} acres.', wine_text=f'Assuming a low end yield of 2 tons of wine per acre, this is equivalent to {W} bottles of wine.')
 
 if __name__ == "__main__":
     app.run(debug=True)
