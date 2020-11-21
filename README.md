@@ -21,7 +21,7 @@
 - Tableau Prep Builder
 2. Data Visualization
 - Tableau
-- Panadas
+- Pandas
 3. Deployment
 - Heroku
 - Flask
