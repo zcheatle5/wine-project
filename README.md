@@ -1,4 +1,4 @@
-# Weather Influence on Wine Harvest and Production in California 
+# Weather Influence on Wine Production in California 
 ![wine_image](https://inn-entertainment.com/wp-content/uploads/2017/06/Sunset-over-California-Winery.jpg)
 ## Introduction
 A big deal in the wine industry is that wine growers and viticulturalists had have trouble producing certain grapes for wine due to the changes in weather. With the shifting of the seasons, grape vine and many other perennials have had their natural growth cycles thrown off by warmer weather and drastic temperature fluctuations. Warmer weather typically means spring so grape vines come out of dormancy, but if it gets cold again, they don’t make it.\
