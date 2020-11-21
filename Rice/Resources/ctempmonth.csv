@@ -1,0 +1,6849 @@
+County,Date,Temp
+Alameda County,201101,48.2
+Alameda County,201102,48
+Alameda County,201103,51.7
+Alameda County,201104,54.7
+Alameda County,201105,57.6
+Alameda County,201106,64.2
+Alameda County,201107,69.1
+Alameda County,201108,69
+Alameda County,201109,70.1
+Alameda County,201110,63.2
+Alameda County,201111,51.7
+Alameda County,201112,47.6
+Alameda County,201201,49.4
+Alameda County,201202,50.9
+Alameda County,201203,51.2
+Alameda County,201204,56.8
+Alameda County,201205,62
+Alameda County,201206,66
+Alameda County,201207,69.2
+Alameda County,201208,71
+Alameda County,201209,68.1
+Alameda County,201210,63.2
+Alameda County,201211,55.6
+Alameda County,201212,47.7
+Alameda County,201301,45.8
+Alameda County,201302,48.8
+Alameda County,201303,55.2
+Alameda County,201304,60
+Alameda County,201305,63
+Alameda County,201306,68.3
+Alameda County,201307,71.1
+Alameda County,201308,69.8
+Alameda County,201309,68.1
+Alameda County,201310,61.3
+Alameda County,201311,55.2
+Alameda County,201312,47
+Alameda County,201401,53.2
+Alameda County,201402,52.5
+Alameda County,201403,56.9
+Alameda County,201404,58.8
+Alameda County,201405,64.7
+Alameda County,201406,68.1
+Alameda County,201407,72.7
+Alameda County,201408,70.9
+Alameda County,201409,70
+Alameda County,201410,66.2
+Alameda County,201411,56.7
+Alameda County,201412,52.7
+Alameda County,201501,51.2
+Alameda County,201502,55.7
+Alameda County,201503,59.1
+Alameda County,201504,58
+Alameda County,201505,59.2
+Alameda County,201506,69.4
+Alameda County,201507,71.6
+Alameda County,201508,71.7
+Alameda County,201509,71.2
+Alameda County,201510,67.3
+Alameda County,201511,51.2
+Alameda County,201512,47
+Alameda County,201601,50
+Alameda County,201602,55.2
+Alameda County,201603,55.1
+Alameda County,201604,59.1
+Alameda County,201605,62.8
+Alameda County,201606,69.4
+Alameda County,201607,70.5
+Alameda County,201608,69.6
+Alameda County,201609,68.4
+Alameda County,201610,61.7
+Alameda County,201611,55.3
+Alameda County,201612,47.3
+Alameda County,201701,46.5
+Alameda County,201702,51
+Alameda County,201703,55.5
+Alameda County,201704,56.8
+Alameda County,201705,62.9
+Alameda County,201706,68.5
+Alameda County,201707,73
+Alameda County,201708,72.1
+Alameda County,201709,70.9
+Alameda County,201710,63.9
+Alameda County,201711,55.2
+Alameda County,201712,49.7
+Alameda County,201801,51.1
+Alameda County,201802,51.5
+Alameda County,201803,51.9
+Alameda County,201804,56.8
+Alameda County,201805,60.3
+Alameda County,201806,67.4
+Alameda County,201807,72.6
+Alameda County,201808,69.8
+Alameda County,201809,67.4
+Alameda County,201810,63.7
+Alameda County,201811,56
+Alameda County,201812,49.2
+Alameda County,201901,50.7
+Alameda County,201902,46.2
+Alameda County,201903,51.8
+Alameda County,201904,59.2
+Alameda County,201905,58.7
+Alameda County,201906,68.9
+Alameda County,201907,70.4
+Alameda County,201908,72.7
+Alameda County,201909,68.7
+Alameda County,201910,62.2
+Alameda County,201911,55.9
+Alameda County,201912,50
+Alameda County,202001,48.7
+Alameda County,202002,53.6
+Alameda County,202003,51.6
+Alameda County,202004,57.6
+Alameda County,202005,64.6
+Alameda County,202006,68.7
+Alameda County,202007,70.9
+Alameda County,202008,74.7
+Alameda County,202009,72.8
+Alameda County,202010,69.2
+Alpine County,201101,33.8
+Alpine County,201102,27.6
+Alpine County,201103,33
+Alpine County,201104,36.4
+Alpine County,201105,40.6
+Alpine County,201106,50
+Alpine County,201107,58.7
+Alpine County,201108,60.1
+Alpine County,201109,57.8
+Alpine County,201110,46.7
+Alpine County,201111,36.4
+Alpine County,201112,31.2
+Alpine County,201201,35.6
+Alpine County,201202,31.6
+Alpine County,201203,34.2
+Alpine County,201204,40.3
+Alpine County,201205,47.6
+Alpine County,201206,54.4
+Alpine County,201207,61.7
+Alpine County,201208,63.9
+Alpine County,201209,59.1
+Alpine County,201210,48
+Alpine County,201211,38.8
+Alpine County,201212,26
+Alpine County,201301,29
+Alpine County,201302,30.6
+Alpine County,201303,38.5
+Alpine County,201304,41.6
+Alpine County,201305,46.3
+Alpine County,201306,57.2
+Alpine County,201307,64
+Alpine County,201308,59.5
+Alpine County,201309,54.4
+Alpine County,201310,43.9
+Alpine County,201311,38.7
+Alpine County,201312,31.5
+Alpine County,201401,37.6
+Alpine County,201402,35.5
+Alpine County,201403,37.1
+Alpine County,201404,41.4
+Alpine County,201405,47.8
+Alpine County,201406,56.6
+Alpine County,201407,64.3
+Alpine County,201408,59.9
+Alpine County,201409,56.9
+Alpine County,201410,50.6
+Alpine County,201411,40.6
+Alpine County,201412,33.3
+Alpine County,201501,38.1
+Alpine County,201502,40.1
+Alpine County,201503,41.6
+Alpine County,201504,40.4
+Alpine County,201505,46.1
+Alpine County,201506,59.3
+Alpine County,201507,59.1
+Alpine County,201508,61.9
+Alpine County,201509,58
+Alpine County,201510,50.1
+Alpine County,201511,32.5
+Alpine County,201512,29
+Alpine County,201601,31.3
+Alpine County,201602,38.1
+Alpine County,201603,37.4
+Alpine County,201604,41.9
+Alpine County,201605,45.9
+Alpine County,201606,58.3
+Alpine County,201607,62.5
+Alpine County,201608,62.7
+Alpine County,201609,55.4
+Alpine County,201610,45.9
+Alpine County,201611,39.8
+Alpine County,201612,31.6
+Alpine County,201701,28.5
+Alpine County,201702,31.5
+Alpine County,201703,38
+Alpine County,201704,38.4
+Alpine County,201705,47.6
+Alpine County,201706,56.5
+Alpine County,201707,64.3
+Alpine County,201708,62.9
+Alpine County,201709,52.8
+Alpine County,201710,46.9
+Alpine County,201711,40.5
+Alpine County,201712,36.9
+Alpine County,201801,37.1
+Alpine County,201802,30.5
+Alpine County,201803,32.1
+Alpine County,201804,40.9
+Alpine County,201805,47.8
+Alpine County,201806,57.2
+Alpine County,201807,65.9
+Alpine County,201808,62.8
+Alpine County,201809,57.2
+Alpine County,201810,45.6
+Alpine County,201811,39.8
+Alpine County,201812,31.7
+Alpine County,201901,33.4
+Alpine County,201902,24.9
+Alpine County,201903,32.4
+Alpine County,201904,42
+Alpine County,201905,43.3
+Alpine County,201906,54.2
+Alpine County,201907,60.6
+Alpine County,201908,62.5
+Alpine County,201909,52.8
+Alpine County,201910,43.6
+Alpine County,201911,40
+Alpine County,201912,31.9
+Alpine County,202001,33.8
+Alpine County,202002,34.9
+Alpine County,202003,32.3
+Alpine County,202004,41.4
+Alpine County,202005,48.1
+Alpine County,202006,54.4
+Alpine County,202007,62.6
+Alpine County,202008,64.9
+Alpine County,202009,59.8
+Alpine County,202010,52.4
+Amador County,201101,45
+Amador County,201102,43.3
+Amador County,201103,46.4
+Amador County,201104,51
+Amador County,201105,55
+Amador County,201106,63.9
+Amador County,201107,71.6
+Amador County,201108,72.8
+Amador County,201109,72
+Amador County,201110,59.9
+Amador County,201111,48.4
+Amador County,201112,44.3
+Amador County,201201,47.4
+Amador County,201202,46.3
+Amador County,201203,46.7
+Amador County,201204,53.6
+Amador County,201205,62.1
+Amador County,201206,67.3
+Amador County,201207,74.1
+Amador County,201208,77.6
+Amador County,201209,73.4
+Amador County,201210,60.8
+Amador County,201211,51.7
+Amador County,201212,41
+Amador County,201301,42.9
+Amador County,201302,45.5
+Amador County,201303,53.1
+Amador County,201304,57.9
+Amador County,201305,62.5
+Amador County,201306,70.9
+Amador County,201307,77.6
+Amador County,201308,73.3
+Amador County,201309,67.3
+Amador County,201310,59.7
+Amador County,201311,53.1
+Amador County,201312,45.8
+Amador County,201401,52.1
+Amador County,201402,48.6
+Amador County,201403,52.8
+Amador County,201404,56.8
+Amador County,201405,63.3
+Amador County,201406,71.7
+Amador County,201407,77.8
+Amador County,201408,74.5
+Amador County,201409,70.9
+Amador County,201410,64.4
+Amador County,201411,52.8
+Amador County,201412,45.7
+Amador County,201501,50.2
+Amador County,201502,53.6
+Amador County,201503,57.1
+Amador County,201504,55.6
+Amador County,201505,59.7
+Amador County,201506,74.2
+Amador County,201507,74.3
+Amador County,201508,74.6
+Amador County,201509,71.6
+Amador County,201510,65.2
+Amador County,201511,46.4
+Amador County,201512,41.7
+Amador County,201601,43.8
+Amador County,201602,52.8
+Amador County,201603,50.8
+Amador County,201604,56.4
+Amador County,201605,61.1
+Amador County,201606,72.3
+Amador County,201607,75.7
+Amador County,201608,75.7
+Amador County,201609,69.2
+Amador County,201610,58.1
+Amador County,201611,51.8
+Amador County,201612,43.1
+Amador County,201701,40.9
+Amador County,201702,45.4
+Amador County,201703,51.8
+Amador County,201704,52.9
+Amador County,201705,62.8
+Amador County,201706,71.4
+Amador County,201707,78.9
+Amador County,201708,77.9
+Amador County,201709,68.9
+Amador County,201710,62.4
+Amador County,201711,51.6
+Amador County,201712,49.2
+Amador County,201801,48.6
+Amador County,201802,46.5
+Amador County,201803,47.4
+Amador County,201804,54.6
+Amador County,201805,61.4
+Amador County,201806,71.2
+Amador County,201807,79.8
+Amador County,201808,75.5
+Amador County,201809,70.9
+Amador County,201810,62
+Amador County,201811,54.2
+Amador County,201812,44.6
+Amador County,201901,46.7
+Amador County,201902,39.2
+Amador County,201903,47.6
+Amador County,201904,57.1
+Amador County,201905,56.8
+Amador County,201906,70.9
+Amador County,201907,74.6
+Amador County,201908,75.9
+Amador County,201909,67
+Amador County,201910,60
+Amador County,201911,54.3
+Amador County,201912,44.7
+Amador County,202001,44.8
+Amador County,202002,50.8
+Amador County,202003,46.9
+Amador County,202004,55.1
+Amador County,202005,62.8
+Amador County,202006,69.8
+Amador County,202007,76.3
+Amador County,202008,78.4
+Amador County,202009,74.8
+Amador County,202010,68.4
+Butte County,201101,45.4
+Butte County,201102,45.3
+Butte County,201103,48.1
+Butte County,201104,53.9
+Butte County,201105,58
+Butte County,201106,67
+Butte County,201107,74.4
+Butte County,201108,75
+Butte County,201109,74.6
+Butte County,201110,61.4
+Butte County,201111,48.8
+Butte County,201112,46.2
+Butte County,201201,47
+Butte County,201202,48
+Butte County,201203,47.6
+Butte County,201204,55.5
+Butte County,201205,64.8
+Butte County,201206,69.4
+Butte County,201207,75.4
+Butte County,201208,77.9
+Butte County,201209,74.1
+Butte County,201210,62.3
+Butte County,201211,52.5
+Butte County,201212,43.5
+Butte County,201301,43.9
+Butte County,201302,47.8
+Butte County,201303,54.2
+Butte County,201304,60
+Butte County,201305,65.3
+Butte County,201306,72.8
+Butte County,201307,78.5
+Butte County,201308,74.2
+Butte County,201309,68.5
+Butte County,201310,60.3
+Butte County,201311,54
+Butte County,201312,45.8
+Butte County,201401,52.6
+Butte County,201402,49.9
+Butte County,201403,54.1
+Butte County,201404,59
+Butte County,201405,66.6
+Butte County,201406,73.8
+Butte County,201407,79.2
+Butte County,201408,75.7
+Butte County,201409,73
+Butte County,201410,64.5
+Butte County,201411,53.1
+Butte County,201412,47.7
+Butte County,201501,50.3
+Butte County,201502,54.1
+Butte County,201503,58.2
+Butte County,201504,58.4
+Butte County,201505,63.5
+Butte County,201506,76.6
+Butte County,201507,77
+Butte County,201508,75.5
+Butte County,201509,72.2
+Butte County,201510,66.4
+Butte County,201511,48.4
+Butte County,201512,42.8
+Butte County,201601,45.4
+Butte County,201602,53.1
+Butte County,201603,52.7
+Butte County,201604,59.9
+Butte County,201605,65.1
+Butte County,201606,73.2
+Butte County,201607,76.9
+Butte County,201608,76.2
+Butte County,201609,71.7
+Butte County,201610,59.3
+Butte County,201611,52.2
+Butte County,201612,44
+Butte County,201701,43.1
+Butte County,201702,47.8
+Butte County,201703,53.3
+Butte County,201704,54.5
+Butte County,201705,66.7
+Butte County,201706,74.1
+Butte County,201707,80
+Butte County,201708,79.2
+Butte County,201709,71.9
+Butte County,201710,63.1
+Butte County,201711,51.4
+Butte County,201712,48.6
+Butte County,201801,48.8
+Butte County,201802,48.4
+Butte County,201803,49.5
+Butte County,201804,56.8
+Butte County,201805,65.2
+Butte County,201806,73.1
+Butte County,201807,80.7
+Butte County,201808,75.4
+Butte County,201809,71.4
+Butte County,201810,63.7
+Butte County,201811,53.2
+Butte County,201812,46.2
+Butte County,201901,48
+Butte County,201902,42.2
+Butte County,201903,49.8
+Butte County,201904,60.3
+Butte County,201905,61.2
+Butte County,201906,74.1
+Butte County,201907,76.6
+Butte County,201908,77.5
+Butte County,201909,69.8
+Butte County,201910,60.3
+Butte County,201911,55.3
+Butte County,201912,46.7
+Butte County,202001,46.2
+Butte County,202002,52.6
+Butte County,202003,49.9
+Butte County,202004,58.9
+Butte County,202005,65.8
+Butte County,202006,72.9
+Butte County,202007,77.9
+Butte County,202008,79.4
+Butte County,202009,75.8
+Butte County,202010,69.1
+Calaveras County,201101,44.8
+Calaveras County,201102,43.6
+Calaveras County,201103,46.6
+Calaveras County,201104,51.8
+Calaveras County,201105,55.2
+Calaveras County,201106,64.6
+Calaveras County,201107,72.6
+Calaveras County,201108,73.5
+Calaveras County,201109,72.8
+Calaveras County,201110,60.6
+Calaveras County,201111,48.6
+Calaveras County,201112,43.6
+Calaveras County,201201,47.4
+Calaveras County,201202,46.7
+Calaveras County,201203,47.2
+Calaveras County,201204,54.3
+Calaveras County,201205,62.7
+Calaveras County,201206,67.7
+Calaveras County,201207,74.5
+Calaveras County,201208,78.1
+Calaveras County,201209,73.8
+Calaveras County,201210,61.5
+Calaveras County,201211,51.9
+Calaveras County,201212,41.9
+Calaveras County,201301,42.9
+Calaveras County,201302,45.4
+Calaveras County,201303,53.6
+Calaveras County,201304,58.3
+Calaveras County,201305,62.7
+Calaveras County,201306,71.1
+Calaveras County,201307,78
+Calaveras County,201308,73.5
+Calaveras County,201309,68.1
+Calaveras County,201310,59.6
+Calaveras County,201311,53
+Calaveras County,201312,45.4
+Calaveras County,201401,51.7
+Calaveras County,201402,49
+Calaveras County,201403,53.1
+Calaveras County,201404,56.8
+Calaveras County,201405,63.4
+Calaveras County,201406,71.6
+Calaveras County,201407,78.1
+Calaveras County,201408,74.9
+Calaveras County,201409,71.4
+Calaveras County,201410,64.6
+Calaveras County,201411,52.9
+Calaveras County,201412,46.1
+Calaveras County,201501,50.1
+Calaveras County,201502,54
+Calaveras County,201503,57.3
+Calaveras County,201504,56.1
+Calaveras County,201505,60
+Calaveras County,201506,74.3
+Calaveras County,201507,75
+Calaveras County,201508,75.2
+Calaveras County,201509,72.2
+Calaveras County,201510,65.3
+Calaveras County,201511,46.8
+Calaveras County,201512,41.5
+Calaveras County,201601,44.2
+Calaveras County,201602,52.6
+Calaveras County,201603,51.3
+Calaveras County,201604,56.9
+Calaveras County,201605,61.3
+Calaveras County,201606,72.1
+Calaveras County,201607,75.9
+Calaveras County,201608,75.8
+Calaveras County,201609,69.5
+Calaveras County,201610,58.9
+Calaveras County,201611,52.4
+Calaveras County,201612,43.5
+Calaveras County,201701,41.7
+Calaveras County,201702,46.3
+Calaveras County,201703,52.2
+Calaveras County,201704,53.4
+Calaveras County,201705,63.3
+Calaveras County,201706,71.6
+Calaveras County,201707,78.8
+Calaveras County,201708,77.9
+Calaveras County,201709,69.8
+Calaveras County,201710,62.6
+Calaveras County,201711,52.4
+Calaveras County,201712,49.9
+Calaveras County,201801,49.5
+Calaveras County,201802,47
+Calaveras County,201803,47.2
+Calaveras County,201804,55.4
+Calaveras County,201805,61.8
+Calaveras County,201806,71.2
+Calaveras County,201807,80
+Calaveras County,201808,75.5
+Calaveras County,201809,71
+Calaveras County,201810,62.3
+Calaveras County,201811,54.5
+Calaveras County,201812,44.7
+Calaveras County,201901,47
+Calaveras County,201902,40.3
+Calaveras County,201903,47.9
+Calaveras County,201904,57.3
+Calaveras County,201905,57.2
+Calaveras County,201906,71.1
+Calaveras County,201907,74.8
+Calaveras County,201908,76
+Calaveras County,201909,67.8
+Calaveras County,201910,60.2
+Calaveras County,201911,54.6
+Calaveras County,201912,45.2
+Calaveras County,202001,45.2
+Calaveras County,202002,51.3
+Calaveras County,202003,47.6
+Calaveras County,202004,55.5
+Calaveras County,202005,63.5
+Calaveras County,202006,70
+Calaveras County,202007,76.6
+Calaveras County,202008,78.8
+Calaveras County,202009,74.9
+Calaveras County,202010,68.2
+Colusa County,201101,46.8
+Colusa County,201102,47.5
+Colusa County,201103,50.2
+Colusa County,201104,56.6
+Colusa County,201105,61.3
+Colusa County,201106,70.6
+Colusa County,201107,76.2
+Colusa County,201108,75.6
+Colusa County,201109,75.5
+Colusa County,201110,63.2
+Colusa County,201111,50.4
+Colusa County,201112,45.9
+Colusa County,201201,47.7
+Colusa County,201202,50.2
+Colusa County,201203,50.2
+Colusa County,201204,58
+Colusa County,201205,67.5
+Colusa County,201206,72
+Colusa County,201207,76.6
+Colusa County,201208,78.9
+Colusa County,201209,74.4
+Colusa County,201210,64.2
+Colusa County,201211,54.1
+Colusa County,201212,45.5
+Colusa County,201301,45.5
+Colusa County,201302,49.6
+Colusa County,201303,55.5
+Colusa County,201304,62.7
+Colusa County,201305,67.6
+Colusa County,201306,74.6
+Colusa County,201307,79.6
+Colusa County,201308,75.7
+Colusa County,201309,70.9
+Colusa County,201310,62.2
+Colusa County,201311,55.3
+Colusa County,201312,46
+Colusa County,201401,53.3
+Colusa County,201402,51.8
+Colusa County,201403,56.5
+Colusa County,201404,61.6
+Colusa County,201405,69.2
+Colusa County,201406,76.5
+Colusa County,201407,80.3
+Colusa County,201408,77.3
+Colusa County,201409,74.1
+Colusa County,201410,66.8
+Colusa County,201411,54.6
+Colusa County,201412,50.6
+Colusa County,201501,50.8
+Colusa County,201502,55.8
+Colusa County,201503,60.2
+Colusa County,201504,61
+Colusa County,201505,65.6
+Colusa County,201506,78
+Colusa County,201507,78.8
+Colusa County,201508,77.3
+Colusa County,201509,74
+Colusa County,201510,68.8
+Colusa County,201511,50.6
+Colusa County,201512,45.6
+Colusa County,201601,47.3
+Colusa County,201602,54.8
+Colusa County,201603,54.7
+Colusa County,201604,61.6
+Colusa County,201605,67.5
+Colusa County,201606,75.2
+Colusa County,201607,78.1
+Colusa County,201608,77.8
+Colusa County,201609,73.2
+Colusa County,201610,61.3
+Colusa County,201611,53.9
+Colusa County,201612,44.8
+Colusa County,201701,44.9
+Colusa County,201702,50.1
+Colusa County,201703,55.2
+Colusa County,201704,57.2
+Colusa County,201705,68.4
+Colusa County,201706,76
+Colusa County,201707,80.7
+Colusa County,201708,81.2
+Colusa County,201709,74.3
+Colusa County,201710,64.4
+Colusa County,201711,53
+Colusa County,201712,49.3
+Colusa County,201801,49
+Colusa County,201802,51.5
+Colusa County,201803,51.4
+Colusa County,201804,59
+Colusa County,201805,67.2
+Colusa County,201806,74.8
+Colusa County,201807,81.5
+Colusa County,201808,76.3
+Colusa County,201809,71.9
+Colusa County,201810,64.9
+Colusa County,201811,55.2
+Colusa County,201812,47
+Colusa County,201901,48.4
+Colusa County,201902,44.3
+Colusa County,201903,51.2
+Colusa County,201904,62.4
+Colusa County,201905,63.4
+Colusa County,201906,76.2
+Colusa County,201907,77.6
+Colusa County,201908,79
+Colusa County,201909,71.3
+Colusa County,201910,62.5
+Colusa County,201911,56.9
+Colusa County,201912,47.1
+Colusa County,202001,47.2
+Colusa County,202002,54.3
+Colusa County,202003,52.3
+Colusa County,202004,61.4
+Colusa County,202005,68.4
+Colusa County,202006,75.3
+Colusa County,202007,79.6
+Colusa County,202008,81.3
+Colusa County,202009,76.7
+Colusa County,202010,70.9
+Contra Costa County,201101,47.5
+Contra Costa County,201102,48.6
+Contra Costa County,201103,51.9
+Contra Costa County,201104,55.7
+Contra Costa County,201105,59
+Contra Costa County,201106,65.7
+Contra Costa County,201107,70.2
+Contra Costa County,201108,70.7
+Contra Costa County,201109,71.6
+Contra Costa County,201110,63.9
+Contra Costa County,201111,51.8
+Contra Costa County,201112,47.6
+Contra Costa County,201201,49.3
+Contra Costa County,201202,51.3
+Contra Costa County,201203,51.5
+Contra Costa County,201204,57.7
+Contra Costa County,201205,64
+Contra Costa County,201206,67.5
+Contra Costa County,201207,70.4
+Contra Costa County,201208,73.2
+Contra Costa County,201209,70.5
+Contra Costa County,201210,63.8
+Contra Costa County,201211,55.5
+Contra Costa County,201212,47.2
+Contra Costa County,201301,45.9
+Contra Costa County,201302,50.4
+Contra Costa County,201303,56.4
+Contra Costa County,201304,61.9
+Contra Costa County,201305,64.8
+Contra Costa County,201306,70
+Contra Costa County,201307,72.5
+Contra Costa County,201308,70.8
+Contra Costa County,201309,68.5
+Contra Costa County,201310,62.9
+Contra Costa County,201311,56.2
+Contra Costa County,201312,48.3
+Contra Costa County,201401,54.4
+Contra Costa County,201402,53.2
+Contra Costa County,201403,57.7
+Contra Costa County,201404,60.2
+Contra Costa County,201405,66.2
+Contra Costa County,201406,70.1
+Contra Costa County,201407,73.4
+Contra Costa County,201408,71.3
+Contra Costa County,201409,70.4
+Contra Costa County,201410,67.4
+Contra Costa County,201411,56.8
+Contra Costa County,201412,51.7
+Contra Costa County,201501,51.4
+Contra Costa County,201502,56.7
+Contra Costa County,201503,60.8
+Contra Costa County,201504,59.7
+Contra Costa County,201505,60.1
+Contra Costa County,201506,71.3
+Contra Costa County,201507,72.1
+Contra Costa County,201508,72.3
+Contra Costa County,201509,72.3
+Contra Costa County,201510,68.3
+Contra Costa County,201511,51.9
+Contra Costa County,201512,47
+Contra Costa County,201601,49.1
+Contra Costa County,201602,56.3
+Contra Costa County,201603,55.9
+Contra Costa County,201604,60.5
+Contra Costa County,201605,64.1
+Contra Costa County,201606,71.4
+Contra Costa County,201607,72.2
+Contra Costa County,201608,70.7
+Contra Costa County,201609,69.8
+Contra Costa County,201610,62
+Contra Costa County,201611,55.4
+Contra Costa County,201612,46.8
+Contra Costa County,201701,45.9
+Contra Costa County,201702,51.6
+Contra Costa County,201703,56.6
+Contra Costa County,201704,57.9
+Contra Costa County,201705,64.6
+Contra Costa County,201706,70.7
+Contra Costa County,201707,75.3
+Contra Costa County,201708,73.7
+Contra Costa County,201709,71.5
+Contra Costa County,201710,65.2
+Contra Costa County,201711,55
+Contra Costa County,201712,50.4
+Contra Costa County,201801,50.6
+Contra Costa County,201802,52.9
+Contra Costa County,201803,52.7
+Contra Costa County,201804,57.9
+Contra Costa County,201805,61.4
+Contra Costa County,201806,69.6
+Contra Costa County,201807,74.7
+Contra Costa County,201808,71.2
+Contra Costa County,201809,69.4
+Contra Costa County,201810,65.1
+Contra Costa County,201811,57.4
+Contra Costa County,201812,49.1
+Contra Costa County,201901,50.2
+Contra Costa County,201902,46.1
+Contra Costa County,201903,52.7
+Contra Costa County,201904,60.9
+Contra Costa County,201905,59.4
+Contra Costa County,201906,70.8
+Contra Costa County,201907,71.7
+Contra Costa County,201908,73.8
+Contra Costa County,201909,69.8
+Contra Costa County,201910,63.9
+Contra Costa County,201911,57.4
+Contra Costa County,201912,49.4
+Contra Costa County,202001,48.7
+Contra Costa County,202002,55.2
+Contra Costa County,202003,52.3
+Contra Costa County,202004,59
+Contra Costa County,202005,66.3
+Contra Costa County,202006,70.5
+Contra Costa County,202007,72
+Contra Costa County,202008,76.2
+Contra Costa County,202009,74.2
+Contra Costa County,202010,70.7
+Del Norte County,201101,43.6
+Del Norte County,201102,41
+Del Norte County,201103,43.3
+Del Norte County,201104,44.9
+Del Norte County,201105,50.2
+Del Norte County,201106,58.2
+Del Norte County,201107,64.7
+Del Norte County,201108,66.8
+Del Norte County,201109,64.2
+Del Norte County,201110,54.7
+Del Norte County,201111,43.9
+Del Norte County,201112,39.8
+Del Norte County,201201,42.3
+Del Norte County,201202,41.3
+Del Norte County,201203,41.1
+Del Norte County,201204,47.7
+Del Norte County,201205,53.5
+Del Norte County,201206,56.6
+Del Norte County,201207,64.7
+Del Norte County,201208,68
+Del Norte County,201209,65.4
+Del Norte County,201210,54.7
+Del Norte County,201211,47.2
+Del Norte County,201212,38.7
+Del Norte County,201301,40.7
+Del Norte County,201302,42.2
+Del Norte County,201303,46.8
+Del Norte County,201304,50.9
+Del Norte County,201305,55
+Del Norte County,201306,61.8
+Del Norte County,201307,70.7
+Del Norte County,201308,65.4
+Del Norte County,201309,60
+Del Norte County,201310,53.2
+Del Norte County,201311,47
+Del Norte County,201312,40.7
+Del Norte County,201401,45.8
+Del Norte County,201402,44.2
+Del Norte County,201403,47.2
+Del Norte County,201404,50.8
+Del Norte County,201405,56.1
+Del Norte County,201406,61.1
+Del Norte County,201407,70.1
+Del Norte County,201408,68.8
+Del Norte County,201409,65.1
+Del Norte County,201410,57
+Del Norte County,201411,48.5
+Del Norte County,201412,44.4
+Del Norte County,201501,47.7
+Del Norte County,201502,48.4
+Del Norte County,201503,50.6
+Del Norte County,201504,49.3
+Del Norte County,201505,55.6
+Del Norte County,201506,67.1
+Del Norte County,201507,68.2
+Del Norte County,201508,65.7
+Del Norte County,201509,61.4
+Del Norte County,201510,58.8
+Del Norte County,201511,43.7
+Del Norte County,201512,39.9
+Del Norte County,201601,40.9
+Del Norte County,201602,46.1
+Del Norte County,201603,45.4
+Del Norte County,201604,52.4
+Del Norte County,201605,56.8
+Del Norte County,201606,61.8
+Del Norte County,201607,65.2
+Del Norte County,201608,68.7
+Del Norte County,201609,61.8
+Del Norte County,201610,50.4
+Del Norte County,201611,47.2
+Del Norte County,201612,37.7
+Del Norte County,201701,37.7
+Del Norte County,201702,40.7
+Del Norte County,201703,45.1
+Del Norte County,201704,45.6
+Del Norte County,201705,55.7
+Del Norte County,201706,60.7
+Del Norte County,201707,68.2
+Del Norte County,201708,70.8
+Del Norte County,201709,62.3
+Del Norte County,201710,54.4
+Del Norte County,201711,44.5
+Del Norte County,201712,43.6
+Del Norte County,201801,43.9
+Del Norte County,201802,41.6
+Del Norte County,201803,43.8
+Del Norte County,201804,48.2
+Del Norte County,201805,56
+Del Norte County,201806,60.4
+Del Norte County,201807,69.2
+Del Norte County,201808,66.2
+Del Norte County,201809,61.2
+Del Norte County,201810,55.7
+Del Norte County,201811,48.4
+Del Norte County,201812,40.7
+Del Norte County,201901,44.2
+Del Norte County,201902,35.3
+Del Norte County,201903,44.6
+Del Norte County,201904,51
+Del Norte County,201905,54.9
+Del Norte County,201906,62.6
+Del Norte County,201907,64.4
+Del Norte County,201908,67.3
+Del Norte County,201909,58.5
+Del Norte County,201910,51.5
+Del Norte County,201911,49.5
+Del Norte County,201912,41.8
+Del Norte County,202001,40.9
+Del Norte County,202002,43.7
+Del Norte County,202003,43.1
+Del Norte County,202004,51.2
+Del Norte County,202005,54
+Del Norte County,202006,59.8
+Del Norte County,202007,66.9
+Del Norte County,202008,68.6
+Del Norte County,202009,65
+Del Norte County,202010,58.9
+El Dorado County,201101,42.8
+El Dorado County,201102,38.8
+El Dorado County,201103,41.7
+El Dorado County,201104,46.4
+El Dorado County,201105,50.6
+El Dorado County,201106,59.4
+El Dorado County,201107,68
+El Dorado County,201108,69.5
+El Dorado County,201109,68.2
+El Dorado County,201110,56.3
+El Dorado County,201111,45.1
+El Dorado County,201112,41.5
+El Dorado County,201201,44.2
+El Dorado County,201202,42.2
+El Dorado County,201203,42.5
+El Dorado County,201204,49.5
+El Dorado County,201205,57.6
+El Dorado County,201206,63.2
+El Dorado County,201207,70.6
+El Dorado County,201208,73.9
+El Dorado County,201209,69.3
+El Dorado County,201210,57.5
+El Dorado County,201211,48.2
+El Dorado County,201212,37.7
+El Dorado County,201301,39.4
+El Dorado County,201302,41.3
+El Dorado County,201303,48.3
+El Dorado County,201304,52.6
+El Dorado County,201305,57.6
+El Dorado County,201306,66.6
+El Dorado County,201307,73.9
+El Dorado County,201308,69.8
+El Dorado County,201309,64
+El Dorado County,201310,55.1
+El Dorado County,201311,49
+El Dorado County,201312,41.8
+El Dorado County,201401,48.1
+El Dorado County,201402,44.5
+El Dorado County,201403,47.5
+El Dorado County,201404,51.8
+El Dorado County,201405,58.4
+El Dorado County,201406,66.6
+El Dorado County,201407,74.5
+El Dorado County,201408,70.5
+El Dorado County,201409,66.9
+El Dorado County,201410,59.9
+El Dorado County,201411,49
+El Dorado County,201412,42.3
+El Dorado County,201501,47.2
+El Dorado County,201502,49.4
+El Dorado County,201503,51.9
+El Dorado County,201504,50.8
+El Dorado County,201505,55.7
+El Dorado County,201506,69.7
+El Dorado County,201507,70.5
+El Dorado County,201508,71.3
+El Dorado County,201509,67.8
+El Dorado County,201510,61
+El Dorado County,201511,42.5
+El Dorado County,201512,38.2
+El Dorado County,201601,40.6
+El Dorado County,201602,48
+El Dorado County,201603,46.2
+El Dorado County,201604,52.1
+El Dorado County,201605,56.6
+El Dorado County,201606,67.6
+El Dorado County,201607,71.8
+El Dorado County,201608,72.2
+El Dorado County,201609,65.5
+El Dorado County,201610,54.3
+El Dorado County,201611,47.9
+El Dorado County,201612,40.1
+El Dorado County,201701,38.1
+El Dorado County,201702,41.2
+El Dorado County,201703,47.2
+El Dorado County,201704,48.1
+El Dorado County,201705,58.2
+El Dorado County,201706,66.9
+El Dorado County,201707,74.5
+El Dorado County,201708,74.1
+El Dorado County,201709,64.8
+El Dorado County,201710,57.5
+El Dorado County,201711,47.9
+El Dorado County,201712,45.4
+El Dorado County,201801,45.3
+El Dorado County,201802,41.5
+El Dorado County,201803,42.2
+El Dorado County,201804,50
+El Dorado County,201805,57.2
+El Dorado County,201806,66.5
+El Dorado County,201807,75.8
+El Dorado County,201808,71.7
+El Dorado County,201809,66.8
+El Dorado County,201810,57.2
+El Dorado County,201811,49.6
+El Dorado County,201812,41.1
+El Dorado County,201901,43.3
+El Dorado County,201902,34.5
+El Dorado County,201903,42.4
+El Dorado County,201904,52.2
+El Dorado County,201905,52.7
+El Dorado County,201906,66.1
+El Dorado County,201907,70.6
+El Dorado County,201908,72.1
+El Dorado County,201909,63
+El Dorado County,201910,54.8
+El Dorado County,201911,50
+El Dorado County,201912,41.2
+El Dorado County,202001,41.8
+El Dorado County,202002,46.1
+El Dorado County,202003,42.1
+El Dorado County,202004,51
+El Dorado County,202005,58
+El Dorado County,202006,65
+El Dorado County,202007,72.5
+El Dorado County,202008,74.8
+El Dorado County,202009,70.7
+El Dorado County,202010,63.8
+Fresno County,201101,41.2
+Fresno County,201102,40.5
+Fresno County,201103,45.1
+Fresno County,201104,50
+Fresno County,201105,54.2
+Fresno County,201106,63.8
+Fresno County,201107,71.5
+Fresno County,201108,72.2
+Fresno County,201109,69.7
+Fresno County,201110,58.5
+Fresno County,201111,45.4
+Fresno County,201112,39.4
+Fresno County,201201,43.6
+Fresno County,201202,43.4
+Fresno County,201203,46.2
+Fresno County,201204,52.3
+Fresno County,201205,60.9
+Fresno County,201206,66.7
+Fresno County,201207,72.4
+Fresno County,201208,75.9
+Fresno County,201209,70.9
+Fresno County,201210,58.7
+Fresno County,201211,49.5
+Fresno County,201212,40.1
+Fresno County,201301,39.4
+Fresno County,201302,42
+Fresno County,201303,51
+Fresno County,201304,55.8
+Fresno County,201305,60.8
+Fresno County,201306,70.1
+Fresno County,201307,76.4
+Fresno County,201308,71.8
+Fresno County,201309,66.6
+Fresno County,201310,56.1
+Fresno County,201311,49.8
+Fresno County,201312,41.2
+Fresno County,201401,47.6
+Fresno County,201402,47
+Fresno County,201403,51.1
+Fresno County,201404,55.1
+Fresno County,201405,62
+Fresno County,201406,70
+Fresno County,201407,76.1
+Fresno County,201408,72.9
+Fresno County,201409,69.8
+Fresno County,201410,62.1
+Fresno County,201411,50.3
+Fresno County,201412,44.2
+Fresno County,201501,44.2
+Fresno County,201502,49.9
+Fresno County,201503,54.4
+Fresno County,201504,53.8
+Fresno County,201505,57.6
+Fresno County,201506,71.8
+Fresno County,201507,72.5
+Fresno County,201508,73.2
+Fresno County,201509,69.3
+Fresno County,201510,61.8
+Fresno County,201511,44.3
+Fresno County,201512,38.7
+Fresno County,201601,41.9
+Fresno County,201602,48.2
+Fresno County,201603,49.1
+Fresno County,201604,54.6
+Fresno County,201605,59.5
+Fresno County,201606,71.2
+Fresno County,201607,74.6
+Fresno County,201608,73.5
+Fresno County,201609,66.7
+Fresno County,201610,57.3
+Fresno County,201611,50.3
+Fresno County,201612,40.8
+Fresno County,201701,39.7
+Fresno County,201702,44.3
+Fresno County,201703,49.2
+Fresno County,201704,51.9
+Fresno County,201705,60.2
+Fresno County,201706,70
+Fresno County,201707,76.6
+Fresno County,201708,75.6
+Fresno County,201709,67.2
+Fresno County,201710,58.3
+Fresno County,201711,50.9
+Fresno County,201712,44.2
+Fresno County,201801,45.9
+Fresno County,201802,43.8
+Fresno County,201803,45.5
+Fresno County,201804,54
+Fresno County,201805,59.6
+Fresno County,201806,68.8
+Fresno County,201807,77.6
+Fresno County,201808,73.4
+Fresno County,201809,68.6
+Fresno County,201810,58.1
+Fresno County,201811,50.7
+Fresno County,201812,42.3
+Fresno County,201901,43.7
+Fresno County,201902,38.3
+Fresno County,201903,45.8
+Fresno County,201904,55.6
+Fresno County,201905,54.8
+Fresno County,201906,69.1
+Fresno County,201907,73.3
+Fresno County,201908,74.1
+Fresno County,201909,66.5
+Fresno County,201910,56.1
+Fresno County,201911,50.6
+Fresno County,201912,42.5
+Fresno County,202001,41.8
+Fresno County,202002,46.6
+Fresno County,202003,44.9
+Fresno County,202004,53.2
+Fresno County,202005,61.8
+Fresno County,202006,68
+Fresno County,202007,74.2
+Fresno County,202008,76.2
+Fresno County,202009,70.8
+Fresno County,202010,63.5
+Glenn County,201011,50.8
+Glenn County,201012,46.4
+Glenn County,201101,46.1
+Glenn County,201102,46.4
+Glenn County,201103,48.4
+Glenn County,201104,54.2
+Glenn County,201105,58.2
+Glenn County,201106,68.2
+Glenn County,201107,75.4
+Glenn County,201108,75.6
+Glenn County,201109,75.3
+Glenn County,201110,62.1
+Glenn County,201111,49
+Glenn County,201112,46.2
+Glenn County,201201,46.8
+Glenn County,201202,48.7
+Glenn County,201203,48.9
+Glenn County,201204,56
+Glenn County,201205,65.3
+Glenn County,201206,70.2
+Glenn County,201207,75.7
+Glenn County,201208,78.5
+Glenn County,201209,73.9
+Glenn County,201210,63.1
+Glenn County,201211,53.2
+Glenn County,201212,44.6
+Glenn County,201301,44.6
+Glenn County,201302,48
+Glenn County,201303,54.3
+Glenn County,201304,60.5
+Glenn County,201305,65.8
+Glenn County,201306,73.7
+Glenn County,201307,79.2
+Glenn County,201308,74.9
+Glenn County,201309,69.8
+Glenn County,201310,61.2
+Glenn County,201311,54.4
+Glenn County,201312,45.5
+Glenn County,201401,52.7
+Glenn County,201402,50.2
+Glenn County,201403,54.6
+Glenn County,201404,59.1
+Glenn County,201405,67.1
+Glenn County,201406,74.7
+Glenn County,201407,80
+Glenn County,201408,76.7
+Glenn County,201409,73.2
+Glenn County,201410,65.1
+Glenn County,201411,53
+Glenn County,201412,49.2
+Glenn County,201501,50.5
+Glenn County,201502,54.5
+Glenn County,201503,58.2
+Glenn County,201504,58.9
+Glenn County,201505,63.8
+Glenn County,201506,77.2
+Glenn County,201507,78.2
+Glenn County,201508,76
+Glenn County,201509,72.5
+Glenn County,201510,67.3
+Glenn County,201511,49.7
+Glenn County,201512,44.1
+Glenn County,201601,46.3
+Glenn County,201602,53.3
+Glenn County,201603,52.5
+Glenn County,201604,59.8
+Glenn County,201605,65.4
+Glenn County,201606,73.8
+Glenn County,201607,77.3
+Glenn County,201608,76.9
+Glenn County,201609,72.2
+Glenn County,201610,59.7
+Glenn County,201611,52.2
+Glenn County,201612,43.6
+Glenn County,201701,43.5
+Glenn County,201702,48.1
+Glenn County,201703,52.8
+Glenn County,201704,54.6
+Glenn County,201705,66.7
+Glenn County,201706,74.5
+Glenn County,201707,80.1
+Glenn County,201708,80.3
+Glenn County,201709,73
+Glenn County,201710,63.4
+Glenn County,201711,51.4
+Glenn County,201712,48.1
+Glenn County,201801,48
+Glenn County,201802,49.2
+Glenn County,201803,49
+Glenn County,201804,56.7
+Glenn County,201805,65.7
+Glenn County,201806,73.4
+Glenn County,201807,80.9
+Glenn County,201808,74.9
+Glenn County,201809,70.9
+Glenn County,201810,63.5
+Glenn County,201811,53.7
+Glenn County,201812,45.8
+Glenn County,201901,47.6
+Glenn County,201902,42.8
+Glenn County,201903,49.6
+Glenn County,201904,60.4
+Glenn County,201905,61.4
+Glenn County,201906,74.8
+Glenn County,201907,77.1
+Glenn County,201908,78.3
+Glenn County,201909,70
+Glenn County,201910,61.3
+Glenn County,201911,55.7
+Glenn County,201912,46.6
+Glenn County,202001,46.3
+Glenn County,202002,52.4
+Glenn County,202003,50.8
+Glenn County,202004,59.9
+Glenn County,202005,66.2
+Glenn County,202006,73.7
+Glenn County,202007,79.2
+Glenn County,202008,79.9
+Glenn County,202009,75.4
+Glenn County,202010,69
+Humboldt County,201101,45.4
+Humboldt County,201102,42.3
+Humboldt County,201103,45.9
+Humboldt County,201104,47.5
+Humboldt County,201105,52.6
+Humboldt County,201106,59.9
+Humboldt County,201107,65.8
+Humboldt County,201108,66.7
+Humboldt County,201109,65.6
+Humboldt County,201110,57.2
+Humboldt County,201111,46.3
+Humboldt County,201112,41
+Humboldt County,201201,43.4
+Humboldt County,201202,44.6
+Humboldt County,201203,44.7
+Humboldt County,201204,50.6
+Humboldt County,201205,55.2
+Humboldt County,201206,59.3
+Humboldt County,201207,65.7
+Humboldt County,201208,69.4
+Humboldt County,201209,66.3
+Humboldt County,201210,57.9
+Humboldt County,201211,50
+Humboldt County,201212,41.6
+Humboldt County,201301,41.2
+Humboldt County,201302,43.4
+Humboldt County,201303,48.4
+Humboldt County,201304,52.2
+Humboldt County,201305,57.2
+Humboldt County,201306,63
+Humboldt County,201307,69.4
+Humboldt County,201308,68
+Humboldt County,201309,64.3
+Humboldt County,201310,54.1
+Humboldt County,201311,48.4
+Humboldt County,201312,40.2
+Humboldt County,201401,45.7
+Humboldt County,201402,46.6
+Humboldt County,201403,50.1
+Humboldt County,201404,53
+Humboldt County,201405,58.6
+Humboldt County,201406,62.8
+Humboldt County,201407,70
+Humboldt County,201408,68.8
+Humboldt County,201409,66.9
+Humboldt County,201410,59.8
+Humboldt County,201411,50.9
+Humboldt County,201412,47.5
+Humboldt County,201501,47.8
+Humboldt County,201502,50.2
+Humboldt County,201503,52.2
+Humboldt County,201504,51.5
+Humboldt County,201505,56.8
+Humboldt County,201506,66
+Humboldt County,201507,70
+Humboldt County,201508,68.2
+Humboldt County,201509,63.8
+Humboldt County,201510,61.4
+Humboldt County,201511,46.4
+Humboldt County,201512,43.2
+Humboldt County,201601,46.4
+Humboldt County,201602,49
+Humboldt County,201603,49.5
+Humboldt County,201604,55.3
+Humboldt County,201605,58.4
+Humboldt County,201606,63.6
+Humboldt County,201607,67.4
+Humboldt County,201608,68.4
+Humboldt County,201609,64.2
+Humboldt County,201610,56
+Humboldt County,201611,50.7
+Humboldt County,201612,40.7
+Humboldt County,201701,40.8
+Humboldt County,201702,45.2
+Humboldt County,201703,49
+Humboldt County,201704,49.9
+Humboldt County,201705,57
+Humboldt County,201706,62.7
+Humboldt County,201707,68.2
+Humboldt County,201708,70.8
+Humboldt County,201709,65.5
+Humboldt County,201710,56.4
+Humboldt County,201711,48.3
+Humboldt County,201712,43.9
+Humboldt County,201801,46.4
+Humboldt County,201802,43.8
+Humboldt County,201803,47
+Humboldt County,201804,51.6
+Humboldt County,201805,57.4
+Humboldt County,201806,61.9
+Humboldt County,201807,69.2
+Humboldt County,201808,67.4
+Humboldt County,201809,63.2
+Humboldt County,201810,56.7
+Humboldt County,201811,49.1
+Humboldt County,201812,43.9
+Humboldt County,201901,46
+Humboldt County,201902,39.9
+Humboldt County,201903,47
+Humboldt County,201904,53.6
+Humboldt County,201905,56
+Humboldt County,201906,63.1
+Humboldt County,201907,67.1
+Humboldt County,201908,69.8
+Humboldt County,201909,62.8
+Humboldt County,201910,54.9
+Humboldt County,201911,49.4
+Humboldt County,201912,44.8
+Humboldt County,202001,44.2
+Humboldt County,202002,45.9
+Humboldt County,202003,45.9
+Humboldt County,202004,53.5
+Humboldt County,202005,57
+Humboldt County,202006,62.6
+Humboldt County,202007,68
+Humboldt County,202008,70.3
+Humboldt County,202009,68
+Humboldt County,202010,61.1
+Imperial County,201101,57
+Imperial County,201102,55.7
+Imperial County,201103,66.2
+Imperial County,201104,71.6
+Imperial County,201105,74.9
+Imperial County,201106,86
+Imperial County,201107,92.4
+Imperial County,201108,95.1
+Imperial County,201109,88.5
+Imperial County,201110,77.2
+Imperial County,201111,61.9
+Imperial County,201112,52.9
+Imperial County,201201,58.8
+Imperial County,201202,59.7
+Imperial County,201203,64.2
+Imperial County,201204,72.2
+Imperial County,201205,82
+Imperial County,201206,88.8
+Imperial County,201207,91.8
+Imperial County,201208,94
+Imperial County,201209,89.3
+Imperial County,201210,77.7
+Imperial County,201211,66.8
+Imperial County,201212,57.3
+Imperial County,201301,54.2
+Imperial County,201302,57.7
+Imperial County,201303,69.8
+Imperial County,201304,73.5
+Imperial County,201305,80.7
+Imperial County,201306,90.1
+Imperial County,201307,93.8
+Imperial County,201308,91.8
+Imperial County,201309,86.4
+Imperial County,201310,72.8
+Imperial County,201311,64.7
+Imperial County,201312,56.8
+Imperial County,201401,61.8
+Imperial County,201402,64.5
+Imperial County,201403,68.7
+Imperial County,201404,73.6
+Imperial County,201405,80.8
+Imperial County,201406,89
+Imperial County,201407,94.4
+Imperial County,201408,91.4
+Imperial County,201409,89.6
+Imperial County,201410,79.7
+Imperial County,201411,66.1
+Imperial County,201412,58.5
+Imperial County,201501,59.2
+Imperial County,201502,66.7
+Imperial County,201503,71.6
+Imperial County,201504,72.9
+Imperial County,201505,75.3
+Imperial County,201506,90.2
+Imperial County,201507,91.4
+Imperial County,201508,95.8
+Imperial County,201509,89.8
+Imperial County,201510,80.3
+Imperial County,201511,62.1
+Imperial County,201512,55
+Imperial County,201601,56.3
+Imperial County,201602,65.6
+Imperial County,201603,68.2
+Imperial County,201604,72.3
+Imperial County,201605,76.7
+Imperial County,201606,90.9
+Imperial County,201607,95
+Imperial County,201608,93.9
+Imperial County,201609,84.7
+Imperial County,201610,79
+Imperial County,201611,66.9
+Imperial County,201612,56.6
+Imperial County,201701,56.1
+Imperial County,201702,62.4
+Imperial County,201703,70.7
+Imperial County,201704,75
+Imperial County,201705,78.9
+Imperial County,201706,90
+Imperial County,201707,95.7
+Imperial County,201708,94.9
+Imperial County,201709,85
+Imperial County,201710,78.5
+Imperial County,201711,69.4
+Imperial County,201712,59.4
+Imperial County,201801,61.6
+Imperial County,201802,59.6
+Imperial County,201803,65.4
+Imperial County,201804,75.2
+Imperial County,201805,78.8
+Imperial County,201806,88.1
+Imperial County,201807,95.3
+Imperial County,201808,94.9
+Imperial County,201809,90
+Imperial County,201810,74.6
+Imperial County,201811,64.2
+Imperial County,201812,56.3
+Imperial County,201901,55.7
+Imperial County,201902,53.8
+Imperial County,201903,64.5
+Imperial County,201904,73.9
+Imperial County,201905,73.7
+Imperial County,201906,86.8
+Imperial County,201907,92.7
+Imperial County,201908,94
+Imperial County,201909,85.9
+Imperial County,201910,73.6
+Imperial County,201911,64.7
+Imperial County,201912,54.8
+Imperial County,202001,57.8
+Imperial County,202002,59.8
+Imperial County,202003,61.7
+Imperial County,202004,72.2
+Imperial County,202005,83
+Imperial County,202006,87.3
+Imperial County,202007,94.5
+Imperial County,202008,96.8
+Imperial County,202009,90.2
+Imperial County,202010,80.4
+Inyo County,201101,44.1
+Inyo County,201102,43.2
+Inyo County,201103,50.8
+Inyo County,201104,56.6
+Inyo County,201105,61.3
+Inyo County,201106,73.4
+Inyo County,201107,80.5
+Inyo County,201108,81.2
+Inyo County,201109,75.8
+Inyo County,201110,63.6
+Inyo County,201111,46.8
+Inyo County,201112,41.5
+Inyo County,201201,45.5
+Inyo County,201202,46.3
+Inyo County,201203,51.1
+Inyo County,201204,59.3
+Inyo County,201205,69.9
+Inyo County,201206,77.3
+Inyo County,201207,81.1
+Inyo County,201208,83.5
+Inyo County,201209,76.9
+Inyo County,201210,64.2
+Inyo County,201211,53
+Inyo County,201212,42.2
+Inyo County,201301,41
+Inyo County,201302,45
+Inyo County,201303,56.2
+Inyo County,201304,61.4
+Inyo County,201305,67.8
+Inyo County,201306,80.2
+Inyo County,201307,84.1
+Inyo County,201308,79.8
+Inyo County,201309,73.6
+Inyo County,201310,59
+Inyo County,201311,50.6
+Inyo County,201312,43
+Inyo County,201401,49
+Inyo County,201402,50.2
+Inyo County,201403,54.1
+Inyo County,201404,60.3
+Inyo County,201405,68.1
+Inyo County,201406,78.6
+Inyo County,201407,84.1
+Inyo County,201408,78.7
+Inyo County,201409,75.9
+Inyo County,201410,66.5
+Inyo County,201411,53.2
+Inyo County,201412,43.9
+Inyo County,201501,47.3
+Inyo County,201502,53.6
+Inyo County,201503,57.7
+Inyo County,201504,58.5
+Inyo County,201505,64
+Inyo County,201506,79.9
+Inyo County,201507,78.5
+Inyo County,201508,82.5
+Inyo County,201509,75.9
+Inyo County,201510,64.6
+Inyo County,201511,46.4
+Inyo County,201512,39.8
+Inyo County,201601,41.7
+Inyo County,201602,49.9
+Inyo County,201603,53.8
+Inyo County,201604,59.7
+Inyo County,201605,64.9
+Inyo County,201606,81.2
+Inyo County,201607,84.1
+Inyo County,201608,81.5
+Inyo County,201609,72.7
+Inyo County,201610,63.1
+Inyo County,201611,52.3
+Inyo County,201612,42.4
+Inyo County,201701,40.5
+Inyo County,201702,46.8
+Inyo County,201703,55.3
+Inyo County,201704,59.1
+Inyo County,201705,66.9
+Inyo County,201706,79.6
+Inyo County,201707,85.7
+Inyo County,201708,82
+Inyo County,201709,71.8
+Inyo County,201710,63.1
+Inyo County,201711,54.2
+Inyo County,201712,46.4
+Inyo County,201801,47.9
+Inyo County,201802,45.5
+Inyo County,201803,49.5
+Inyo County,201804,61.4
+Inyo County,201805,67.4
+Inyo County,201806,79.2
+Inyo County,201807,86.2
+Inyo County,201808,82.9
+Inyo County,201809,76.1
+Inyo County,201810,61.5
+Inyo County,201811,52.2
+Inyo County,201812,43.1
+Inyo County,201901,44.2
+Inyo County,201902,39.7
+Inyo County,201903,49.5
+Inyo County,201904,60.7
+Inyo County,201905,60.7
+Inyo County,201906,76.5
+Inyo County,201907,81.8
+Inyo County,201908,82.5
+Inyo County,201909,72.4
+Inyo County,201910,58.9
+Inyo County,201911,52.3
+Inyo County,201912,41.3
+Inyo County,202001,44.6
+Inyo County,202002,48.3
+Inyo County,202003,47.6
+Inyo County,202004,58.3
+Inyo County,202005,69.6
+Inyo County,202006,76.1
+Inyo County,202007,83.2
+Inyo County,202008,84.8
+Inyo County,202009,77.5
+Inyo County,202010,67.7
+Kern County,201101,45.9
+Kern County,201102,45.8
+Kern County,201103,51.7
+Kern County,201104,57.2
+Kern County,201105,61.5
+Kern County,201106,71.7
+Kern County,201107,79.4
+Kern County,201108,79.9
+Kern County,201109,76.2
+Kern County,201110,64.8
+Kern County,201111,50.7
+Kern County,201112,43.7
+Kern County,201201,48.9
+Kern County,201202,49.3
+Kern County,201203,52.4
+Kern County,201204,59.3
+Kern County,201205,68.4
+Kern County,201206,74.2
+Kern County,201207,79.2
+Kern County,201208,83.4
+Kern County,201209,77.5
+Kern County,201210,65
+Kern County,201211,55.4
+Kern County,201212,45.9
+Kern County,201301,44
+Kern County,201302,48
+Kern County,201303,57.3
+Kern County,201304,62.3
+Kern County,201305,67.7
+Kern County,201306,77
+Kern County,201307,83.2
+Kern County,201308,78.8
+Kern County,201309,73.5
+Kern County,201310,61.9
+Kern County,201311,54.5
+Kern County,201312,46.4
+Kern County,201401,52.2
+Kern County,201402,53.1
+Kern County,201403,57
+Kern County,201404,61.3
+Kern County,201405,68.5
+Kern County,201406,76.7
+Kern County,201407,82.5
+Kern County,201408,79.3
+Kern County,201409,76.2
+Kern County,201410,68
+Kern County,201411,56.2
+Kern County,201412,48.8
+Kern County,201501,49.4
+Kern County,201502,56
+Kern County,201503,59.9
+Kern County,201504,60.2
+Kern County,201505,64.3
+Kern County,201506,78.6
+Kern County,201507,78.4
+Kern County,201508,80.6
+Kern County,201509,76.3
+Kern County,201510,67.8
+Kern County,201511,49.6
+Kern County,201512,44.2
+Kern County,201601,47
+Kern County,201602,53.5
+Kern County,201603,55.8
+Kern County,201604,60.9
+Kern County,201605,66.2
+Kern County,201606,78.9
+Kern County,201607,81.8
+Kern County,201608,80.6
+Kern County,201609,73
+Kern County,201610,64
+Kern County,201611,55.4
+Kern County,201612,46.2
+Kern County,201701,44.9
+Kern County,201702,50.7
+Kern County,201703,56
+Kern County,201704,59.9
+Kern County,201705,67
+Kern County,201706,77.7
+Kern County,201707,84
+Kern County,201708,81.9
+Kern County,201709,72.8
+Kern County,201710,64.9
+Kern County,201711,56.6
+Kern County,201712,49.3
+Kern County,201801,51.2
+Kern County,201802,49.4
+Kern County,201803,52.5
+Kern County,201804,61.1
+Kern County,201805,66.2
+Kern County,201806,76
+Kern County,201807,84.9
+Kern County,201808,80.8
+Kern County,201809,75.1
+Kern County,201810,64
+Kern County,201811,55.1
+Kern County,201812,46.8
+Kern County,201901,47.9
+Kern County,201902,43.7
+Kern County,201903,51.8
+Kern County,201904,62
+Kern County,201905,61.2
+Kern County,201906,76.2
+Kern County,201907,80.3
+Kern County,201908,80.7
+Kern County,201909,72.6
+Kern County,201910,61.9
+Kern County,201911,55.4
+Kern County,201912,46.3
+Kern County,202001,46.6
+Kern County,202002,52.2
+Kern County,202003,50.7
+Kern County,202004,59.1
+Kern County,202005,68.7
+Kern County,202006,74.6
+Kern County,202007,80.9
+Kern County,202008,83.3
+Kern County,202009,78.4
+Kern County,202010,70.2
+Kings County,201101,45.4
+Kings County,201102,48.6
+Kings County,201103,54.2
+Kings County,201104,59.9
+Kings County,201105,64.2
+Kings County,201106,73.1
+Kings County,201107,80.1
+Kings County,201108,79.7
+Kings County,201109,77.8
+Kings County,201110,66.8
+Kings County,201111,52.2
+Kings County,201112,44.2
+Kings County,201201,48.3
+Kings County,201202,51.7
+Kings County,201203,55.1
+Kings County,201204,61.7
+Kings County,201205,70.2
+Kings County,201206,75
+Kings County,201207,79.7
+Kings County,201208,83.5
+Kings County,201209,78.5
+Kings County,201210,66.4
+Kings County,201211,56
+Kings County,201212,48.1
+Kings County,201301,45.1
+Kings County,201302,49.4
+Kings County,201303,59.4
+Kings County,201304,65.3
+Kings County,201305,70.5
+Kings County,201306,78.3
+Kings County,201307,84.5
+Kings County,201308,79.8
+Kings County,201309,74.8
+Kings County,201310,64.4
+Kings County,201311,56.2
+Kings County,201312,46.3
+Kings County,201401,51.7
+Kings County,201402,55
+Kings County,201403,60.6
+Kings County,201404,64.7
+Kings County,201405,72.6
+Kings County,201406,78.6
+Kings County,201407,84.3
+Kings County,201408,81.8
+Kings County,201409,78.5
+Kings County,201410,69.9
+Kings County,201411,57
+Kings County,201412,51.4
+Kings County,201501,47.7
+Kings County,201502,56.7
+Kings County,201503,63.5
+Kings County,201504,64
+Kings County,201505,67.4
+Kings County,201506,80.7
+Kings County,201507,81.8
+Kings County,201508,81.1
+Kings County,201509,77.8
+Kings County,201510,70.1
+Kings County,201511,51.1
+Kings County,201512,45.9
+Kings County,201601,49.8
+Kings County,201602,55.3
+Kings County,201603,58.4
+Kings County,201604,64.6
+Kings County,201605,70
+Kings County,201606,80
+Kings County,201607,83
+Kings County,201608,81.8
+Kings County,201609,75.7
+Kings County,201610,65.8
+Kings County,201611,57.1
+Kings County,201612,47.2
+Kings County,201701,47.2
+Kings County,201702,52.8
+Kings County,201703,57.7
+Kings County,201704,61.7
+Kings County,201705,70.1
+Kings County,201706,79.4
+Kings County,201707,84.8
+Kings County,201708,84.5
+Kings County,201709,76.8
+Kings County,201710,66.2
+Kings County,201711,57.4
+Kings County,201712,48.8
+Kings County,201801,51.3
+Kings County,201802,51.7
+Kings County,201803,55.4
+Kings County,201804,63.7
+Kings County,201805,69.1
+Kings County,201806,77
+Kings County,201807,85.4
+Kings County,201808,81.1
+Kings County,201809,75.9
+Kings County,201810,66.3
+Kings County,201811,56.8
+Kings County,201812,48.3
+Kings County,201901,50.2
+Kings County,201902,48.6
+Kings County,201903,56.1
+Kings County,201904,65.5
+Kings County,201905,65.4
+Kings County,201906,79
+Kings County,201907,81.9
+Kings County,201908,82.2
+Kings County,201909,74.9
+Kings County,201910,63.1
+Kings County,201911,56.1
+Kings County,201912,49.7
+Kings County,202001,47.5
+Kings County,202002,53.2
+Kings County,202003,54.8
+Kings County,202004,63
+Kings County,202005,71.7
+Kings County,202006,76.5
+Kings County,202007,81.7
+Kings County,202008,84.3
+Kings County,202009,78.4
+Kings County,202010,70.4
+Lake County,201101,46.6
+Lake County,201102,43.5
+Lake County,201103,44.8
+Lake County,201104,49.9
+Lake County,201105,55
+Lake County,201106,64.3
+Lake County,201107,72.1
+Lake County,201108,72.3
+Lake County,201109,71.6
+Lake County,201110,60.2
+Lake County,201111,47.2
+Lake County,201112,44.4
+Lake County,201201,46
+Lake County,201202,45.9
+Lake County,201203,44.8
+Lake County,201204,51.9
+Lake County,201205,60.7
+Lake County,201206,64.9
+Lake County,201207,72.2
+Lake County,201208,75.4
+Lake County,201209,70.4
+Lake County,201210,59.9
+Lake County,201211,50.6
+Lake County,201212,42.6
+Lake County,201301,43.8
+Lake County,201302,46.1
+Lake County,201303,50.7
+Lake County,201304,57
+Lake County,201305,60.6
+Lake County,201306,68.5
+Lake County,201307,76
+Lake County,201308,71.5
+Lake County,201309,65.9
+Lake County,201310,59.2
+Lake County,201311,52.4
+Lake County,201312,46.6
+Lake County,201401,52.4
+Lake County,201402,47.4
+Lake County,201403,51.6
+Lake County,201404,56.1
+Lake County,201405,61.9
+Lake County,201406,70.3
+Lake County,201407,76.6
+Lake County,201408,73.6
+Lake County,201409,69.6
+Lake County,201410,62.6
+Lake County,201411,51.9
+Lake County,201412,46.9
+Lake County,201501,51.1
+Lake County,201502,52.9
+Lake County,201503,55.7
+Lake County,201504,55.1
+Lake County,201505,59.5
+Lake County,201506,73
+Lake County,201507,73.9
+Lake County,201508,73.1
+Lake County,201509,69.7
+Lake County,201510,65.1
+Lake County,201511,47.6
+Lake County,201512,42.5
+Lake County,201601,43.6
+Lake County,201602,51.8
+Lake County,201603,49.3
+Lake County,201604,55.4
+Lake County,201605,60.7
+Lake County,201606,69.4
+Lake County,201607,73.8
+Lake County,201608,74.4
+Lake County,201609,69.1
+Lake County,201610,56.2
+Lake County,201611,50.1
+Lake County,201612,42.5
+Lake County,201701,42
+Lake County,201702,44.8
+Lake County,201703,50.5
+Lake County,201704,50.8
+Lake County,201705,61.7
+Lake County,201706,69.9
+Lake County,201707,76.7
+Lake County,201708,77.6
+Lake County,201709,69.3
+Lake County,201710,61.5
+Lake County,201711,49
+Lake County,201712,48.3
+Lake County,201801,46.9
+Lake County,201802,47.5
+Lake County,201803,46.4
+Lake County,201804,52.8
+Lake County,201805,60.7
+Lake County,201806,69.1
+Lake County,201807,78
+Lake County,201808,73.4
+Lake County,201809,68.3
+Lake County,201810,61.4
+Lake County,201811,53
+Lake County,201812,44.6
+Lake County,201901,46.6
+Lake County,201902,38.9
+Lake County,201903,46.2
+Lake County,201904,56.4
+Lake County,201905,57.2
+Lake County,201906,70.2
+Lake County,201907,73.1
+Lake County,201908,74.8
+Lake County,201909,66.4
+Lake County,201910,59.1
+Lake County,201911,54.2
+Lake County,201912,44.3
+Lake County,202001,44.5
+Lake County,202002,51
+Lake County,202003,46.2
+Lake County,202004,55.4
+Lake County,202005,60.8
+Lake County,202006,69
+Lake County,202007,75.2
+Lake County,202008,77.2
+Lake County,202009,72.5
+Lake County,202010,67.4
+Lassen County,201101,33.3
+Lassen County,201102,30.4
+Lassen County,201103,35.9
+Lassen County,201104,39.6
+Lassen County,201105,45.6
+Lassen County,201106,55.9
+Lassen County,201107,64.8
+Lassen County,201108,65.6
+Lassen County,201109,62.8
+Lassen County,201110,49.4
+Lassen County,201111,35.9
+Lassen County,201112,31.2
+Lassen County,201201,34
+Lassen County,201202,33.2
+Lassen County,201203,37.2
+Lassen County,201204,44.8
+Lassen County,201205,52.2
+Lassen County,201206,57.6
+Lassen County,201207,67
+Lassen County,201208,69
+Lassen County,201209,63.4
+Lassen County,201210,51.1
+Lassen County,201211,40.2
+Lassen County,201212,29.4
+Lassen County,201301,25.4
+Lassen County,201302,33
+Lassen County,201303,41.3
+Lassen County,201304,45.4
+Lassen County,201305,51.9
+Lassen County,201306,61.4
+Lassen County,201307,70.8
+Lassen County,201308,65.2
+Lassen County,201309,57.9
+Lassen County,201310,46
+Lassen County,201311,40.1
+Lassen County,201312,28.8
+Lassen County,201401,37.3
+Lassen County,201402,37.3
+Lassen County,201403,40.3
+Lassen County,201404,45.7
+Lassen County,201405,53.2
+Lassen County,201406,61.4
+Lassen County,201407,72
+Lassen County,201408,66.2
+Lassen County,201409,61.2
+Lassen County,201410,51.6
+Lassen County,201411,40.1
+Lassen County,201412,35.1
+Lassen County,201501,38
+Lassen County,201502,41.3
+Lassen County,201503,44.9
+Lassen County,201504,44.3
+Lassen County,201505,51.6
+Lassen County,201506,65.8
+Lassen County,201507,66.6
+Lassen County,201508,66.7
+Lassen County,201509,60.5
+Lassen County,201510,53.8
+Lassen County,201511,33.5
+Lassen County,201512,29.9
+Lassen County,201601,31.4
+Lassen County,201602,38.8
+Lassen County,201603,39.8
+Lassen County,201604,47.5
+Lassen County,201605,51.8
+Lassen County,201606,61.6
+Lassen County,201607,67
+Lassen County,201608,68.3
+Lassen County,201609,59.1
+Lassen County,201610,47.5
+Lassen County,201611,40
+Lassen County,201612,29.4
+Lassen County,201701,27.3
+Lassen County,201702,34.2
+Lassen County,201703,40.9
+Lassen County,201704,42.1
+Lassen County,201705,53.4
+Lassen County,201706,61.8
+Lassen County,201707,70
+Lassen County,201708,70.1
+Lassen County,201709,58.8
+Lassen County,201710,47.3
+Lassen County,201711,40.5
+Lassen County,201712,33
+Lassen County,201801,37.1
+Lassen County,201802,31.5
+Lassen County,201803,35.4
+Lassen County,201804,44
+Lassen County,201805,53.4
+Lassen County,201806,60.2
+Lassen County,201807,71
+Lassen County,201808,67
+Lassen County,201809,59
+Lassen County,201810,47.9
+Lassen County,201811,38.7
+Lassen County,201812,31.2
+Lassen County,201901,33.9
+Lassen County,201902,27.1
+Lassen County,201903,35.9
+Lassen County,201904,46.5
+Lassen County,201905,49.6
+Lassen County,201906,59.8
+Lassen County,201907,66.1
+Lassen County,201908,67.3
+Lassen County,201909,55.9
+Lassen County,201910,43.8
+Lassen County,201911,40.8
+Lassen County,201912,32.8
+Lassen County,202001,34.1
+Lassen County,202002,36.1
+Lassen County,202003,36.1
+Lassen County,202004,45.8
+Lassen County,202005,52.5
+Lassen County,202006,59.5
+Lassen County,202007,68.4
+Lassen County,202008,69.4
+Lassen County,202009,63.8
+Lassen County,202010,53.1
+Los Angeles County,201101,51.5
+Los Angeles County,201102,47.9
+Los Angeles County,201103,53.6
+Los Angeles County,201104,57.8
+Los Angeles County,201105,60.4
+Los Angeles County,201106,67.1
+Los Angeles County,201107,74.7
+Los Angeles County,201108,76
+Los Angeles County,201109,72.9
+Los Angeles County,201110,64.8
+Los Angeles County,201111,53.5
+Los Angeles County,201112,48.4
+Los Angeles County,201201,53.6
+Los Angeles County,201202,51.1
+Los Angeles County,201203,52.8
+Los Angeles County,201204,58.8
+Los Angeles County,201205,65.6
+Los Angeles County,201206,70
+Los Angeles County,201207,74.3
+Los Angeles County,201208,79.8
+Los Angeles County,201209,76.3
+Los Angeles County,201210,66.3
+Los Angeles County,201211,57.6
+Los Angeles County,201212,48.7
+Los Angeles County,201301,48.3
+Los Angeles County,201302,50.2
+Los Angeles County,201303,58.2
+Los Angeles County,201304,61.1
+Los Angeles County,201305,65.9
+Los Angeles County,201306,72.7
+Los Angeles County,201307,76.8
+Los Angeles County,201308,75.5
+Los Angeles County,201309,73.2
+Los Angeles County,201310,62.5
+Los Angeles County,201311,57.2
+Los Angeles County,201312,51.6
+Los Angeles County,201401,56.9
+Los Angeles County,201402,55.6
+Los Angeles County,201403,58
+Los Angeles County,201404,60.8
+Los Angeles County,201405,67.2
+Los Angeles County,201406,72
+Los Angeles County,201407,77.4
+Los Angeles County,201408,75.6
+Los Angeles County,201409,75
+Los Angeles County,201410,68.7
+Los Angeles County,201411,59.1
+Los Angeles County,201412,51.6
+Los Angeles County,201501,54.5
+Los Angeles County,201502,58.4
+Los Angeles County,201503,61.9
+Los Angeles County,201504,60.2
+Los Angeles County,201505,60.8
+Los Angeles County,201506,73.9
+Los Angeles County,201507,73.8
+Los Angeles County,201508,77.9
+Los Angeles County,201509,75.2
+Los Angeles County,201510,69.3
+Los Angeles County,201511,54.1
+Los Angeles County,201512,48.7
+Los Angeles County,201601,50
+Los Angeles County,201602,58.7
+Los Angeles County,201603,57.1
+Los Angeles County,201604,60.8
+Los Angeles County,201605,62.5
+Los Angeles County,201606,75
+Los Angeles County,201607,77.6
+Los Angeles County,201608,76.8
+Los Angeles County,201609,71.5
+Los Angeles County,201610,65.4
+Los Angeles County,201611,59
+Los Angeles County,201612,50.5
+Los Angeles County,201701,48
+Los Angeles County,201702,51.9
+Los Angeles County,201703,58.6
+Los Angeles County,201704,61.1
+Los Angeles County,201705,64.3
+Los Angeles County,201706,73.8
+Los Angeles County,201707,79.1
+Los Angeles County,201708,77.8
+Los Angeles County,201709,71.2
+Los Angeles County,201710,67.9
+Los Angeles County,201711,60.5
+Los Angeles County,201712,55.1
+Los Angeles County,201801,55.6
+Los Angeles County,201802,52.4
+Los Angeles County,201803,53.4
+Los Angeles County,201804,60.7
+Los Angeles County,201805,62.4
+Los Angeles County,201806,71.4
+Los Angeles County,201807,80.8
+Los Angeles County,201808,78
+Los Angeles County,201809,73.3
+Los Angeles County,201810,64.6
+Los Angeles County,201811,58.4
+Los Angeles County,201812,50.9
+Los Angeles County,201901,50.7
+Los Angeles County,201902,45.1
+Los Angeles County,201903,53
+Los Angeles County,201904,60.4
+Los Angeles County,201905,58.4
+Los Angeles County,201906,70.4
+Los Angeles County,201907,75.8
+Los Angeles County,201908,76.8
+Los Angeles County,201909,71.8
+Los Angeles County,201910,64.5
+Los Angeles County,201911,57.9
+Los Angeles County,201912,48.7
+Los Angeles County,202001,51.6
+Los Angeles County,202002,54.6
+Los Angeles County,202003,51.1
+Los Angeles County,202004,58.6
+Los Angeles County,202005,66.7
+Los Angeles County,202006,70.3
+Los Angeles County,202007,75.6
+Los Angeles County,202008,79.5
+Los Angeles County,202009,77.5
+Los Angeles County,202010,70.4
+Madera County,201101,42.1
+Madera County,201102,41
+Madera County,201103,45.5
+Madera County,201104,50.5
+Madera County,201105,54.6
+Madera County,201106,63.7
+Madera County,201107,72.2
+Madera County,201108,72.7
+Madera County,201109,70.5
+Madera County,201110,59
+Madera County,201111,46.1
+Madera County,201112,40.2
+Madera County,201201,44
+Madera County,201202,43.9
+Madera County,201203,46.9
+Madera County,201204,52.5
+Madera County,201205,61.3
+Madera County,201206,67.3
+Madera County,201207,73.1
+Madera County,201208,76.6
+Madera County,201209,71.6
+Madera County,201210,59.5
+Madera County,201211,50
+Madera County,201212,41
+Madera County,201301,39.7
+Madera County,201302,42.6
+Madera County,201303,51.7
+Madera County,201304,55.8
+Madera County,201305,61.3
+Madera County,201306,70.7
+Madera County,201307,76.8
+Madera County,201308,72.5
+Madera County,201309,67.2
+Madera County,201310,56.2
+Madera County,201311,50
+Madera County,201312,41.5
+Madera County,201401,47.6
+Madera County,201402,47.3
+Madera County,201403,51.5
+Madera County,201404,55.5
+Madera County,201405,62.2
+Madera County,201406,69.9
+Madera County,201407,76.6
+Madera County,201408,73.4
+Madera County,201409,70
+Madera County,201410,62.4
+Madera County,201411,50.3
+Madera County,201412,45
+Madera County,201501,45.2
+Madera County,201502,50.6
+Madera County,201503,54.8
+Madera County,201504,54.3
+Madera County,201505,58.6
+Madera County,201506,72.8
+Madera County,201507,73.7
+Madera County,201508,74.2
+Madera County,201509,70
+Madera County,201510,62.4
+Madera County,201511,44.7
+Madera County,201512,39.3
+Madera County,201601,42.7
+Madera County,201602,48.9
+Madera County,201603,49.8
+Madera County,201604,55.2
+Madera County,201605,60.4
+Madera County,201606,71.3
+Madera County,201607,74.8
+Madera County,201608,73.8
+Madera County,201609,67.3
+Madera County,201610,58.2
+Madera County,201611,50.6
+Madera County,201612,41.5
+Madera County,201701,40.1
+Madera County,201702,45.3
+Madera County,201703,49.7
+Madera County,201704,52.5
+Madera County,201705,61.2
+Madera County,201706,70.3
+Madera County,201707,77
+Madera County,201708,75.8
+Madera County,201709,67.3
+Madera County,201710,58.4
+Madera County,201711,51.2
+Madera County,201712,44.8
+Madera County,201801,46.7
+Madera County,201802,44.3
+Madera County,201803,46.2
+Madera County,201804,54
+Madera County,201805,60.1
+Madera County,201806,69.3
+Madera County,201807,77.6
+Madera County,201808,73.6
+Madera County,201809,68.6
+Madera County,201810,58.2
+Madera County,201811,50.8
+Madera County,201812,43.1
+Madera County,201901,44.5
+Madera County,201902,38.9
+Madera County,201903,46.4
+Madera County,201904,55.7
+Madera County,201905,55.4
+Madera County,201906,69.7
+Madera County,201907,73.5
+Madera County,201908,74.5
+Madera County,201909,66.8
+Madera County,201910,56.4
+Madera County,201911,51.1
+Madera County,201912,43.4
+Madera County,202001,42.8
+Madera County,202002,47.4
+Madera County,202003,46.1
+Madera County,202004,53.8
+Madera County,202005,62.3
+Madera County,202006,68.6
+Madera County,202007,75.1
+Madera County,202008,76.7
+Madera County,202009,71.1
+Madera County,202010,64.3
+Marin County,201101,49.3
+Marin County,201102,48.5
+Marin County,201103,50.6
+Marin County,201104,52.4
+Marin County,201105,53.1
+Marin County,201106,57.4
+Marin County,201107,60.4
+Marin County,201108,60.6
+Marin County,201109,63.6
+Marin County,201110,59.9
+Marin County,201111,51.2
+Marin County,201112,48.8
+Marin County,201201,50.4
+Marin County,201202,50.8
+Marin County,201203,49.8
+Marin County,201204,53.9
+Marin County,201205,56.6
+Marin County,201206,59.2
+Marin County,201207,60.7
+Marin County,201208,61.7
+Marin County,201209,59.5
+Marin County,201210,60.7
+Marin County,201211,55.2
+Marin County,201212,49
+Marin County,201301,47.4
+Marin County,201302,49.9
+Marin County,201303,53.5
+Marin County,201304,57.3
+Marin County,201305,58.5
+Marin County,201306,61
+Marin County,201307,61.9
+Marin County,201308,62.4
+Marin County,201309,62.6
+Marin County,201310,58.3
+Marin County,201311,55.1
+Marin County,201312,47.6
+Marin County,201401,54.6
+Marin County,201402,52.1
+Marin County,201403,55.7
+Marin County,201404,56.4
+Marin County,201405,59.8
+Marin County,201406,61
+Marin County,201407,64
+Marin County,201408,63.4
+Marin County,201409,63.8
+Marin County,201410,63.6
+Marin County,201411,56.6
+Marin County,201412,54.1
+Marin County,201501,53
+Marin County,201502,56.5
+Marin County,201503,57.3
+Marin County,201504,55
+Marin County,201505,55
+Marin County,201506,61.7
+Marin County,201507,63.9
+Marin County,201508,65.7
+Marin County,201509,65.5
+Marin County,201510,64.3
+Marin County,201511,52.8
+Marin County,201512,49.2
+Marin County,201601,50.6
+Marin County,201602,56.2
+Marin County,201603,53.8
+Marin County,201604,57.2
+Marin County,201605,58.2
+Marin County,201606,61.7
+Marin County,201607,61.5
+Marin County,201608,61.2
+Marin County,201609,62.7
+Marin County,201610,59
+Marin County,201611,55.4
+Marin County,201612,48.2
+Marin County,201701,47.8
+Marin County,201702,51.1
+Marin County,201703,54.4
+Marin County,201704,54.4
+Marin County,201705,58.2
+Marin County,201706,61.8
+Marin County,201707,63.3
+Marin County,201708,64.2
+Marin County,201709,67
+Marin County,201710,62
+Marin County,201711,54.6
+Marin County,201712,51.2
+Marin County,201801,51.4
+Marin County,201802,52.4
+Marin County,201803,51
+Marin County,201804,54.2
+Marin County,201805,56.6
+Marin County,201806,60.9
+Marin County,201807,62.8
+Marin County,201808,61.9
+Marin County,201809,60.8
+Marin County,201810,61
+Marin County,201811,56.5
+Marin County,201812,50.7
+Marin County,201901,51.9
+Marin County,201902,46.4
+Marin County,201903,51.4
+Marin County,201904,56.8
+Marin County,201905,54.8
+Marin County,201906,62.2
+Marin County,201907,62
+Marin County,201908,65.9
+Marin County,201909,64.2
+Marin County,201910,61.1
+Marin County,201911,55.5
+Marin County,201912,50.7
+Marin County,202001,50.3
+Marin County,202002,54.6
+Marin County,202003,51.2
+Marin County,202004,55
+Marin County,202005,59.2
+Marin County,202006,62.5
+Marin County,202007,61.9
+Marin County,202008,66.4
+Marin County,202009,66.6
+Marin County,202010,66.1
+Mariposa County,201101,42.2
+Mariposa County,201102,39.8
+Mariposa County,201103,43.5
+Mariposa County,201104,48.8
+Mariposa County,201105,52.7
+Mariposa County,201106,61.6
+Mariposa County,201107,70.7
+Mariposa County,201108,71.6
+Mariposa County,201109,69.7
+Mariposa County,201110,58
+Mariposa County,201111,45.4
+Mariposa County,201112,41.1
+Mariposa County,201201,44.8
+Mariposa County,201202,43
+Mariposa County,201203,44.9
+Mariposa County,201204,51.5
+Mariposa County,201205,60
+Mariposa County,201206,65.9
+Mariposa County,201207,72.3
+Mariposa County,201208,76.5
+Mariposa County,201209,71.4
+Mariposa County,201210,58.6
+Mariposa County,201211,49
+Mariposa County,201212,39
+Mariposa County,201301,39.8
+Mariposa County,201302,41.9
+Mariposa County,201303,49.7
+Mariposa County,201304,54.6
+Mariposa County,201305,59.9
+Mariposa County,201306,69.6
+Mariposa County,201307,76.2
+Mariposa County,201308,71.6
+Mariposa County,201309,66
+Mariposa County,201310,55.2
+Mariposa County,201311,49
+Mariposa County,201312,41.8
+Mariposa County,201401,48.4
+Mariposa County,201402,45.9
+Mariposa County,201403,49.7
+Mariposa County,201404,53.9
+Mariposa County,201405,60.9
+Mariposa County,201406,69.2
+Mariposa County,201407,76
+Mariposa County,201408,72.5
+Mariposa County,201409,69
+Mariposa County,201410,61.6
+Mariposa County,201411,50
+Mariposa County,201412,43.3
+Mariposa County,201501,46.7
+Mariposa County,201502,50.3
+Mariposa County,201503,53.7
+Mariposa County,201504,52.9
+Mariposa County,201505,56.5
+Mariposa County,201506,71.8
+Mariposa County,201507,72.3
+Mariposa County,201508,73.4
+Mariposa County,201509,69.4
+Mariposa County,201510,61.4
+Mariposa County,201511,43.6
+Mariposa County,201512,38
+Mariposa County,201601,40.8
+Mariposa County,201602,49.4
+Mariposa County,201603,48
+Mariposa County,201604,53.8
+Mariposa County,201605,58.5
+Mariposa County,201606,70.6
+Mariposa County,201607,74.4
+Mariposa County,201608,73.8
+Mariposa County,201609,66.7
+Mariposa County,201610,56.4
+Mariposa County,201611,49.5
+Mariposa County,201612,40.9
+Mariposa County,201701,38.5
+Mariposa County,201702,42.9
+Mariposa County,201703,48.7
+Mariposa County,201704,51
+Mariposa County,201705,60.1
+Mariposa County,201706,69.3
+Mariposa County,201707,76.4
+Mariposa County,201708,75.2
+Mariposa County,201709,65.8
+Mariposa County,201710,58.9
+Mariposa County,201711,50.2
+Mariposa County,201712,46.8
+Mariposa County,201801,46.9
+Mariposa County,201802,43.3
+Mariposa County,201803,44
+Mariposa County,201804,52.5
+Mariposa County,201805,58.6
+Mariposa County,201806,68.6
+Mariposa County,201807,77.3
+Mariposa County,201808,73.3
+Mariposa County,201809,68.4
+Mariposa County,201810,57.6
+Mariposa County,201811,50.8
+Mariposa County,201812,42
+Mariposa County,201901,43.6
+Mariposa County,201902,36
+Mariposa County,201903,44.3
+Mariposa County,201904,54
+Mariposa County,201905,53.6
+Mariposa County,201906,68
+Mariposa County,201907,72.3
+Mariposa County,201908,73.5
+Mariposa County,201909,65.4
+Mariposa County,201910,56.2
+Mariposa County,201911,51
+Mariposa County,201912,41.9
+Mariposa County,202001,42.3
+Mariposa County,202002,47.2
+Mariposa County,202003,43.8
+Mariposa County,202004,52.5
+Mariposa County,202005,60.6
+Mariposa County,202006,67.3
+Mariposa County,202007,74.4
+Mariposa County,202008,76.1
+Mariposa County,202009,71.1
+Mariposa County,202010,64.8
+Mendocino County,201101,46.6
+Mendocino County,201102,43.1
+Mendocino County,201103,46.1
+Mendocino County,201104,49
+Mendocino County,201105,52.7
+Mendocino County,201106,60.2
+Mendocino County,201107,67
+Mendocino County,201108,68.2
+Mendocino County,201109,68
+Mendocino County,201110,59
+Mendocino County,201111,47.8
+Mendocino County,201112,44.1
+Mendocino County,201201,45.2
+Mendocino County,201202,46.2
+Mendocino County,201203,45.6
+Mendocino County,201204,51.4
+Mendocino County,201205,57
+Mendocino County,201206,60.9
+Mendocino County,201207,67.2
+Mendocino County,201208,69.8
+Mendocino County,201209,66.6
+Mendocino County,201210,59.4
+Mendocino County,201211,51.4
+Mendocino County,201212,43.5
+Mendocino County,201301,43.4
+Mendocino County,201302,45.2
+Mendocino County,201303,50
+Mendocino County,201304,54.1
+Mendocino County,201305,58.3
+Mendocino County,201306,64.4
+Mendocino County,201307,70.7
+Mendocino County,201308,68.8
+Mendocino County,201309,64.2
+Mendocino County,201310,56.6
+Mendocino County,201311,51.8
+Mendocino County,201312,44.3
+Mendocino County,201401,49.6
+Mendocino County,201402,47.7
+Mendocino County,201403,51.1
+Mendocino County,201404,54.2
+Mendocino County,201405,59.2
+Mendocino County,201406,65.1
+Mendocino County,201407,71.5
+Mendocino County,201408,69.6
+Mendocino County,201409,67.2
+Mendocino County,201410,61.2
+Mendocino County,201411,52.1
+Mendocino County,201412,48.4
+Mendocino County,201501,49.8
+Mendocino County,201502,52.4
+Mendocino County,201503,54.4
+Mendocino County,201504,52.9
+Mendocino County,201505,57.4
+Mendocino County,201506,68.1
+Mendocino County,201507,70.5
+Mendocino County,201508,69.9
+Mendocino County,201509,65.9
+Mendocino County,201510,63.3
+Mendocino County,201511,47.4
+Mendocino County,201512,43.7
+Mendocino County,201601,46.3
+Mendocino County,201602,51.2
+Mendocino County,201603,50
+Mendocino County,201604,54.9
+Mendocino County,201605,59.1
+Mendocino County,201606,65
+Mendocino County,201607,68.7
+Mendocino County,201608,69.3
+Mendocino County,201609,65.5
+Mendocino County,201610,56
+Mendocino County,201611,51
+Mendocino County,201612,42.4
+Mendocino County,201701,42.9
+Mendocino County,201702,46.4
+Mendocino County,201703,50.5
+Mendocino County,201704,50.5
+Mendocino County,201705,58.8
+Mendocino County,201706,65.2
+Mendocino County,201707,70.5
+Mendocino County,201708,72.4
+Mendocino County,201709,67.4
+Mendocino County,201710,59.2
+Mendocino County,201711,50
+Mendocino County,201712,45.9
+Mendocino County,201801,47.3
+Mendocino County,201802,46
+Mendocino County,201803,47
+Mendocino County,201804,51.8
+Mendocino County,201805,58.3
+Mendocino County,201806,64
+Mendocino County,201807,71.8
+Mendocino County,201808,68.4
+Mendocino County,201809,64.9
+Mendocino County,201810,59.3
+Mendocino County,201811,51
+Mendocino County,201812,44.9
+Mendocino County,201901,47.2
+Mendocino County,201902,40.8
+Mendocino County,201903,47
+Mendocino County,201904,54.8
+Mendocino County,201905,56.1
+Mendocino County,201906,65.7
+Mendocino County,201907,68.2
+Mendocino County,201908,70.6
+Mendocino County,201909,64.1
+Mendocino County,201910,56.5
+Mendocino County,201911,52.8
+Mendocino County,201912,45.8
+Mendocino County,202001,44.7
+Mendocino County,202002,48.6
+Mendocino County,202003,46
+Mendocino County,202004,53.6
+Mendocino County,202005,58.1
+Mendocino County,202006,64.6
+Mendocino County,202007,69.3
+Mendocino County,202008,72.1
+Mendocino County,202009,68.9
+Mendocino County,202010,64.2
+Merced County,201101,45.2
+Merced County,201102,48.3
+Merced County,201103,53.3
+Merced County,201104,58.6
+Merced County,201105,62.2
+Merced County,201106,70.8
+Merced County,201107,77
+Merced County,201108,76.6
+Merced County,201109,75.8
+Merced County,201110,65.1
+Merced County,201111,51.9
+Merced County,201112,45.2
+Merced County,201201,48.8
+Merced County,201202,51.5
+Merced County,201203,53.8
+Merced County,201204,60.3
+Merced County,201205,68.3
+Merced County,201206,72.7
+Merced County,201207,77.2
+Merced County,201208,80.1
+Merced County,201209,75.5
+Merced County,201210,66
+Merced County,201211,56.2
+Merced County,201212,47.5
+Merced County,201301,45.3
+Merced County,201302,49.3
+Merced County,201303,58.4
+Merced County,201304,64
+Merced County,201305,68.9
+Merced County,201306,75.4
+Merced County,201307,80.2
+Merced County,201308,76.8
+Merced County,201309,72.4
+Merced County,201310,63.4
+Merced County,201311,55.8
+Merced County,201312,46.3
+Merced County,201401,52
+Merced County,201402,53.6
+Merced County,201403,58.8
+Merced County,201404,62.4
+Merced County,201405,69.8
+Merced County,201406,75
+Merced County,201407,80.4
+Merced County,201408,78
+Merced County,201409,75.2
+Merced County,201410,68.5
+Merced County,201411,55.9
+Merced County,201412,51.9
+Merced County,201501,48
+Merced County,201502,55.7
+Merced County,201503,61.6
+Merced County,201504,61.7
+Merced County,201505,64.6
+Merced County,201506,77.2
+Merced County,201507,78.5
+Merced County,201508,77.8
+Merced County,201509,75.3
+Merced County,201510,69.6
+Merced County,201511,51.4
+Merced County,201512,46.2
+Merced County,201601,49.5
+Merced County,201602,55.1
+Merced County,201603,57
+Merced County,201604,62.9
+Merced County,201605,67.8
+Merced County,201606,77.1
+Merced County,201607,79.3
+Merced County,201608,77.7
+Merced County,201609,73.4
+Merced County,201610,64.4
+Merced County,201611,56.5
+Merced County,201612,47.1
+Merced County,201701,46.9
+Merced County,201702,52.4
+Merced County,201703,57.4
+Merced County,201704,59.8
+Merced County,201705,68.3
+Merced County,201706,76.2
+Merced County,201707,81.3
+Merced County,201708,80.4
+Merced County,201709,74.5
+Merced County,201710,64.8
+Merced County,201711,57.1
+Merced County,201712,48.9
+Merced County,201801,51.6
+Merced County,201802,51.4
+Merced County,201803,54
+Merced County,201804,60.6
+Merced County,201805,66.2
+Merced County,201806,73.6
+Merced County,201807,81.7
+Merced County,201808,77
+Merced County,201809,73.4
+Merced County,201810,65.4
+Merced County,201811,56.1
+Merced County,201812,49.2
+Merced County,201901,50.2
+Merced County,201902,48
+Merced County,201903,54.3
+Merced County,201904,63.6
+Merced County,201905,63.2
+Merced County,201906,75.7
+Merced County,201907,78.5
+Merced County,201908,79.2
+Merced County,201909,73.2
+Merced County,201910,63.4
+Merced County,201911,56.7
+Merced County,201912,50.3
+Merced County,202001,48.6
+Merced County,202002,53.8
+Merced County,202003,53.6
+Merced County,202004,61.3
+Merced County,202005,69.7
+Merced County,202006,75.2
+Merced County,202007,79
+Merced County,202008,81.2
+Merced County,202009,76.7
+Merced County,202010,69.8
+Modoc County,201101,32.7
+Modoc County,201102,30.4
+Modoc County,201103,35.5
+Modoc County,201104,38.5
+Modoc County,201105,45.2
+Modoc County,201106,54.8
+Modoc County,201107,64.3
+Modoc County,201108,65.9
+Modoc County,201109,62.8
+Modoc County,201110,48.7
+Modoc County,201111,35.6
+Modoc County,201112,31.8
+Modoc County,201201,33.6
+Modoc County,201202,32.7
+Modoc County,201203,36.3
+Modoc County,201204,44.5
+Modoc County,201205,51
+Modoc County,201206,56
+Modoc County,201207,66.9
+Modoc County,201208,68.9
+Modoc County,201209,63.2
+Modoc County,201210,50
+Modoc County,201211,40.1
+Modoc County,201212,27.7
+Modoc County,201301,26.9
+Modoc County,201302,32.6
+Modoc County,201303,40.6
+Modoc County,201304,43.9
+Modoc County,201305,51.4
+Modoc County,201306,60.2
+Modoc County,201307,70.8
+Modoc County,201308,64.6
+Modoc County,201309,57
+Modoc County,201310,45.1
+Modoc County,201311,39.4
+Modoc County,201312,28.8
+Modoc County,201401,36.9
+Modoc County,201402,36.3
+Modoc County,201403,40.2
+Modoc County,201404,45.6
+Modoc County,201405,52.9
+Modoc County,201406,60.3
+Modoc County,201407,71.8
+Modoc County,201408,66.2
+Modoc County,201409,60.8
+Modoc County,201410,51.4
+Modoc County,201411,39.7
+Modoc County,201412,34.8
+Modoc County,201501,38.7
+Modoc County,201502,41.4
+Modoc County,201503,45.1
+Modoc County,201504,44.3
+Modoc County,201505,52.1
+Modoc County,201506,66.2
+Modoc County,201507,67
+Modoc County,201508,66.8
+Modoc County,201509,59.4
+Modoc County,201510,53.9
+Modoc County,201511,33.9
+Modoc County,201512,28.9
+Modoc County,201601,31.4
+Modoc County,201602,39.8
+Modoc County,201603,40
+Modoc County,201604,48.3
+Modoc County,201605,51.9
+Modoc County,201606,61.3
+Modoc County,201607,66.3
+Modoc County,201608,67.9
+Modoc County,201609,57.9
+Modoc County,201610,46.8
+Modoc County,201611,40.6
+Modoc County,201612,28
+Modoc County,201701,27
+Modoc County,201702,34.3
+Modoc County,201703,40.9
+Modoc County,201704,42
+Modoc County,201705,53.2
+Modoc County,201706,61.6
+Modoc County,201707,70.5
+Modoc County,201708,69.8
+Modoc County,201709,58.6
+Modoc County,201710,47.2
+Modoc County,201711,39
+Modoc County,201712,34.2
+Modoc County,201801,37.3
+Modoc County,201802,31.5
+Modoc County,201803,36
+Modoc County,201804,43.9
+Modoc County,201805,54.1
+Modoc County,201806,59.7
+Modoc County,201807,70.5
+Modoc County,201808,67
+Modoc County,201809,58.3
+Modoc County,201810,47.9
+Modoc County,201811,39.5
+Modoc County,201812,30.8
+Modoc County,201901,34.6
+Modoc County,201902,27.1
+Modoc County,201903,36.4
+Modoc County,201904,46
+Modoc County,201905,50.4
+Modoc County,201906,59.7
+Modoc County,201907,66
+Modoc County,201908,67.1
+Modoc County,201909,55.3
+Modoc County,201910,43.8
+Modoc County,201911,41.5
+Modoc County,201912,33
+Modoc County,202001,33.3
+Modoc County,202002,35.8
+Modoc County,202003,37.1
+Modoc County,202004,46.1
+Modoc County,202005,52.6
+Modoc County,202006,58.8
+Modoc County,202007,67.7
+Modoc County,202008,68.9
+Modoc County,202009,64.2
+Modoc County,202010,52.6
+Mono County,201101,31.1
+Mono County,201102,27.4
+Mono County,201103,33
+Mono County,201104,38.2
+Mono County,201105,42.7
+Mono County,201106,53.4
+Mono County,201107,62
+Mono County,201108,62.8
+Mono County,201109,57.9
+Mono County,201110,47.1
+Mono County,201111,34.4
+Mono County,201112,28.4
+Mono County,201201,33.4
+Mono County,201202,31
+Mono County,201203,35.6
+Mono County,201204,42
+Mono County,201205,50.3
+Mono County,201206,57.9
+Mono County,201207,64.1
+Mono County,201208,65.5
+Mono County,201209,59.2
+Mono County,201210,48.3
+Mono County,201211,38.2
+Mono County,201212,26.9
+Mono County,201301,26.6
+Mono County,201302,29.9
+Mono County,201303,39.7
+Mono County,201304,43.3
+Mono County,201305,49.4
+Mono County,201306,60.5
+Mono County,201307,66.3
+Mono County,201308,61.7
+Mono County,201309,55.9
+Mono County,201310,43
+Mono County,201311,37.4
+Mono County,201312,29.3
+Mono County,201401,36
+Mono County,201402,35
+Mono County,201403,37.2
+Mono County,201404,42.7
+Mono County,201405,49.2
+Mono County,201406,58.9
+Mono County,201407,66
+Mono County,201408,61.2
+Mono County,201409,58
+Mono County,201410,50.6
+Mono County,201411,40
+Mono County,201412,32
+Mono County,201501,36
+Mono County,201502,39.3
+Mono County,201503,41.4
+Mono County,201504,41.1
+Mono County,201505,46.8
+Mono County,201506,60.9
+Mono County,201507,61.3
+Mono County,201508,64
+Mono County,201509,58.6
+Mono County,201510,48.8
+Mono County,201511,32
+Mono County,201512,27.1
+Mono County,201601,28.8
+Mono County,201602,36.2
+Mono County,201603,38.6
+Mono County,201604,42.8
+Mono County,201605,47.3
+Mono County,201606,60.9
+Mono County,201607,65.4
+Mono County,201608,63.9
+Mono County,201609,55.8
+Mono County,201610,46.9
+Mono County,201611,38.6
+Mono County,201612,30.8
+Mono County,201701,25.2
+Mono County,201702,31.1
+Mono County,201703,37.8
+Mono County,201704,40.2
+Mono County,201705,49.1
+Mono County,201706,59.4
+Mono County,201707,66.9
+Mono County,201708,64.2
+Mono County,201709,53.9
+Mono County,201710,46.3
+Mono County,201711,40.6
+Mono County,201712,34.4
+Mono County,201801,35.4
+Mono County,201802,30.3
+Mono County,201803,32.2
+Mono County,201804,43.3
+Mono County,201805,49.1
+Mono County,201806,59.9
+Mono County,201807,67.5
+Mono County,201808,64.2
+Mono County,201809,57.6
+Mono County,201810,45
+Mono County,201811,38.9
+Mono County,201812,29.9
+Mono County,201901,31.5
+Mono County,201902,23.3
+Mono County,201903,32.6
+Mono County,201904,43.2
+Mono County,201905,44
+Mono County,201906,56.4
+Mono County,201907,63.1
+Mono County,201908,64.3
+Mono County,201909,54.1
+Mono County,201910,42.7
+Mono County,201911,37.9
+Mono County,201912,29.1
+Mono County,202001,32.3
+Mono County,202002,34.1
+Mono County,202003,32.4
+Mono County,202004,42
+Mono County,202005,51
+Mono County,202006,56.7
+Mono County,202007,65
+Mono County,202008,66.1
+Mono County,202009,59.4
+Mono County,202010,51.4
+Monterey County,201101,50.3
+Monterey County,201102,47.1
+Monterey County,201103,51.4
+Monterey County,201104,54.2
+Monterey County,201105,57.2
+Monterey County,201106,63.7
+Monterey County,201107,69
+Monterey County,201108,68.3
+Monterey County,201109,68.8
+Monterey County,201110,62.6
+Monterey County,201111,51.3
+Monterey County,201112,46.4
+Monterey County,201201,50.1
+Monterey County,201202,49.8
+Monterey County,201203,51.2
+Monterey County,201204,55.8
+Monterey County,201205,60.7
+Monterey County,201206,64.8
+Monterey County,201207,68.2
+Monterey County,201208,71.6
+Monterey County,201209,67.7
+Monterey County,201210,62.8
+Monterey County,201211,55.4
+Monterey County,201212,47.4
+Monterey County,201301,47.2
+Monterey County,201302,47.9
+Monterey County,201303,54.7
+Monterey County,201304,58.4
+Monterey County,201305,62.2
+Monterey County,201306,68
+Monterey County,201307,70.8
+Monterey County,201308,69.8
+Monterey County,201309,67.8
+Monterey County,201310,59.7
+Monterey County,201311,54.8
+Monterey County,201312,48.4
+Monterey County,201401,54.9
+Monterey County,201402,52.3
+Monterey County,201403,55.9
+Monterey County,201404,58
+Monterey County,201405,64
+Monterey County,201406,67.3
+Monterey County,201407,72.4
+Monterey County,201408,70.8
+Monterey County,201409,69.8
+Monterey County,201410,65.7
+Monterey County,201411,56.6
+Monterey County,201412,52.2
+Monterey County,201501,53.2
+Monterey County,201502,55.5
+Monterey County,201503,58.7
+Monterey County,201504,56.7
+Monterey County,201505,58.4
+Monterey County,201506,68.9
+Monterey County,201507,70.9
+Monterey County,201508,72
+Monterey County,201509,71.1
+Monterey County,201510,66.7
+Monterey County,201511,51
+Monterey County,201512,46.5
+Monterey County,201601,50.6
+Monterey County,201602,55.4
+Monterey County,201603,54.4
+Monterey County,201604,58.1
+Monterey County,201605,61
+Monterey County,201606,68.9
+Monterey County,201607,69.8
+Monterey County,201608,69.6
+Monterey County,201609,67.7
+Monterey County,201610,61.3
+Monterey County,201611,55.6
+Monterey County,201612,48.1
+Monterey County,201701,47.8
+Monterey County,201702,51.1
+Monterey County,201703,54.8
+Monterey County,201704,56.4
+Monterey County,201705,61.7
+Monterey County,201706,68
+Monterey County,201707,72.2
+Monterey County,201708,72.5
+Monterey County,201709,70.2
+Monterey County,201710,63.2
+Monterey County,201711,56.4
+Monterey County,201712,51
+Monterey County,201801,53.2
+Monterey County,201802,50.7
+Monterey County,201803,51.5
+Monterey County,201804,56.3
+Monterey County,201805,60
+Monterey County,201806,66.3
+Monterey County,201807,73.8
+Monterey County,201808,70.8
+Monterey County,201809,67.2
+Monterey County,201810,62.6
+Monterey County,201811,56.5
+Monterey County,201812,49.5
+Monterey County,201901,50.9
+Monterey County,201902,45.6
+Monterey County,201903,51.7
+Monterey County,201904,58.4
+Monterey County,201905,58.1
+Monterey County,201906,67.5
+Monterey County,201907,70.1
+Monterey County,201908,72.2
+Monterey County,201909,69.3
+Monterey County,201910,61.4
+Monterey County,201911,55.2
+Monterey County,201912,50
+Monterey County,202001,48.9
+Monterey County,202002,51.8
+Monterey County,202003,50.4
+Monterey County,202004,56.4
+Monterey County,202005,63.1
+Monterey County,202006,67
+Monterey County,202007,69.6
+Monterey County,202008,73.8
+Monterey County,202009,72.4
+Monterey County,202010,68.1
+Napa County,201101,47.4
+Napa County,201102,47.3
+Napa County,201103,50.2
+Napa County,201104,55.2
+Napa County,201105,58.3
+Napa County,201106,65.7
+Napa County,201107,71.2
+Napa County,201108,70.6
+Napa County,201109,72
+Napa County,201110,62.9
+Napa County,201111,49.9
+Napa County,201112,47.2
+Napa County,201201,48.1
+Napa County,201202,50.1
+Napa County,201203,50
+Napa County,201204,56.3
+Napa County,201205,63.5
+Napa County,201206,68.1
+Napa County,201207,71.1
+Napa County,201208,73
+Napa County,201209,69.1
+Napa County,201210,63.4
+Napa County,201211,54.2
+Napa County,201212,46.5
+Napa County,201301,45.4
+Napa County,201302,49.3
+Napa County,201303,54.1
+Napa County,201304,60.9
+Napa County,201305,64.7
+Napa County,201306,70
+Napa County,201307,73.1
+Napa County,201308,71.4
+Napa County,201309,69
+Napa County,201310,61.2
+Napa County,201311,54.9
+Napa County,201312,47.1
+Napa County,201401,53.1
+Napa County,201402,51.4
+Napa County,201403,56
+Napa County,201404,59.2
+Napa County,201405,65.4
+Napa County,201406,70.4
+Napa County,201407,74
+Napa County,201408,72.3
+Napa County,201409,70.6
+Napa County,201410,65.8
+Napa County,201411,55.2
+Napa County,201412,51
+Napa County,201501,51.2
+Napa County,201502,55.2
+Napa County,201503,58.6
+Napa County,201504,58.3
+Napa County,201505,60.9
+Napa County,201506,71.4
+Napa County,201507,73.4
+Napa County,201508,73.5
+Napa County,201509,71.9
+Napa County,201510,67.2
+Napa County,201511,51.1
+Napa County,201512,46
+Napa County,201601,48.2
+Napa County,201602,54.6
+Napa County,201603,53.9
+Napa County,201604,59.4
+Napa County,201605,63.6
+Napa County,201606,71.1
+Napa County,201607,72.5
+Napa County,201608,71.4
+Napa County,201609,69.8
+Napa County,201610,60.4
+Napa County,201611,54.1
+Napa County,201612,45.8
+Napa County,201701,45.6
+Napa County,201702,49.9
+Napa County,201703,54.8
+Napa County,201704,56.2
+Napa County,201705,64.1
+Napa County,201706,70.9
+Napa County,201707,74.9
+Napa County,201708,74.9
+Napa County,201709,72.1
+Napa County,201710,64.3
+Napa County,201711,53.2
+Napa County,201712,49.1
+Napa County,201801,49.6
+Napa County,201802,51.2
+Napa County,201803,50.7
+Napa County,201804,56.4
+Napa County,201805,62.8
+Napa County,201806,70
+Napa County,201807,75.2
+Napa County,201808,71.9
+Napa County,201809,69
+Napa County,201810,64.5
+Napa County,201811,55.7
+Napa County,201812,48.3
+Napa County,201901,49.8
+Napa County,201902,44.8
+Napa County,201903,51.4
+Napa County,201904,60.1
+Napa County,201905,60
+Napa County,201906,71.2
+Napa County,201907,72.7
+Napa County,201908,74.7
+Napa County,201909,69.5
+Napa County,201910,62.4
+Napa County,201911,55.4
+Napa County,201912,48.5
+Napa County,202001,48
+Napa County,202002,53.9
+Napa County,202003,51
+Napa County,202004,58.6
+Napa County,202005,64.2
+Napa County,202006,70.7
+Napa County,202007,73.1
+Napa County,202008,76.3
+Napa County,202009,73.4
+Napa County,202010,68.9
+Nevada County,201101,40.5
+Nevada County,201102,36.8
+Nevada County,201103,39.2
+Nevada County,201104,44.6
+Nevada County,201105,49.2
+Nevada County,201106,58.6
+Nevada County,201107,66.8
+Nevada County,201108,68.3
+Nevada County,201109,67.3
+Nevada County,201110,54.6
+Nevada County,201111,42.8
+Nevada County,201112,40
+Nevada County,201201,41.6
+Nevada County,201202,40.6
+Nevada County,201203,40.8
+Nevada County,201204,48.2
+Nevada County,201205,56.9
+Nevada County,201206,61.7
+Nevada County,201207,68.8
+Nevada County,201208,72.1
+Nevada County,201209,67.9
+Nevada County,201210,55.5
+Nevada County,201211,46.3
+Nevada County,201212,35.8
+Nevada County,201301,37.4
+Nevada County,201302,39.9
+Nevada County,201303,46.8
+Nevada County,201304,51.5
+Nevada County,201305,56.4
+Nevada County,201306,65.1
+Nevada County,201307,72.3
+Nevada County,201308,67.8
+Nevada County,201309,61.8
+Nevada County,201310,53
+Nevada County,201311,47.2
+Nevada County,201312,39.4
+Nevada County,201401,45.6
+Nevada County,201402,42.8
+Nevada County,201403,46.3
+Nevada County,201404,50.5
+Nevada County,201405,57.7
+Nevada County,201406,65.2
+Nevada County,201407,73.2
+Nevada County,201408,68.9
+Nevada County,201409,65
+Nevada County,201410,57.4
+Nevada County,201411,46.9
+Nevada County,201412,40.3
+Nevada County,201501,45.3
+Nevada County,201502,48.1
+Nevada County,201503,50.7
+Nevada County,201504,49.5
+Nevada County,201505,55.2
+Nevada County,201506,68.2
+Nevada County,201507,69.7
+Nevada County,201508,69.6
+Nevada County,201509,65.7
+Nevada County,201510,59.2
+Nevada County,201511,40.9
+Nevada County,201512,35.6
+Nevada County,201601,38.3
+Nevada County,201602,45.9
+Nevada County,201603,44.6
+Nevada County,201604,51.2
+Nevada County,201605,55.9
+Nevada County,201606,65.7
+Nevada County,201607,69.8
+Nevada County,201608,70.2
+Nevada County,201609,63.8
+Nevada County,201610,51.9
+Nevada County,201611,45.9
+Nevada County,201612,37.7
+Nevada County,201701,35.8
+Nevada County,201702,39.7
+Nevada County,201703,45.4
+Nevada County,201704,46.5
+Nevada County,201705,57.4
+Nevada County,201706,65.6
+Nevada County,201707,72.6
+Nevada County,201708,72.7
+Nevada County,201709,63.7
+Nevada County,201710,55.8
+Nevada County,201711,45.6
+Nevada County,201712,43.2
+Nevada County,201801,42.8
+Nevada County,201802,40.3
+Nevada County,201803,40.6
+Nevada County,201804,49
+Nevada County,201805,56.7
+Nevada County,201806,65.1
+Nevada County,201807,74
+Nevada County,201808,70.2
+Nevada County,201809,64.6
+Nevada County,201810,55.7
+Nevada County,201811,48.2
+Nevada County,201812,38.7
+Nevada County,201901,40.6
+Nevada County,201902,33
+Nevada County,201903,41
+Nevada County,201904,50.8
+Nevada County,201905,52
+Nevada County,201906,65
+Nevada County,201907,69.2
+Nevada County,201908,70.5
+Nevada County,201909,61.2
+Nevada County,201910,52.6
+Nevada County,201911,48.3
+Nevada County,201912,39.3
+Nevada County,202001,39.6
+Nevada County,202002,44.4
+Nevada County,202003,41
+Nevada County,202004,49.8
+Nevada County,202005,56.9
+Nevada County,202006,64
+Nevada County,202007,71
+Nevada County,202008,72.9
+Nevada County,202009,68.7
+Nevada County,202010,61.7
+Orange County,201101,58.3
+Orange County,201102,54.1
+Orange County,201103,57.8
+Orange County,201104,61.2
+Orange County,201105,62.7
+Orange County,201106,66.2
+Orange County,201107,72.7
+Orange County,201108,73.2
+Orange County,201109,71.5
+Orange County,201110,66.8
+Orange County,201111,59.1
+Orange County,201112,54.8
+Orange County,201201,59.5
+Orange County,201202,56.8
+Orange County,201203,57.1
+Orange County,201204,61.2
+Orange County,201205,64.9
+Orange County,201206,67.6
+Orange County,201207,71.1
+Orange County,201208,77.3
+Orange County,201209,76.9
+Orange County,201210,69.7
+Orange County,201211,62.3
+Orange County,201212,55.2
+Orange County,201301,54.7
+Orange County,201302,54.9
+Orange County,201303,59.5
+Orange County,201304,61.7
+Orange County,201305,66.5
+Orange County,201306,69.2
+Orange County,201307,72.4
+Orange County,201308,73
+Orange County,201309,73.4
+Orange County,201310,65.6
+Orange County,201311,62.2
+Orange County,201312,58.1
+Orange County,201401,62.3
+Orange County,201402,59.5
+Orange County,201403,61.6
+Orange County,201404,63.5
+Orange County,201405,68.9
+Orange County,201406,69.1
+Orange County,201407,74.4
+Orange County,201408,74
+Orange County,201409,76.2
+Orange County,201410,71.5
+Orange County,201411,64.9
+Orange County,201412,57.8
+Orange County,201501,60.7
+Orange County,201502,63
+Orange County,201503,66.2
+Orange County,201504,63.9
+Orange County,201505,62.5
+Orange County,201506,71.1
+Orange County,201507,72.6
+Orange County,201508,76.2
+Orange County,201509,77.1
+Orange County,201510,73.5
+Orange County,201511,61.6
+Orange County,201512,55.9
+Orange County,201601,55.9
+Orange County,201602,64.8
+Orange County,201603,60.6
+Orange County,201604,64
+Orange County,201605,63.4
+Orange County,201606,71.4
+Orange County,201607,75
+Orange County,201608,74.4
+Orange County,201609,72.7
+Orange County,201610,68.8
+Orange County,201611,64.8
+Orange County,201612,57.1
+Orange County,201701,55
+Orange County,201702,56.8
+Orange County,201703,62.4
+Orange County,201704,64.4
+Orange County,201705,64.8
+Orange County,201706,70.3
+Orange County,201707,75.2
+Orange County,201708,75.3
+Orange County,201709,72.6
+Orange County,201710,71.8
+Orange County,201711,65.1
+Orange County,201712,62
+Orange County,201801,61.8
+Orange County,201802,58.2
+Orange County,201803,58.3
+Orange County,201804,62.9
+Orange County,201805,63
+Orange County,201806,68.7
+Orange County,201807,77.6
+Orange County,201808,76.6
+Orange County,201809,72.6
+Orange County,201810,68.4
+Orange County,201811,64
+Orange County,201812,57.6
+Orange County,201901,57
+Orange County,201902,51.3
+Orange County,201903,58
+Orange County,201904,62.6
+Orange County,201905,61
+Orange County,201906,67.8
+Orange County,201907,73.2
+Orange County,201908,74.3
+Orange County,201909,73.6
+Orange County,201910,69.6
+Orange County,201911,62.5
+Orange County,201912,55.9
+Orange County,202001,57.2
+Orange County,202002,58.9
+Orange County,202003,56.5
+Orange County,202004,61.6
+Orange County,202005,67.4
+Orange County,202006,69.3
+Orange County,202007,72.8
+Orange County,202008,76.5
+Orange County,202009,76.7
+Orange County,202010,72.4
+Placer County,201101,41.6
+Placer County,201102,38.5
+Placer County,201103,41.6
+Placer County,201104,46.4
+Placer County,201105,50.7
+Placer County,201106,60
+Placer County,201107,67.9
+Placer County,201108,69.3
+Placer County,201109,68.4
+Placer County,201110,56.3
+Placer County,201111,44.6
+Placer County,201112,41.2
+Placer County,201201,42.9
+Placer County,201202,41.8
+Placer County,201203,42.8
+Placer County,201204,49.9
+Placer County,201205,58
+Placer County,201206,63.3
+Placer County,201207,69.9
+Placer County,201208,73.3
+Placer County,201209,69
+Placer County,201210,57.1
+Placer County,201211,47.7
+Placer County,201212,37.3
+Placer County,201301,38.8
+Placer County,201302,41.2
+Placer County,201303,48.2
+Placer County,201304,52.9
+Placer County,201305,58.1
+Placer County,201306,66.4
+Placer County,201307,73.2
+Placer County,201308,69.1
+Placer County,201309,63.4
+Placer County,201310,54.6
+Placer County,201311,48.7
+Placer County,201312,41
+Placer County,201401,46.7
+Placer County,201402,44.5
+Placer County,201403,47.8
+Placer County,201404,52
+Placer County,201405,59.1
+Placer County,201406,66.6
+Placer County,201407,74
+Placer County,201408,69.9
+Placer County,201409,66.6
+Placer County,201410,59.1
+Placer County,201411,48.5
+Placer County,201412,42.2
+Placer County,201501,46
+Placer County,201502,48.9
+Placer County,201503,51.8
+Placer County,201504,51
+Placer County,201505,56.3
+Placer County,201506,69.6
+Placer County,201507,70.6
+Placer County,201508,70.7
+Placer County,201509,67.2
+Placer County,201510,60.6
+Placer County,201511,42.2
+Placer County,201512,37.4
+Placer County,201601,40
+Placer County,201602,47.4
+Placer County,201603,46.4
+Placer County,201604,52.6
+Placer County,201605,57.3
+Placer County,201606,67.3
+Placer County,201607,71.2
+Placer County,201608,71.5
+Placer County,201609,65.3
+Placer County,201610,53.8
+Placer County,201611,47.4
+Placer County,201612,39.2
+Placer County,201701,37.4
+Placer County,201702,41.2
+Placer County,201703,47.1
+Placer County,201704,48.2
+Placer County,201705,58.6
+Placer County,201706,66.7
+Placer County,201707,73.7
+Placer County,201708,73.6
+Placer County,201709,64.7
+Placer County,201710,56.9
+Placer County,201711,47.2
+Placer County,201712,44.4
+Placer County,201801,44
+Placer County,201802,41.2
+Placer County,201803,42.3
+Placer County,201804,50.2
+Placer County,201805,57.9
+Placer County,201806,66.4
+Placer County,201807,75.1
+Placer County,201808,71.1
+Placer County,201809,66
+Placer County,201810,56.9
+Placer County,201811,48.9
+Placer County,201812,40.4
+Placer County,201901,42.3
+Placer County,201902,34.8
+Placer County,201903,42.6
+Placer County,201904,52.4
+Placer County,201905,53.6
+Placer County,201906,66.3
+Placer County,201907,70.4
+Placer County,201908,71.7
+Placer County,201909,62.7
+Placer County,201910,54.1
+Placer County,201911,49.6
+Placer County,201912,40.8
+Placer County,202001,41
+Placer County,202002,45.5
+Placer County,202003,42.5
+Placer County,202004,51.4
+Placer County,202005,58.5
+Placer County,202006,65.4
+Placer County,202007,72.1
+Placer County,202008,74.2
+Placer County,202009,70
+Placer County,202010,63
+Plumas County,201101,34.6
+Plumas County,201102,31.7
+Plumas County,201103,35.3
+Plumas County,201104,40.2
+Plumas County,201105,45.7
+Plumas County,201106,55.6
+Plumas County,201107,64
+Plumas County,201108,64.4
+Plumas County,201109,62.9
+Plumas County,201110,50
+Plumas County,201111,37.1
+Plumas County,201112,34
+Plumas County,201201,35.4
+Plumas County,201202,35.1
+Plumas County,201203,36.6
+Plumas County,201204,43.7
+Plumas County,201205,52.3
+Plumas County,201206,57.3
+Plumas County,201207,65
+Plumas County,201208,67.9
+Plumas County,201209,63.4
+Plumas County,201210,51.6
+Plumas County,201211,41.2
+Plumas County,201212,32
+Plumas County,201301,28.4
+Plumas County,201302,34.6
+Plumas County,201303,42
+Plumas County,201304,46.5
+Plumas County,201305,51.8
+Plumas County,201306,61.1
+Plumas County,201307,69.4
+Plumas County,201308,64.2
+Plumas County,201309,58.2
+Plumas County,201310,47
+Plumas County,201311,41.5
+Plumas County,201312,30.3
+Plumas County,201401,37.9
+Plumas County,201402,38.2
+Plumas County,201403,40.6
+Plumas County,201404,45.3
+Plumas County,201405,52.7
+Plumas County,201406,60.8
+Plumas County,201407,70.8
+Plumas County,201408,65.3
+Plumas County,201409,61.2
+Plumas County,201410,52.3
+Plumas County,201411,41.5
+Plumas County,201412,36.4
+Plumas County,201501,38.7
+Plumas County,201502,41.9
+Plumas County,201503,45
+Plumas County,201504,44.5
+Plumas County,201505,51.3
+Plumas County,201506,64.7
+Plumas County,201507,66.2
+Plumas County,201508,65.9
+Plumas County,201509,60.8
+Plumas County,201510,53.9
+Plumas County,201511,35.1
+Plumas County,201512,31.9
+Plumas County,201601,33.8
+Plumas County,201602,39.6
+Plumas County,201603,40.2
+Plumas County,201604,46.9
+Plumas County,201605,51.8
+Plumas County,201606,61
+Plumas County,201607,65.7
+Plumas County,201608,67.3
+Plumas County,201609,59.7
+Plumas County,201610,47.9
+Plumas County,201611,40.7
+Plumas County,201612,31.9
+Plumas County,201701,30
+Plumas County,201702,34.8
+Plumas County,201703,40.5
+Plumas County,201704,41.9
+Plumas County,201705,53.5
+Plumas County,201706,61.6
+Plumas County,201707,68.8
+Plumas County,201708,69.6
+Plumas County,201709,59.3
+Plumas County,201710,49
+Plumas County,201711,41
+Plumas County,201712,34.5
+Plumas County,201801,37.3
+Plumas County,201802,33.3
+Plumas County,201803,35.2
+Plumas County,201804,44.5
+Plumas County,201805,52.9
+Plumas County,201806,60.2
+Plumas County,201807,70.2
+Plumas County,201808,66.2
+Plumas County,201809,59.4
+Plumas County,201810,49.5
+Plumas County,201811,40.5
+Plumas County,201812,34
+Plumas County,201901,35.5
+Plumas County,201902,28.4
+Plumas County,201903,36
+Plumas County,201904,46.6
+Plumas County,201905,48.7
+Plumas County,201906,60.3
+Plumas County,201907,64.9
+Plumas County,201908,66.4
+Plumas County,201909,56.7
+Plumas County,201910,45.5
+Plumas County,201911,41.7
+Plumas County,201912,34
+Plumas County,202001,35.2
+Plumas County,202002,38
+Plumas County,202003,36
+Plumas County,202004,45.5
+Plumas County,202005,52
+Plumas County,202006,59.5
+Plumas County,202007,67
+Plumas County,202008,68.9
+Plumas County,202009,63.2
+Plumas County,202010,54.7
+Riverside County,201101,53.7
+Riverside County,201102,51.4
+Riverside County,201103,59.9
+Riverside County,201104,65.2
+Riverside County,201105,68.6
+Riverside County,201106,78.6
+Riverside County,201107,85.4
+Riverside County,201108,87.7
+Riverside County,201109,81.8
+Riverside County,201110,71.3
+Riverside County,201111,56.8
+Riverside County,201112,49.4
+Riverside County,201201,55.6
+Riverside County,201202,55.1
+Riverside County,201203,58.7
+Riverside County,201204,66.6
+Riverside County,201205,75.3
+Riverside County,201206,81.7
+Riverside County,201207,85.2
+Riverside County,201208,88.2
+Riverside County,201209,83.6
+Riverside County,201210,72
+Riverside County,201211,62
+Riverside County,201212,52.4
+Riverside County,201301,50.6
+Riverside County,201302,53
+Riverside County,201303,64
+Riverside County,201304,67.8
+Riverside County,201305,74.3
+Riverside County,201306,83.5
+Riverside County,201307,87.6
+Riverside County,201308,85.3
+Riverside County,201309,80.3
+Riverside County,201310,66.8
+Riverside County,201311,59.9
+Riverside County,201312,53.4
+Riverside County,201401,58.5
+Riverside County,201402,59.2
+Riverside County,201403,63.1
+Riverside County,201404,67.5
+Riverside County,201405,74.4
+Riverside County,201406,82
+Riverside County,201407,87.9
+Riverside County,201408,84.2
+Riverside County,201409,82.8
+Riverside County,201410,74
+Riverside County,201411,61.7
+Riverside County,201412,54
+Riverside County,201501,55.6
+Riverside County,201502,61.6
+Riverside County,201503,65.9
+Riverside County,201504,66.6
+Riverside County,201505,68.5
+Riverside County,201506,83.9
+Riverside County,201507,83.8
+Riverside County,201508,88.2
+Riverside County,201509,83.1
+Riverside County,201510,74.3
+Riverside County,201511,57.4
+Riverside County,201512,50.9
+Riverside County,201601,52
+Riverside County,201602,61.4
+Riverside County,201603,63
+Riverside County,201604,66.8
+Riverside County,201605,70.5
+Riverside County,201606,85.1
+Riverside County,201607,88.3
+Riverside County,201608,86.9
+Riverside County,201609,78.4
+Riverside County,201610,72.9
+Riverside County,201611,62.6
+Riverside County,201612,53.1
+Riverside County,201701,51.3
+Riverside County,201702,57.2
+Riverside County,201703,64.6
+Riverside County,201704,68.1
+Riverside County,201705,72.7
+Riverside County,201706,84.1
+Riverside County,201707,89.3
+Riverside County,201708,87.5
+Riverside County,201709,79
+Riverside County,201710,73.1
+Riverside County,201711,64.6
+Riverside County,201712,57.2
+Riverside County,201801,57.9
+Riverside County,201802,55.6
+Riverside County,201803,59.7
+Riverside County,201804,69.2
+Riverside County,201805,72.3
+Riverside County,201806,81.9
+Riverside County,201807,90
+Riverside County,201808,88.6
+Riverside County,201809,83.6
+Riverside County,201810,70
+Riverside County,201811,60.7
+Riverside County,201812,53.3
+Riverside County,201901,52.7
+Riverside County,201902,48.8
+Riverside County,201903,58.8
+Riverside County,201904,67.7
+Riverside County,201905,67.2
+Riverside County,201906,80.6
+Riverside County,201907,86.9
+Riverside County,201908,87.8
+Riverside County,201909,79.9
+Riverside County,201910,68.6
+Riverside County,201911,60.8
+Riverside County,201912,51.9
+Riverside County,202001,53.8
+Riverside County,202002,55.9
+Riverside County,202003,56.4
+Riverside County,202004,65.7
+Riverside County,202005,76.5
+Riverside County,202006,80.8
+Riverside County,202007,87.4
+Riverside County,202008,90.5
+Riverside County,202009,84.7
+Riverside County,202010,75.4
+Sacramento County,201101,46.1
+Sacramento County,201102,48.6
+Sacramento County,201103,53.1
+Sacramento County,201104,58.1
+Sacramento County,201105,61.6
+Sacramento County,201106,69.4
+Sacramento County,201107,75.1
+Sacramento County,201108,75.1
+Sacramento County,201109,75.4
+Sacramento County,201110,64.6
+Sacramento County,201111,52.2
+Sacramento County,201112,46.8
+Sacramento County,201201,48.6
+Sacramento County,201202,51.5
+Sacramento County,201203,53
+Sacramento County,201204,59.9
+Sacramento County,201205,67.5
+Sacramento County,201206,72
+Sacramento County,201207,75.8
+Sacramento County,201208,77.9
+Sacramento County,201209,74.6
+Sacramento County,201210,65.1
+Sacramento County,201211,56
+Sacramento County,201212,47.4
+Sacramento County,201301,45.2
+Sacramento County,201302,50.1
+Sacramento County,201303,57.7
+Sacramento County,201304,64.2
+Sacramento County,201305,68.9
+Sacramento County,201306,74.6
+Sacramento County,201307,77.8
+Sacramento County,201308,75.6
+Sacramento County,201309,71.8
+Sacramento County,201310,63.5
+Sacramento County,201311,56.4
+Sacramento County,201312,46.6
+Sacramento County,201401,52.1
+Sacramento County,201402,53.9
+Sacramento County,201403,58.9
+Sacramento County,201404,62.4
+Sacramento County,201405,69.7
+Sacramento County,201406,75.1
+Sacramento County,201407,79
+Sacramento County,201408,76.3
+Sacramento County,201409,74.4
+Sacramento County,201410,68
+Sacramento County,201411,56.4
+Sacramento County,201412,52.5
+Sacramento County,201501,50.1
+Sacramento County,201502,56.3
+Sacramento County,201503,61.6
+Sacramento County,201504,62
+Sacramento County,201505,65
+Sacramento County,201506,77.1
+Sacramento County,201507,77.8
+Sacramento County,201508,76.9
+Sacramento County,201509,74.6
+Sacramento County,201510,69.9
+Sacramento County,201511,51.4
+Sacramento County,201512,47
+Sacramento County,201601,49.6
+Sacramento County,201602,55.6
+Sacramento County,201603,57.2
+Sacramento County,201604,63.1
+Sacramento County,201605,68.3
+Sacramento County,201606,76
+Sacramento County,201607,77.7
+Sacramento County,201608,76
+Sacramento County,201609,72.9
+Sacramento County,201610,63.1
+Sacramento County,201611,55.9
+Sacramento County,201612,46.2
+Sacramento County,201701,46.4
+Sacramento County,201702,52.7
+Sacramento County,201703,57.4
+Sacramento County,201704,59.6
+Sacramento County,201705,68.4
+Sacramento County,201706,75.6
+Sacramento County,201707,80.4
+Sacramento County,201708,79.1
+Sacramento County,201709,74.3
+Sacramento County,201710,65.2
+Sacramento County,201711,55.8
+Sacramento County,201712,49.3
+Sacramento County,201801,50.3
+Sacramento County,201802,51.2
+Sacramento County,201803,53.8
+Sacramento County,201804,59.9
+Sacramento County,201805,66.4
+Sacramento County,201806,74.2
+Sacramento County,201807,79.9
+Sacramento County,201808,75.3
+Sacramento County,201809,72.4
+Sacramento County,201810,65.9
+Sacramento County,201811,55.7
+Sacramento County,201812,49.2
+Sacramento County,201901,50.6
+Sacramento County,201902,47.5
+Sacramento County,201903,54.2
+Sacramento County,201904,63.3
+Sacramento County,201905,63.6
+Sacramento County,201906,75.4
+Sacramento County,201907,77.5
+Sacramento County,201908,78.8
+Sacramento County,201909,72.4
+Sacramento County,201910,63.6
+Sacramento County,201911,56.8
+Sacramento County,201912,50.2
+Sacramento County,202001,48.8
+Sacramento County,202002,54.6
+Sacramento County,202003,54.1
+Sacramento County,202004,61.9
+Sacramento County,202005,69.6
+Sacramento County,202006,75.3
+Sacramento County,202007,77.8
+Sacramento County,202008,80.8
+Sacramento County,202009,76.8
+Sacramento County,202010,70
+San Benito County,201101,48.1
+San Benito County,201102,45.1
+San Benito County,201103,49.6
+San Benito County,201104,53.3
+San Benito County,201105,57.9
+San Benito County,201106,65.6
+San Benito County,201107,72.4
+San Benito County,201108,71.6
+San Benito County,201109,70.7
+San Benito County,201110,62.6
+San Benito County,201111,49.9
+San Benito County,201112,44.8
+San Benito County,201201,49.3
+San Benito County,201202,48.2
+San Benito County,201203,50.1
+San Benito County,201204,55.3
+San Benito County,201205,62.3
+San Benito County,201206,67.1
+San Benito County,201207,72.2
+San Benito County,201208,75.9
+San Benito County,201209,71.2
+San Benito County,201210,63.2
+San Benito County,201211,54.2
+San Benito County,201212,44.7
+San Benito County,201301,45.3
+San Benito County,201302,47
+San Benito County,201303,54.4
+San Benito County,201304,58.8
+San Benito County,201305,62.8
+San Benito County,201306,70.3
+San Benito County,201307,75.2
+San Benito County,201308,72.5
+San Benito County,201309,68.8
+San Benito County,201310,60.3
+San Benito County,201311,54.1
+San Benito County,201312,47.4
+San Benito County,201401,54.2
+San Benito County,201402,51.3
+San Benito County,201403,55.2
+San Benito County,201404,57.9
+San Benito County,201405,64.9
+San Benito County,201406,70
+San Benito County,201407,76.1
+San Benito County,201408,73.6
+San Benito County,201409,71.6
+San Benito County,201410,65.9
+San Benito County,201411,55.2
+San Benito County,201412,50
+San Benito County,201501,51.6
+San Benito County,201502,54.4
+San Benito County,201503,58.6
+San Benito County,201504,57
+San Benito County,201505,59.2
+San Benito County,201506,71.7
+San Benito County,201507,73.5
+San Benito County,201508,74.3
+San Benito County,201509,72.5
+San Benito County,201510,66.3
+San Benito County,201511,49.4
+San Benito County,201512,44.2
+San Benito County,201601,47.7
+San Benito County,201602,54.1
+San Benito County,201603,53.1
+San Benito County,201604,57.7
+San Benito County,201605,61.8
+San Benito County,201606,72
+San Benito County,201607,74.2
+San Benito County,201608,73.6
+San Benito County,201609,69.2
+San Benito County,201610,60.8
+San Benito County,201611,54.2
+San Benito County,201612,46.2
+San Benito County,201701,45.1
+San Benito County,201702,48.8
+San Benito County,201703,53.7
+San Benito County,201704,55.3
+San Benito County,201705,62.6
+San Benito County,201706,70.7
+San Benito County,201707,76.2
+San Benito County,201708,76.2
+San Benito County,201709,70.7
+San Benito County,201710,63.4
+San Benito County,201711,54.7
+San Benito County,201712,50.5
+San Benito County,201801,51.6
+San Benito County,201802,49.2
+San Benito County,201803,49.7
+San Benito County,201804,56
+San Benito County,201805,60.9
+San Benito County,201806,68.9
+San Benito County,201807,77.9
+San Benito County,201808,73.9
+San Benito County,201809,69.8
+San Benito County,201810,62.8
+San Benito County,201811,55.8
+San Benito County,201812,47.4
+San Benito County,201901,48.7
+San Benito County,201902,42.8
+San Benito County,201903,49.6
+San Benito County,201904,58.4
+San Benito County,201905,57.6
+San Benito County,201906,69.9
+San Benito County,201907,73.4
+San Benito County,201908,75
+San Benito County,201909,69.5
+San Benito County,201910,61.5
+San Benito County,201911,55
+San Benito County,201912,47.6
+San Benito County,202001,46.8
+San Benito County,202002,51
+San Benito County,202003,48.5
+San Benito County,202004,56.2
+San Benito County,202005,63.8
+San Benito County,202006,69
+San Benito County,202007,74.3
+San Benito County,202008,76.7
+San Benito County,202009,74.3
+San Benito County,202010,68.7
+San Bernardino County,201101,49.2
+San Bernardino County,201102,48.3
+San Bernardino County,201103,57.1
+San Bernardino County,201104,63
+San Bernardino County,201105,67.6
+San Bernardino County,201106,79
+San Bernardino County,201107,85.8
+San Bernardino County,201108,87.4
+San Bernardino County,201109,80.8
+San Bernardino County,201110,69.1
+San Bernardino County,201111,53.2
+San Bernardino County,201112,45.6
+San Bernardino County,201201,51.6
+San Bernardino County,201202,52
+San Bernardino County,201203,57.2
+San Bernardino County,201204,65.2
+San Bernardino County,201205,75.6
+San Bernardino County,201206,82.4
+San Bernardino County,201207,85.6
+San Bernardino County,201208,88.2
+San Bernardino County,201209,82.4
+San Bernardino County,201210,69.7
+San Bernardino County,201211,58.7
+San Bernardino County,201212,47.9
+San Bernardino County,201301,45.8
+San Bernardino County,201302,50
+San Bernardino County,201303,62.1
+San Bernardino County,201304,66.7
+San Bernardino County,201305,73.4
+San Bernardino County,201306,84.7
+San Bernardino County,201307,88.8
+San Bernardino County,201308,84.8
+San Bernardino County,201309,78.4
+San Bernardino County,201310,64.4
+San Bernardino County,201311,56.3
+San Bernardino County,201312,48.4
+San Bernardino County,201401,54.6
+San Bernardino County,201402,56.9
+San Bernardino County,201403,60.6
+San Bernardino County,201404,65.9
+San Bernardino County,201405,74
+San Bernardino County,201406,83.4
+San Bernardino County,201407,88.3
+San Bernardino County,201408,83.7
+San Bernardino County,201409,81.2
+San Bernardino County,201410,72
+San Bernardino County,201411,58.5
+San Bernardino County,201412,49.3
+San Bernardino County,201501,52.1
+San Bernardino County,201502,59.3
+San Bernardino County,201503,63.8
+San Bernardino County,201504,64.5
+San Bernardino County,201505,68.9
+San Bernardino County,201506,85.1
+San Bernardino County,201507,83.6
+San Bernardino County,201508,88
+San Bernardino County,201509,81.9
+San Bernardino County,201510,71.2
+San Bernardino County,201511,52.8
+San Bernardino County,201512,46.1
+San Bernardino County,201601,48
+San Bernardino County,201602,57.5
+San Bernardino County,201603,60.6
+San Bernardino County,201604,64.8
+San Bernardino County,201605,70.2
+San Bernardino County,201606,86.5
+San Bernardino County,201607,89.2
+San Bernardino County,201608,86.6
+San Bernardino County,201609,77.3
+San Bernardino County,201610,69.8
+San Bernardino County,201611,58.5
+San Bernardino County,201612,48.2
+San Bernardino County,201701,46.6
+San Bernardino County,201702,54
+San Bernardino County,201703,62
+San Bernardino County,201704,65.5
+San Bernardino County,201705,72.2
+San Bernardino County,201706,85.1
+San Bernardino County,201707,90.1
+San Bernardino County,201708,87
+San Bernardino County,201709,77.3
+San Bernardino County,201710,70
+San Bernardino County,201711,61.4
+San Bernardino County,201712,53
+San Bernardino County,201801,54
+San Bernardino County,201802,52.2
+San Bernardino County,201803,56.7
+San Bernardino County,201804,67.9
+San Bernardino County,201805,72.7
+San Bernardino County,201806,83.5
+San Bernardino County,201807,90.4
+San Bernardino County,201808,88.2
+San Bernardino County,201809,82.4
+San Bernardino County,201810,66.9
+San Bernardino County,201811,57.1
+San Bernardino County,201812,48.9
+San Bernardino County,201901,49
+San Bernardino County,201902,45.3
+San Bernardino County,201903,55.6
+San Bernardino County,201904,66.4
+San Bernardino County,201905,65.8
+San Bernardino County,201906,81.7
+San Bernardino County,201907,87.1
+San Bernardino County,201908,87.6
+San Bernardino County,201909,78.2
+San Bernardino County,201910,65.3
+San Bernardino County,201911,57.5
+San Bernardino County,201912,46.9
+San Bernardino County,202001,50.3
+San Bernardino County,202002,54
+San Bernardino County,202003,54
+San Bernardino County,202004,63.8
+San Bernardino County,202005,75.3
+San Bernardino County,202006,81
+San Bernardino County,202007,88
+San Bernardino County,202008,90.2
+San Bernardino County,202009,83.5
+San Bernardino County,202010,73.6
+San Diego County,201101,53.7
+San Diego County,201102,49.6
+San Diego County,201103,55.4
+San Diego County,201104,59.3
+San Diego County,201105,61.3
+San Diego County,201106,68.2
+San Diego County,201107,75.2
+San Diego County,201108,76.7
+San Diego County,201109,73.4
+San Diego County,201110,66
+San Diego County,201111,55.8
+San Diego County,201112,49.8
+San Diego County,201201,55.3
+San Diego County,201202,52.3
+San Diego County,201203,54.6
+San Diego County,201204,59.7
+San Diego County,201205,65.9
+San Diego County,201206,70.3
+San Diego County,201207,75
+San Diego County,201208,79.3
+San Diego County,201209,76.7
+San Diego County,201210,67.2
+San Diego County,201211,59.6
+San Diego County,201212,51.4
+San Diego County,201301,49.8
+San Diego County,201302,50.7
+San Diego County,201303,58.8
+San Diego County,201304,60.7
+San Diego County,201305,66.6
+San Diego County,201306,73.1
+San Diego County,201307,77.4
+San Diego County,201308,76.3
+San Diego County,201309,73.4
+San Diego County,201310,63
+San Diego County,201311,58.1
+San Diego County,201312,53.1
+San Diego County,201401,58.1
+San Diego County,201402,56.9
+San Diego County,201403,58.9
+San Diego County,201404,61.5
+San Diego County,201405,67.6
+San Diego County,201406,71.8
+San Diego County,201407,78
+San Diego County,201408,76.4
+San Diego County,201409,76.5
+San Diego County,201410,69.7
+San Diego County,201411,60.6
+San Diego County,201412,54.2
+San Diego County,201501,55.5
+San Diego County,201502,59.4
+San Diego County,201503,62.2
+San Diego County,201504,61
+San Diego County,201505,61.5
+San Diego County,201506,73.8
+San Diego County,201507,74.2
+San Diego County,201508,78.8
+San Diego County,201509,76
+San Diego County,201510,69.6
+San Diego County,201511,56.2
+San Diego County,201512,51
+San Diego County,201601,51.9
+San Diego County,201602,60
+San Diego County,201603,58.1
+San Diego County,201604,60.9
+San Diego County,201605,62.5
+San Diego County,201606,75
+San Diego County,201607,78.1
+San Diego County,201608,77.6
+San Diego County,201609,71.7
+San Diego County,201610,67.9
+San Diego County,201611,60.8
+San Diego County,201612,53.5
+San Diego County,201701,50.7
+San Diego County,201702,54.2
+San Diego County,201703,60.2
+San Diego County,201704,62.3
+San Diego County,201705,64.3
+San Diego County,201706,73.7
+San Diego County,201707,78.9
+San Diego County,201708,77.8
+San Diego County,201709,71.7
+San Diego County,201710,69
+San Diego County,201711,62.4
+San Diego County,201712,57.2
+San Diego County,201801,57.9
+San Diego County,201802,53.3
+San Diego County,201803,55.6
+San Diego County,201804,62.1
+San Diego County,201805,63.8
+San Diego County,201806,71.8
+San Diego County,201807,80
+San Diego County,201808,79.3
+San Diego County,201809,74.8
+San Diego County,201810,65.7
+San Diego County,201811,59.6
+San Diego County,201812,53.2
+San Diego County,201901,52.6
+San Diego County,201902,47.6
+San Diego County,201903,54.8
+San Diego County,201904,61.5
+San Diego County,201905,59.8
+San Diego County,201906,70.4
+San Diego County,201907,76.2
+San Diego County,201908,77.6
+San Diego County,201909,72.8
+San Diego County,201910,65.4
+San Diego County,201911,59.2
+San Diego County,201912,51.8
+San Diego County,202001,53.4
+San Diego County,202002,54.3
+San Diego County,202003,53
+San Diego County,202004,59.9
+San Diego County,202005,68
+San Diego County,202006,70.6
+San Diego County,202007,76.5
+San Diego County,202008,80.4
+San Diego County,202009,77.5
+San Diego County,202010,71.3
+San Francisco County,201101,50.6
+San Francisco County,201102,50.4
+San Francisco County,201103,53
+San Francisco County,201104,54.5
+San Francisco County,201105,55.5
+San Francisco County,201106,59
+San Francisco County,201107,61.3
+San Francisco County,201108,61
+San Francisco County,201109,62.9
+San Francisco County,201110,61.9
+San Francisco County,201111,53.5
+San Francisco County,201112,50.1
+San Francisco County,201201,51
+San Francisco County,201202,52.2
+San Francisco County,201203,52
+San Francisco County,201204,55.5
+San Francisco County,201205,57.6
+San Francisco County,201206,60.1
+San Francisco County,201207,61
+San Francisco County,201208,61
+San Francisco County,201209,59.6
+San Francisco County,201210,61.4
+San Francisco County,201211,56.8
+San Francisco County,201212,50.2
+San Francisco County,201301,48.2
+San Francisco County,201302,50.5
+San Francisco County,201303,53.9
+San Francisco County,201304,57.6
+San Francisco County,201305,59.4
+San Francisco County,201306,61.8
+San Francisco County,201307,61.6
+San Francisco County,201308,62.9
+San Francisco County,201309,63.8
+San Francisco County,201310,59.5
+San Francisco County,201311,56.3
+San Francisco County,201312,49.9
+San Francisco County,201401,54.8
+San Francisco County,201402,53
+San Francisco County,201403,57.9
+San Francisco County,201404,57.8
+San Francisco County,201405,61.2
+San Francisco County,201406,61.1
+San Francisco County,201407,64.6
+San Francisco County,201408,64.7
+San Francisco County,201409,65.5
+San Francisco County,201410,64.1
+San Francisco County,201411,58.3
+San Francisco County,201412,55.2
+San Francisco County,201501,54
+San Francisco County,201502,58
+San Francisco County,201503,58.7
+San Francisco County,201504,56.6
+San Francisco County,201505,56.1
+San Francisco County,201506,61.7
+San Francisco County,201507,65.2
+San Francisco County,201508,67.1
+San Francisco County,201509,66.5
+San Francisco County,201510,64.4
+San Francisco County,201511,53.9
+San Francisco County,201512,50
+San Francisco County,201601,52.2
+San Francisco County,201602,57.1
+San Francisco County,201603,55.8
+San Francisco County,201604,58.6
+San Francisco County,201605,59.2
+San Francisco County,201606,61.9
+San Francisco County,201607,61.2
+San Francisco County,201608,61.8
+San Francisco County,201609,63
+San Francisco County,201610,61.1
+San Francisco County,201611,57.3
+San Francisco County,201612,50.1
+San Francisco County,201701,49.1
+San Francisco County,201702,53.1
+San Francisco County,201703,56.3
+San Francisco County,201704,56.8
+San Francisco County,201705,58.5
+San Francisco County,201706,61.7
+San Francisco County,201707,62.3
+San Francisco County,201708,64
+San Francisco County,201709,68.2
+San Francisco County,201710,62.6
+San Francisco County,201711,56.7
+San Francisco County,201712,52.8
+San Francisco County,201801,52.9
+San Francisco County,201802,54.1
+San Francisco County,201803,53.3
+San Francisco County,201804,56
+San Francisco County,201805,57.7
+San Francisco County,201806,60.9
+San Francisco County,201807,62.4
+San Francisco County,201808,61.8
+San Francisco County,201809,61.3
+San Francisco County,201810,61.6
+San Francisco County,201811,57.4
+San Francisco County,201812,52.3
+San Francisco County,201901,53.1
+San Francisco County,201902,48.5
+San Francisco County,201903,53.4
+San Francisco County,201904,57.5
+San Francisco County,201905,56.4
+San Francisco County,201906,62.8
+San Francisco County,201907,62.4
+San Francisco County,201908,65.9
+San Francisco County,201909,65.6
+San Francisco County,201910,61.6
+San Francisco County,201911,55.6
+San Francisco County,201912,52
+San Francisco County,202001,51.2
+San Francisco County,202002,55
+San Francisco County,202003,52.8
+San Francisco County,202004,56
+San Francisco County,202005,60.6
+San Francisco County,202006,62.4
+San Francisco County,202007,62
+San Francisco County,202008,65.1
+San Francisco County,202009,66.4
+San Francisco County,202010,65.5
+San Joaquin County,201101,46
+San Joaquin County,201102,48.5
+San Joaquin County,201103,53.8
+San Joaquin County,201104,58.6
+San Joaquin County,201105,61.7
+San Joaquin County,201106,69.3
+San Joaquin County,201107,74.7
+San Joaquin County,201108,74.9
+San Joaquin County,201109,74.8
+San Joaquin County,201110,64.6
+San Joaquin County,201111,52
+San Joaquin County,201112,45.9
+San Joaquin County,201201,48.4
+San Joaquin County,201202,51.6
+San Joaquin County,201203,53.2
+San Joaquin County,201204,60.3
+San Joaquin County,201205,67.5
+San Joaquin County,201206,71.4
+San Joaquin County,201207,74.9
+San Joaquin County,201208,77
+San Joaquin County,201209,73.3
+San Joaquin County,201210,65.2
+San Joaquin County,201211,56
+San Joaquin County,201212,47.5
+San Joaquin County,201301,45
+San Joaquin County,201302,49.7
+San Joaquin County,201303,57.4
+San Joaquin County,201304,63.9
+San Joaquin County,201305,68.6
+San Joaquin County,201306,73.9
+San Joaquin County,201307,77.3
+San Joaquin County,201308,74.7
+San Joaquin County,201309,71.3
+San Joaquin County,201310,62.8
+San Joaquin County,201311,55.5
+San Joaquin County,201312,46
+San Joaquin County,201401,51.7
+San Joaquin County,201402,53.7
+San Joaquin County,201403,58.8
+San Joaquin County,201404,62
+San Joaquin County,201405,69
+San Joaquin County,201406,73.7
+San Joaquin County,201407,78.1
+San Joaquin County,201408,75.7
+San Joaquin County,201409,73.7
+San Joaquin County,201410,68
+San Joaquin County,201411,56.4
+San Joaquin County,201412,52.7
+San Joaquin County,201501,49.6
+San Joaquin County,201502,56.1
+San Joaquin County,201503,61.6
+San Joaquin County,201504,62
+San Joaquin County,201505,64.4
+San Joaquin County,201506,75.8
+San Joaquin County,201507,77.1
+San Joaquin County,201508,76.2
+San Joaquin County,201509,74.5
+San Joaquin County,201510,69.8
+San Joaquin County,201511,51.9
+San Joaquin County,201512,47.3
+San Joaquin County,201601,50
+San Joaquin County,201602,55.6
+San Joaquin County,201603,57.4
+San Joaquin County,201604,62.9
+San Joaquin County,201605,67.2
+San Joaquin County,201606,75.2
+San Joaquin County,201607,77
+San Joaquin County,201608,75.2
+San Joaquin County,201609,72.1
+San Joaquin County,201610,63.9
+San Joaquin County,201611,56.5
+San Joaquin County,201612,46.6
+San Joaquin County,201701,47.2
+San Joaquin County,201702,53
+San Joaquin County,201703,57.9
+San Joaquin County,201704,59.9
+San Joaquin County,201705,68.5
+San Joaquin County,201706,75.4
+San Joaquin County,201707,79.7
+San Joaquin County,201708,78.6
+San Joaquin County,201709,74.2
+San Joaquin County,201710,65.1
+San Joaquin County,201711,56.6
+San Joaquin County,201712,48.8
+San Joaquin County,201801,51.8
+San Joaquin County,201802,52.9
+San Joaquin County,201803,54.8
+San Joaquin County,201804,61.1
+San Joaquin County,201805,66.6
+San Joaquin County,201806,74.2
+San Joaquin County,201807,79.8
+San Joaquin County,201808,75.2
+San Joaquin County,201809,71.8
+San Joaquin County,201810,66.1
+San Joaquin County,201811,55.8
+San Joaquin County,201812,49.7
+San Joaquin County,201901,50.9
+San Joaquin County,201902,47.7
+San Joaquin County,201903,54.2
+San Joaquin County,201904,63.5
+San Joaquin County,201905,62.8
+San Joaquin County,201906,75
+San Joaquin County,201907,77.2
+San Joaquin County,201908,78.4
+San Joaquin County,201909,72.3
+San Joaquin County,201910,63.7
+San Joaquin County,201911,56.6
+San Joaquin County,201912,50.6
+San Joaquin County,202001,49.2
+San Joaquin County,202002,55
+San Joaquin County,202003,54
+San Joaquin County,202004,62.2
+San Joaquin County,202005,69.8
+San Joaquin County,202006,74.9
+San Joaquin County,202007,77.3
+San Joaquin County,202008,80.2
+San Joaquin County,202009,76.8
+San Joaquin County,202010,70.3
+San Luis Obispo County,201101,50
+San Luis Obispo County,201102,46.7
+San Luis Obispo County,201103,51.4
+San Luis Obispo County,201104,55.2
+San Luis Obispo County,201105,57.6
+San Luis Obispo County,201106,65
+San Luis Obispo County,201107,71.2
+San Luis Obispo County,201108,71.2
+San Luis Obispo County,201109,70.5
+San Luis Obispo County,201110,62.9
+San Luis Obispo County,201111,52.3
+San Luis Obispo County,201112,46.4
+San Luis Obispo County,201201,50.2
+San Luis Obispo County,201202,49.8
+San Luis Obispo County,201203,51.3
+San Luis Obispo County,201204,56.6
+San Luis Obispo County,201205,62.7
+San Luis Obispo County,201206,67
+San Luis Obispo County,201207,70.6
+San Luis Obispo County,201208,75.2
+San Luis Obispo County,201209,71.6
+San Luis Obispo County,201210,63.6
+San Luis Obispo County,201211,55.9
+San Luis Obispo County,201212,48.2
+San Luis Obispo County,201301,47.3
+San Luis Obispo County,201302,48.5
+San Luis Obispo County,201303,56
+San Luis Obispo County,201304,59.7
+San Luis Obispo County,201305,63.9
+San Luis Obispo County,201306,69.8
+San Luis Obispo County,201307,74.3
+San Luis Obispo County,201308,72.2
+San Luis Obispo County,201309,69.7
+San Luis Obispo County,201310,61.1
+San Luis Obispo County,201311,55.6
+San Luis Obispo County,201312,49.4
+San Luis Obispo County,201401,54.3
+San Luis Obispo County,201402,53.2
+San Luis Obispo County,201403,56.6
+San Luis Obispo County,201404,59
+San Luis Obispo County,201405,65.1
+San Luis Obispo County,201406,69.4
+San Luis Obispo County,201407,74.4
+San Luis Obispo County,201408,72.7
+San Luis Obispo County,201409,71.5
+San Luis Obispo County,201410,66.6
+San Luis Obispo County,201411,57.6
+San Luis Obispo County,201412,52.2
+San Luis Obispo County,201501,52.3
+San Luis Obispo County,201502,55.6
+San Luis Obispo County,201503,59
+San Luis Obispo County,201504,57.7
+San Luis Obispo County,201505,59.2
+San Luis Obispo County,201506,70.7
+San Luis Obispo County,201507,71.9
+San Luis Obispo County,201508,73.6
+San Luis Obispo County,201509,72
+San Luis Obispo County,201510,67.3
+San Luis Obispo County,201511,51.4
+San Luis Obispo County,201512,46.5
+San Luis Obispo County,201601,50.3
+San Luis Obispo County,201602,55.3
+San Luis Obispo County,201603,54.9
+San Luis Obispo County,201604,58.8
+San Luis Obispo County,201605,61.4
+San Luis Obispo County,201606,71.8
+San Luis Obispo County,201607,73
+San Luis Obispo County,201608,72.2
+San Luis Obispo County,201609,68.6
+San Luis Obispo County,201610,61.8
+San Luis Obispo County,201611,56.9
+San Luis Obispo County,201612,48.5
+San Luis Obispo County,201701,48.2
+San Luis Obispo County,201702,50.7
+San Luis Obispo County,201703,55
+San Luis Obispo County,201704,57.6
+San Luis Obispo County,201705,62.4
+San Luis Obispo County,201706,71.2
+San Luis Obispo County,201707,76
+San Luis Obispo County,201708,75.4
+San Luis Obispo County,201709,70
+San Luis Obispo County,201710,64.3
+San Luis Obispo County,201711,57.5
+San Luis Obispo County,201712,52.3
+San Luis Obispo County,201801,53.9
+San Luis Obispo County,201802,50.3
+San Luis Obispo County,201803,52.1
+San Luis Obispo County,201804,58
+San Luis Obispo County,201805,60.7
+San Luis Obispo County,201806,68.2
+San Luis Obispo County,201807,77
+San Luis Obispo County,201808,73.8
+San Luis Obispo County,201809,69.7
+San Luis Obispo County,201810,63.2
+San Luis Obispo County,201811,57.1
+San Luis Obispo County,201812,49.4
+San Luis Obispo County,201901,50.9
+San Luis Obispo County,201902,45
+San Luis Obispo County,201903,51.3
+San Luis Obispo County,201904,59.3
+San Luis Obispo County,201905,58.2
+San Luis Obispo County,201906,68.9
+San Luis Obispo County,201907,72.2
+San Luis Obispo County,201908,73.6
+San Luis Obispo County,201909,69.5
+San Luis Obispo County,201910,62
+San Luis Obispo County,201911,56.1
+San Luis Obispo County,201912,49.9
+San Luis Obispo County,202001,48.8
+San Luis Obispo County,202002,52.5
+San Luis Obispo County,202003,50.4
+San Luis Obispo County,202004,57.1
+San Luis Obispo County,202005,63.7
+San Luis Obispo County,202006,68.2
+San Luis Obispo County,202007,71.6
+San Luis Obispo County,202008,75.8
+San Luis Obispo County,202009,73.2
+San Luis Obispo County,202010,68.7
+San Mateo County,201101,50.8
+San Mateo County,201102,49
+San Mateo County,201103,52
+San Mateo County,201104,53.3
+San Mateo County,201105,54.9
+San Mateo County,201106,59.2
+San Mateo County,201107,62.7
+San Mateo County,201108,62.6
+San Mateo County,201109,64.2
+San Mateo County,201110,62
+San Mateo County,201111,52.2
+San Mateo County,201112,48.5
+San Mateo County,201201,50.6
+San Mateo County,201202,50.8
+San Mateo County,201203,51
+San Mateo County,201204,55.2
+San Mateo County,201205,57.2
+San Mateo County,201206,60.4
+San Mateo County,201207,62.6
+San Mateo County,201208,62.9
+San Mateo County,201209,61
+San Mateo County,201210,61.8
+San Mateo County,201211,56.3
+San Mateo County,201212,49.9
+San Mateo County,201301,48.3
+San Mateo County,201302,49.2
+San Mateo County,201303,53.9
+San Mateo County,201304,57.2
+San Mateo County,201305,59.2
+San Mateo County,201306,62.4
+San Mateo County,201307,64
+San Mateo County,201308,65
+San Mateo County,201309,64.5
+San Mateo County,201310,58.9
+San Mateo County,201311,55.1
+San Mateo County,201312,49.2
+San Mateo County,201401,54.1
+San Mateo County,201402,52.6
+San Mateo County,201403,56.3
+San Mateo County,201404,56.6
+San Mateo County,201405,60.8
+San Mateo County,201406,61.8
+San Mateo County,201407,65.9
+San Mateo County,201408,66.1
+San Mateo County,201409,66
+San Mateo County,201410,63.8
+San Mateo County,201411,57.1
+San Mateo County,201412,54.6
+San Mateo County,201501,53.6
+San Mateo County,201502,56.5
+San Mateo County,201503,57.5
+San Mateo County,201504,55.7
+San Mateo County,201505,57.1
+San Mateo County,201506,62.8
+San Mateo County,201507,66.4
+San Mateo County,201508,67.9
+San Mateo County,201509,67.1
+San Mateo County,201510,64.5
+San Mateo County,201511,52.2
+San Mateo County,201512,48.6
+San Mateo County,201601,51.6
+San Mateo County,201602,55.9
+San Mateo County,201603,54.9
+San Mateo County,201604,57.7
+San Mateo County,201605,59.5
+San Mateo County,201606,62.9
+San Mateo County,201607,63.2
+San Mateo County,201608,63.7
+San Mateo County,201609,64.1
+San Mateo County,201610,60.5
+San Mateo County,201611,55.9
+San Mateo County,201612,49
+San Mateo County,201701,48.7
+San Mateo County,201702,52.2
+San Mateo County,201703,55
+San Mateo County,201704,55.8
+San Mateo County,201705,58.9
+San Mateo County,201706,62.4
+San Mateo County,201707,64.2
+San Mateo County,201708,65.8
+San Mateo County,201709,68.3
+San Mateo County,201710,62
+San Mateo County,201711,55.7
+San Mateo County,201712,51.5
+San Mateo County,201801,52.7
+San Mateo County,201802,51.8
+San Mateo County,201803,52.4
+San Mateo County,201804,55.2
+San Mateo County,201805,57.8
+San Mateo County,201806,61.5
+San Mateo County,201807,65.2
+San Mateo County,201808,64.1
+San Mateo County,201809,62.1
+San Mateo County,201810,61.3
+San Mateo County,201811,55.9
+San Mateo County,201812,51.3
+San Mateo County,201901,52.4
+San Mateo County,201902,47.4
+San Mateo County,201903,52.2
+San Mateo County,201904,57.2
+San Mateo County,201905,57.1
+San Mateo County,201906,63.8
+San Mateo County,201907,64.2
+San Mateo County,201908,67.3
+San Mateo County,201909,66.1
+San Mateo County,201910,60.8
+San Mateo County,201911,54.5
+San Mateo County,201912,51.4
+San Mateo County,202001,50.4
+San Mateo County,202002,53.6
+San Mateo County,202003,52.1
+San Mateo County,202004,55.8
+San Mateo County,202005,60.2
+San Mateo County,202006,62.5
+San Mateo County,202007,63.7
+San Mateo County,202008,67.3
+San Mateo County,202009,67.1
+San Mateo County,202010,65.4
+Santa Barbara County,201101,52
+Santa Barbara County,201102,47
+Santa Barbara County,201103,51.6
+Santa Barbara County,201104,54.8
+Santa Barbara County,201105,56.5
+Santa Barbara County,201106,61.7
+Santa Barbara County,201107,68.4
+Santa Barbara County,201108,68.2
+Santa Barbara County,201109,67.4
+Santa Barbara County,201110,62.3
+Santa Barbara County,201111,53
+Santa Barbara County,201112,48.3
+Santa Barbara County,201201,52.5
+Santa Barbara County,201202,50.7
+Santa Barbara County,201203,50.8
+Santa Barbara County,201204,54.9
+Santa Barbara County,201205,59.7
+Santa Barbara County,201206,63.4
+Santa Barbara County,201207,67.2
+Santa Barbara County,201208,71
+Santa Barbara County,201209,69
+Santa Barbara County,201210,62.9
+Santa Barbara County,201211,56.6
+Santa Barbara County,201212,48.8
+Santa Barbara County,201301,48.4
+Santa Barbara County,201302,48.7
+Santa Barbara County,201303,54.1
+Santa Barbara County,201304,56.7
+Santa Barbara County,201305,61.6
+Santa Barbara County,201306,65.4
+Santa Barbara County,201307,70
+Santa Barbara County,201308,68.2
+Santa Barbara County,201309,67.6
+Santa Barbara County,201310,60
+Santa Barbara County,201311,56.1
+Santa Barbara County,201312,50.9
+Santa Barbara County,201401,56.4
+Santa Barbara County,201402,53.1
+Santa Barbara County,201403,56
+Santa Barbara County,201404,57.6
+Santa Barbara County,201405,63.3
+Santa Barbara County,201406,65.8
+Santa Barbara County,201407,71.1
+Santa Barbara County,201408,70.3
+Santa Barbara County,201409,70.1
+Santa Barbara County,201410,66.2
+Santa Barbara County,201411,59
+Santa Barbara County,201412,52.7
+Santa Barbara County,201501,54.6
+Santa Barbara County,201502,56
+Santa Barbara County,201503,58.9
+Santa Barbara County,201504,57.2
+Santa Barbara County,201505,57.8
+Santa Barbara County,201506,66.4
+Santa Barbara County,201507,69.8
+Santa Barbara County,201508,71.6
+Santa Barbara County,201509,71.9
+Santa Barbara County,201510,67.8
+Santa Barbara County,201511,53.7
+Santa Barbara County,201512,49
+Santa Barbara County,201601,51.1
+Santa Barbara County,201602,56.3
+Santa Barbara County,201603,54.7
+Santa Barbara County,201604,58.6
+Santa Barbara County,201605,59.3
+Santa Barbara County,201606,67.6
+Santa Barbara County,201607,69.9
+Santa Barbara County,201608,69.5
+Santa Barbara County,201609,67.7
+Santa Barbara County,201610,62.3
+Santa Barbara County,201611,58.1
+Santa Barbara County,201612,49.8
+Santa Barbara County,201701,48.8
+Santa Barbara County,201702,50.6
+Santa Barbara County,201703,55.3
+Santa Barbara County,201704,57.4
+Santa Barbara County,201705,59.7
+Santa Barbara County,201706,66.9
+Santa Barbara County,201707,71.9
+Santa Barbara County,201708,71.8
+Santa Barbara County,201709,68.7
+Santa Barbara County,201710,64.8
+Santa Barbara County,201711,58.5
+Santa Barbara County,201712,53.6
+Santa Barbara County,201801,55.2
+Santa Barbara County,201802,50.6
+Santa Barbara County,201803,51.5
+Santa Barbara County,201804,56.8
+Santa Barbara County,201805,58.5
+Santa Barbara County,201806,64.9
+Santa Barbara County,201807,73.5
+Santa Barbara County,201808,71.8
+Santa Barbara County,201809,67.7
+Santa Barbara County,201810,63.1
+Santa Barbara County,201811,58.2
+Santa Barbara County,201812,51
+Santa Barbara County,201901,51.7
+Santa Barbara County,201902,45.6
+Santa Barbara County,201903,51.8
+Santa Barbara County,201904,57.9
+Santa Barbara County,201905,57.3
+Santa Barbara County,201906,65.6
+Santa Barbara County,201907,69
+Santa Barbara County,201908,70
+Santa Barbara County,201909,69
+Santa Barbara County,201910,61.9
+Santa Barbara County,201911,56.2
+Santa Barbara County,201912,50.7
+Santa Barbara County,202001,50.6
+Santa Barbara County,202002,52.8
+Santa Barbara County,202003,50.7
+Santa Barbara County,202004,56.1
+Santa Barbara County,202005,62
+Santa Barbara County,202006,65.8
+Santa Barbara County,202007,68.7
+Santa Barbara County,202008,72.5
+Santa Barbara County,202009,70.3
+Santa Barbara County,202010,67.4
+Santa Clara County,201101,49
+Santa Clara County,201102,46.5
+Santa Clara County,201103,50.1
+Santa Clara County,201104,53.2
+Santa Clara County,201105,56.6
+Santa Clara County,201106,63
+Santa Clara County,201107,69.1
+Santa Clara County,201108,68.9
+Santa Clara County,201109,69.6
+Santa Clara County,201110,62.8
+Santa Clara County,201111,50.5
+Santa Clara County,201112,46.7
+Santa Clara County,201201,49.3
+Santa Clara County,201202,49.4
+Santa Clara County,201203,49.9
+Santa Clara County,201204,55.2
+Santa Clara County,201205,60.9
+Santa Clara County,201206,65
+Santa Clara County,201207,69
+Santa Clara County,201208,71.8
+Santa Clara County,201209,68.8
+Santa Clara County,201210,62.6
+Santa Clara County,201211,55.1
+Santa Clara County,201212,46.1
+Santa Clara County,201301,46.1
+Santa Clara County,201302,47.8
+Santa Clara County,201303,54.5
+Santa Clara County,201304,58.4
+Santa Clara County,201305,61.8
+Santa Clara County,201306,67.4
+Santa Clara County,201307,71.6
+Santa Clara County,201308,69.5
+Santa Clara County,201309,66.9
+Santa Clara County,201310,60.6
+Santa Clara County,201311,54.5
+Santa Clara County,201312,47.8
+Santa Clara County,201401,52.5
+Santa Clara County,201402,51.5
+Santa Clara County,201403,55.5
+Santa Clara County,201404,57.5
+Santa Clara County,201405,63
+Santa Clara County,201406,67.1
+Santa Clara County,201407,72.6
+Santa Clara County,201408,71.1
+Santa Clara County,201409,69.5
+Santa Clara County,201410,65
+Santa Clara County,201411,55.8
+Santa Clara County,201412,50.7
+Santa Clara County,201501,51.2
+Santa Clara County,201502,54.9
+Santa Clara County,201503,58.4
+Santa Clara County,201504,56.5
+Santa Clara County,201505,58.5
+Santa Clara County,201506,69
+Santa Clara County,201507,71.3
+Santa Clara County,201508,72.3
+Santa Clara County,201509,70.9
+Santa Clara County,201510,66.2
+Santa Clara County,201511,49.9
+Santa Clara County,201512,45.2
+Santa Clara County,201601,48.7
+Santa Clara County,201602,55.4
+Santa Clara County,201603,53.9
+Santa Clara County,201604,57.9
+Santa Clara County,201605,61.2
+Santa Clara County,201606,69
+Santa Clara County,201607,70.8
+Santa Clara County,201608,71
+Santa Clara County,201609,67.9
+Santa Clara County,201610,61.1
+Santa Clara County,201611,54.6
+Santa Clara County,201612,47.1
+Santa Clara County,201701,45.7
+Santa Clara County,201702,49.4
+Santa Clara County,201703,54.5
+Santa Clara County,201704,55
+Santa Clara County,201705,61.4
+Santa Clara County,201706,68.2
+Santa Clara County,201707,72.7
+Santa Clara County,201708,73.1
+Santa Clara County,201709,69.9
+Santa Clara County,201710,63.4
+Santa Clara County,201711,54.7
+Santa Clara County,201712,49.6
+Santa Clara County,201801,51.3
+Santa Clara County,201802,50
+Santa Clara County,201803,50.8
+Santa Clara County,201804,55.4
+Santa Clara County,201805,59.7
+Santa Clara County,201806,66.9
+Santa Clara County,201807,74.2
+Santa Clara County,201808,70.7
+Santa Clara County,201809,67.5
+Santa Clara County,201810,63
+Santa Clara County,201811,56.3
+Santa Clara County,201812,48.5
+Santa Clara County,201901,49.9
+Santa Clara County,201902,44.8
+Santa Clara County,201903,50.7
+Santa Clara County,201904,58.4
+Santa Clara County,201905,57.9
+Santa Clara County,201906,68.1
+Santa Clara County,201907,70.2
+Santa Clara County,201908,72.4
+Santa Clara County,201909,69.8
+Santa Clara County,201910,61.6
+Santa Clara County,201911,55.6
+Santa Clara County,201912,49
+Santa Clara County,202001,47.6
+Santa Clara County,202002,52.5
+Santa Clara County,202003,50
+Santa Clara County,202004,56.5
+Santa Clara County,202005,62.8
+Santa Clara County,202006,67.4
+Santa Clara County,202007,70.9
+Santa Clara County,202008,74
+Santa Clara County,202009,72.2
+Santa Clara County,202010,68.2
+Santa Cruz County,201011,52.4
+Santa Cruz County,201012,50.4
+Santa Cruz County,201101,50.8
+Santa Cruz County,201102,47.7
+Santa Cruz County,201103,51.8
+Santa Cruz County,201104,53.4
+Santa Cruz County,201105,55.6
+Santa Cruz County,201106,59.9
+Santa Cruz County,201107,64.5
+Santa Cruz County,201108,63.6
+Santa Cruz County,201109,64.8
+Santa Cruz County,201110,62.5
+Santa Cruz County,201111,51.9
+Santa Cruz County,201112,47.8
+Santa Cruz County,201201,50.4
+Santa Cruz County,201202,50.4
+Santa Cruz County,201203,51.2
+Santa Cruz County,201204,55.3
+Santa Cruz County,201205,58.4
+Santa Cruz County,201206,61.7
+Santa Cruz County,201207,64
+Santa Cruz County,201208,65.8
+Santa Cruz County,201209,63.4
+Santa Cruz County,201210,62.2
+Santa Cruz County,201211,56.6
+Santa Cruz County,201212,49.3
+Santa Cruz County,201301,48.4
+Santa Cruz County,201302,48.7
+Santa Cruz County,201303,54.8
+Santa Cruz County,201304,57.2
+Santa Cruz County,201305,60.1
+Santa Cruz County,201306,63.9
+Santa Cruz County,201307,65.8
+Santa Cruz County,201308,66.8
+Santa Cruz County,201309,65.7
+Santa Cruz County,201310,59.5
+Santa Cruz County,201311,55.3
+Santa Cruz County,201312,49.6
+Santa Cruz County,201401,55
+Santa Cruz County,201402,52.5
+Santa Cruz County,201403,56.4
+Santa Cruz County,201404,57.3
+Santa Cruz County,201405,62.2
+Santa Cruz County,201406,63
+Santa Cruz County,201407,67.4
+Santa Cruz County,201408,67.6
+Santa Cruz County,201409,66.7
+Santa Cruz County,201410,64.6
+Santa Cruz County,201411,56.3
+Santa Cruz County,201412,53
+Santa Cruz County,201501,54.3
+Santa Cruz County,201502,56.3
+Santa Cruz County,201503,58.6
+Santa Cruz County,201504,56.1
+Santa Cruz County,201505,57.5
+Santa Cruz County,201506,64.4
+Santa Cruz County,201507,68.7
+Santa Cruz County,201508,70.3
+Santa Cruz County,201509,69.6
+Santa Cruz County,201510,65.7
+Santa Cruz County,201511,51.9
+Santa Cruz County,201512,48
+Santa Cruz County,201601,51.4
+Santa Cruz County,201602,56.2
+Santa Cruz County,201603,55
+Santa Cruz County,201604,58.1
+Santa Cruz County,201605,59.8
+Santa Cruz County,201606,64.8
+Santa Cruz County,201607,65.2
+Santa Cruz County,201608,65.6
+Santa Cruz County,201609,65.2
+Santa Cruz County,201610,60.6
+Santa Cruz County,201611,55.5
+Santa Cruz County,201612,49.1
+Santa Cruz County,201701,48.3
+Santa Cruz County,201702,51.7
+Santa Cruz County,201703,54.9
+Santa Cruz County,201704,55.6
+Santa Cruz County,201705,59
+Santa Cruz County,201706,64
+Santa Cruz County,201707,65.8
+Santa Cruz County,201708,67.9
+Santa Cruz County,201709,69.6
+Santa Cruz County,201710,62.4
+Santa Cruz County,201711,56.6
+Santa Cruz County,201712,51.5
+Santa Cruz County,201801,52.9
+Santa Cruz County,201802,51.4
+Santa Cruz County,201803,52.2
+Santa Cruz County,201804,55.6
+Santa Cruz County,201805,58.6
+Santa Cruz County,201806,62.7
+Santa Cruz County,201807,67.9
+Santa Cruz County,201808,65.9
+Santa Cruz County,201809,63.3
+Santa Cruz County,201810,62.5
+Santa Cruz County,201811,56.7
+Santa Cruz County,201812,51.2
+Santa Cruz County,201901,52.3
+Santa Cruz County,201902,47.2
+Santa Cruz County,201903,52.3
+Santa Cruz County,201904,57.8
+Santa Cruz County,201905,57.7
+Santa Cruz County,201906,64.1
+Santa Cruz County,201907,66
+Santa Cruz County,201908,68.6
+Santa Cruz County,201909,67.9
+Santa Cruz County,201910,61.2
+Santa Cruz County,201911,55.2
+Santa Cruz County,201912,51.2
+Santa Cruz County,202001,50.7
+Santa Cruz County,202002,53.4
+Santa Cruz County,202003,51.9
+Santa Cruz County,202004,56.1
+Santa Cruz County,202005,60.7
+Santa Cruz County,202006,63.8
+Santa Cruz County,202007,65.3
+Santa Cruz County,202008,69.8
+Santa Cruz County,202009,68
+Santa Cruz County,202010,65.9
+Shasta County,201101,42.6
+Shasta County,201102,40.3
+Shasta County,201103,42.3
+Shasta County,201104,47.7
+Shasta County,201105,53
+Shasta County,201106,63
+Shasta County,201107,71.5
+Shasta County,201108,72.5
+Shasta County,201109,70.8
+Shasta County,201110,57
+Shasta County,201111,44.2
+Shasta County,201112,41.2
+Shasta County,201201,41.7
+Shasta County,201202,42.8
+Shasta County,201203,42.6
+Shasta County,201204,50.9
+Shasta County,201205,59.7
+Shasta County,201206,64.5
+Shasta County,201207,72.4
+Shasta County,201208,75.4
+Shasta County,201209,70.9
+Shasta County,201210,58.6
+Shasta County,201211,47.3
+Shasta County,201212,37.2
+Shasta County,201301,38.8
+Shasta County,201302,43
+Shasta County,201303,49.1
+Shasta County,201304,54.5
+Shasta County,201305,60.4
+Shasta County,201306,69.1
+Shasta County,201307,77.1
+Shasta County,201308,71.7
+Shasta County,201309,65.4
+Shasta County,201310,55.7
+Shasta County,201311,48.8
+Shasta County,201312,40.6
+Shasta County,201401,46.5
+Shasta County,201402,44.1
+Shasta County,201403,48.2
+Shasta County,201404,53.3
+Shasta County,201405,61.2
+Shasta County,201406,69.6
+Shasta County,201407,77.9
+Shasta County,201408,73.6
+Shasta County,201409,69.2
+Shasta County,201410,59.6
+Shasta County,201411,48.2
+Shasta County,201412,43.2
+Shasta County,201501,47
+Shasta County,201502,49.6
+Shasta County,201503,53
+Shasta County,201504,53.4
+Shasta County,201505,60.4
+Shasta County,201506,73.9
+Shasta County,201507,74.7
+Shasta County,201508,73.3
+Shasta County,201509,68
+Shasta County,201510,61.8
+Shasta County,201511,43.4
+Shasta County,201512,37.3
+Shasta County,201601,39.8
+Shasta County,201602,47.4
+Shasta County,201603,47.4
+Shasta County,201604,55.5
+Shasta County,201605,60.1
+Shasta County,201606,69
+Shasta County,201607,74
+Shasta County,201608,75.2
+Shasta County,201609,68.1
+Shasta County,201610,54.3
+Shasta County,201611,47
+Shasta County,201612,37.8
+Shasta County,201701,37.4
+Shasta County,201702,42.4
+Shasta County,201703,47.9
+Shasta County,201704,49.4
+Shasta County,201705,62.1
+Shasta County,201706,69.8
+Shasta County,201707,77.1
+Shasta County,201708,77.8
+Shasta County,201709,68.4
+Shasta County,201710,57.7
+Shasta County,201711,46.2
+Shasta County,201712,43
+Shasta County,201801,44.1
+Shasta County,201802,42.9
+Shasta County,201803,43.5
+Shasta County,201804,51.8
+Shasta County,201805,61.9
+Shasta County,201806,69
+Shasta County,201807,78
+Shasta County,201808,73
+Shasta County,201809,67.4
+Shasta County,201810,58.1
+Shasta County,201811,49.1
+Shasta County,201812,40.3
+Shasta County,201901,43.2
+Shasta County,201902,35.9
+Shasta County,201903,44.1
+Shasta County,201904,54.6
+Shasta County,201905,57.6
+Shasta County,201906,69.6
+Shasta County,201907,73.4
+Shasta County,201908,74.1
+Shasta County,201909,65
+Shasta County,201910,54.3
+Shasta County,201911,50.6
+Shasta County,201912,40.2
+Shasta County,202001,40.6
+Shasta County,202002,46.1
+Shasta County,202003,44.4
+Shasta County,202004,54.3
+Shasta County,202005,59.8
+Shasta County,202006,68
+Shasta County,202007,75.7
+Shasta County,202008,76.6
+Shasta County,202009,71.6
+Shasta County,202010,63.9
+Sierra County,201101,35.3
+Sierra County,201102,31.2
+Sierra County,201103,35
+Sierra County,201104,39.8
+Sierra County,201105,44.9
+Sierra County,201106,54.3
+Sierra County,201107,62.6
+Sierra County,201108,63.4
+Sierra County,201109,62.1
+Sierra County,201110,49.6
+Sierra County,201111,37.7
+Sierra County,201112,34.3
+Sierra County,201201,36.6
+Sierra County,201202,35.1
+Sierra County,201203,36.4
+Sierra County,201204,43.6
+Sierra County,201205,51.8
+Sierra County,201206,56.9
+Sierra County,201207,64.3
+Sierra County,201208,67.2
+Sierra County,201209,63
+Sierra County,201210,50.9
+Sierra County,201211,41.7
+Sierra County,201212,30.7
+Sierra County,201301,30.5
+Sierra County,201302,34.2
+Sierra County,201303,41.7
+Sierra County,201304,46
+Sierra County,201305,51
+Sierra County,201306,60.4
+Sierra County,201307,67.9
+Sierra County,201308,63.3
+Sierra County,201309,57.5
+Sierra County,201310,47
+Sierra County,201311,41.9
+Sierra County,201312,32.4
+Sierra County,201401,39.2
+Sierra County,201402,38.1
+Sierra County,201403,40.9
+Sierra County,201404,45.1
+Sierra County,201405,52
+Sierra County,201406,60
+Sierra County,201407,69.2
+Sierra County,201408,64.2
+Sierra County,201409,60.6
+Sierra County,201410,52.3
+Sierra County,201411,42.2
+Sierra County,201412,35.8
+Sierra County,201501,40
+Sierra County,201502,42.8
+Sierra County,201503,45
+Sierra County,201504,44.2
+Sierra County,201505,50.2
+Sierra County,201506,63.2
+Sierra County,201507,65
+Sierra County,201508,64.9
+Sierra County,201509,60.9
+Sierra County,201510,54
+Sierra County,201511,35.3
+Sierra County,201512,30.8
+Sierra County,201601,33.4
+Sierra County,201602,40.2
+Sierra County,201603,40
+Sierra County,201604,46.3
+Sierra County,201605,50.8
+Sierra County,201606,60.4
+Sierra County,201607,64.9
+Sierra County,201608,66
+Sierra County,201609,59.1
+Sierra County,201610,47.7
+Sierra County,201611,41
+Sierra County,201612,33.1
+Sierra County,201701,30.7
+Sierra County,201702,34.7
+Sierra County,201703,40.6
+Sierra County,201704,41.8
+Sierra County,201705,52.7
+Sierra County,201706,60.7
+Sierra County,201707,67.8
+Sierra County,201708,68.2
+Sierra County,201709,58.4
+Sierra County,201710,49.7
+Sierra County,201711,42
+Sierra County,201712,37.1
+Sierra County,201801,38.2
+Sierra County,201802,33.8
+Sierra County,201803,35.1
+Sierra County,201804,44.3
+Sierra County,201805,52.1
+Sierra County,201806,59.9
+Sierra County,201807,69.3
+Sierra County,201808,65.6
+Sierra County,201809,59.4
+Sierra County,201810,50
+Sierra County,201811,42.2
+Sierra County,201812,34.2
+Sierra County,201901,35.8
+Sierra County,201902,27.6
+Sierra County,201903,36.2
+Sierra County,201904,45.7
+Sierra County,201905,47.5
+Sierra County,201906,59.6
+Sierra County,201907,64.4
+Sierra County,201908,65.6
+Sierra County,201909,56.1
+Sierra County,201910,46.5
+Sierra County,201911,42.8
+Sierra County,201912,34.6
+Sierra County,202001,35.6
+Sierra County,202002,38.5
+Sierra County,202003,35.6
+Sierra County,202004,45
+Sierra County,202005,51.9
+Sierra County,202006,58.6
+Sierra County,202007,66.1
+Sierra County,202008,68.2
+Sierra County,202009,63.2
+Sierra County,202010,55.6
+Siskiyou County,201101,37.1
+Siskiyou County,201102,34.5
+Siskiyou County,201103,37.3
+Siskiyou County,201104,40.4
+Siskiyou County,201105,46.4
+Siskiyou County,201106,55.9
+Siskiyou County,201107,64.8
+Siskiyou County,201108,67
+Siskiyou County,201109,64.3
+Siskiyou County,201110,50.1
+Siskiyou County,201111,38.8
+Siskiyou County,201112,34.3
+Siskiyou County,201201,36
+Siskiyou County,201202,36.2
+Siskiyou County,201203,36.7
+Siskiyou County,201204,44.8
+Siskiyou County,201205,52.5
+Siskiyou County,201206,56.2
+Siskiyou County,201207,66.8
+Siskiyou County,201208,70.2
+Siskiyou County,201209,65.5
+Siskiyou County,201210,52.7
+Siskiyou County,201211,42.1
+Siskiyou County,201212,32.3
+Siskiyou County,201301,33.2
+Siskiyou County,201302,36.8
+Siskiyou County,201303,43
+Siskiyou County,201304,46.7
+Siskiyou County,201305,53.3
+Siskiyou County,201306,61.7
+Siskiyou County,201307,72.1
+Siskiyou County,201308,66.4
+Siskiyou County,201309,59
+Siskiyou County,201310,48.8
+Siskiyou County,201311,42.7
+Siskiyou County,201312,33.8
+Siskiyou County,201401,39.5
+Siskiyou County,201402,38.7
+Siskiyou County,201403,42.6
+Siskiyou County,201404,47.6
+Siskiyou County,201405,54.1
+Siskiyou County,201406,60.9
+Siskiyou County,201407,72.7
+Siskiyou County,201408,68.6
+Siskiyou County,201409,63.5
+Siskiyou County,201410,53.2
+Siskiyou County,201411,42.3
+Siskiyou County,201412,38.4
+Siskiyou County,201501,41.6
+Siskiyou County,201502,43.1
+Siskiyou County,201503,46.8
+Siskiyou County,201504,46
+Siskiyou County,201505,53.9
+Siskiyou County,201506,67.2
+Siskiyou County,201507,68.9
+Siskiyou County,201508,67.7
+Siskiyou County,201509,61
+Siskiyou County,201510,56.1
+Siskiyou County,201511,37.8
+Siskiyou County,201512,33.2
+Siskiyou County,201601,34.6
+Siskiyou County,201602,41.4
+Siskiyou County,201603,41.3
+Siskiyou County,201604,49.7
+Siskiyou County,201605,53.9
+Siskiyou County,201606,61.7
+Siskiyou County,201607,67
+Siskiyou County,201608,70
+Siskiyou County,201609,60.1
+Siskiyou County,201610,47.3
+Siskiyou County,201611,42.5
+Siskiyou County,201612,31.6
+Siskiyou County,201701,31.3
+Siskiyou County,201702,36.5
+Siskiyou County,201703,42.1
+Siskiyou County,201704,42.5
+Siskiyou County,201705,54.7
+Siskiyou County,201706,62
+Siskiyou County,201707,71
+Siskiyou County,201708,71.7
+Siskiyou County,201709,61.3
+Siskiyou County,201710,50.2
+Siskiyou County,201711,40.3
+Siskiyou County,201712,36.3
+Siskiyou County,201801,38.8
+Siskiyou County,201802,35.8
+Siskiyou County,201803,38.4
+Siskiyou County,201804,45
+Siskiyou County,201805,55.7
+Siskiyou County,201806,60.6
+Siskiyou County,201807,71.5
+Siskiyou County,201808,68.4
+Siskiyou County,201809,60.6
+Siskiyou County,201810,51.6
+Siskiyou County,201811,42.7
+Siskiyou County,201812,34.4
+Siskiyou County,201901,38.2
+Siskiyou County,201902,30.1
+Siskiyou County,201903,39
+Siskiyou County,201904,47.4
+Siskiyou County,201905,52.2
+Siskiyou County,201906,61.4
+Siskiyou County,201907,66.5
+Siskiyou County,201908,68.6
+Siskiyou County,201909,57.5
+Siskiyou County,201910,47
+Siskiyou County,201911,44.4
+Siskiyou County,201912,35.6
+Siskiyou County,202001,35.7
+Siskiyou County,202002,39.2
+Siskiyou County,202003,39
+Siskiyou County,202004,48.4
+Siskiyou County,202005,52.8
+Siskiyou County,202006,59.7
+Siskiyou County,202007,68.6
+Siskiyou County,202008,70
+Siskiyou County,202009,65.4
+Siskiyou County,202010,55.8
+Solano County,201101,46.8
+Solano County,201102,48.9
+Solano County,201103,52.9
+Solano County,201104,57.6
+Solano County,201105,60.8
+Solano County,201106,67.4
+Solano County,201107,72.3
+Solano County,201108,71.7
+Solano County,201109,72.8
+Solano County,201110,64.3
+Solano County,201111,51.7
+Solano County,201112,46.9
+Solano County,201201,48.7
+Solano County,201202,51.8
+Solano County,201203,52.6
+Solano County,201204,59
+Solano County,201205,65.6
+Solano County,201206,70.2
+Solano County,201207,72.4
+Solano County,201208,74
+Solano County,201209,70.4
+Solano County,201210,64.9
+Solano County,201211,55.4
+Solano County,201212,47.7
+Solano County,201301,45.4
+Solano County,201302,50.4
+Solano County,201303,56.7
+Solano County,201304,63.2
+Solano County,201305,67.3
+Solano County,201306,72
+Solano County,201307,74.4
+Solano County,201308,73
+Solano County,201309,70.8
+Solano County,201310,62.6
+Solano County,201311,56
+Solano County,201312,46.6
+Solano County,201401,52.6
+Solano County,201402,53.5
+Solano County,201403,58.4
+Solano County,201404,61.1
+Solano County,201405,67.8
+Solano County,201406,71.9
+Solano County,201407,75.2
+Solano County,201408,73.4
+Solano County,201409,72
+Solano County,201410,67.1
+Solano County,201411,56.4
+Solano County,201412,52.7
+Solano County,201501,50.3
+Solano County,201502,56.4
+Solano County,201503,60.5
+Solano County,201504,60.7
+Solano County,201505,62.7
+Solano County,201506,72.9
+Solano County,201507,74.6
+Solano County,201508,74.4
+Solano County,201509,72.8
+Solano County,201510,68.8
+Solano County,201511,52.2
+Solano County,201512,47.3
+Solano County,201601,49.7
+Solano County,201602,55.6
+Solano County,201603,56.6
+Solano County,201604,61.9
+Solano County,201605,66
+Solano County,201606,72.7
+Solano County,201607,73.5
+Solano County,201608,71.9
+Solano County,201609,70.4
+Solano County,201610,62.2
+Solano County,201611,55.7
+Solano County,201612,46.6
+Solano County,201701,46.6
+Solano County,201702,52.2
+Solano County,201703,57.1
+Solano County,201704,58.9
+Solano County,201705,66.2
+Solano County,201706,72.4
+Solano County,201707,75.6
+Solano County,201708,75
+Solano County,201709,72.8
+Solano County,201710,64.8
+Solano County,201711,55.1
+Solano County,201712,49.1
+Solano County,201801,50.2
+Solano County,201802,52.6
+Solano County,201803,53.2
+Solano County,201804,59.1
+Solano County,201805,64.5
+Solano County,201806,71.2
+Solano County,201807,75.6
+Solano County,201808,72.1
+Solano County,201809,69.6
+Solano County,201810,65.6
+Solano County,201811,56.4
+Solano County,201812,49.6
+Solano County,201901,50.8
+Solano County,201902,47.4
+Solano County,201903,54
+Solano County,201904,62.4
+Solano County,201905,61.8
+Solano County,201906,72.7
+Solano County,201907,73.5
+Solano County,201908,75.6
+Solano County,201909,71.4
+Solano County,201910,63.6
+Solano County,201911,56.3
+Solano County,201912,50
+Solano County,202001,49
+Solano County,202002,55
+Solano County,202003,53.6
+Solano County,202004,60.8
+Solano County,202005,67.3
+Solano County,202006,72.8
+Solano County,202007,73.7
+Solano County,202008,77.4
+Solano County,202009,74.4
+Solano County,202010,69.9
+Sonoma County,201101,48.6
+Sonoma County,201102,47
+Sonoma County,201103,49.4
+Sonoma County,201104,52.8
+Sonoma County,201105,55.4
+Sonoma County,201106,60.8
+Sonoma County,201107,65.1
+Sonoma County,201108,65.4
+Sonoma County,201109,67.5
+Sonoma County,201110,61.1
+Sonoma County,201111,50.2
+Sonoma County,201112,47.7
+Sonoma County,201201,48.7
+Sonoma County,201202,50.2
+Sonoma County,201203,48.8
+Sonoma County,201204,54.1
+Sonoma County,201205,59.5
+Sonoma County,201206,62.5
+Sonoma County,201207,65.5
+Sonoma County,201208,66.5
+Sonoma County,201209,63.7
+Sonoma County,201210,61.4
+Sonoma County,201211,54.2
+Sonoma County,201212,47.2
+Sonoma County,201301,46.4
+Sonoma County,201302,49.4
+Sonoma County,201303,52.7
+Sonoma County,201304,58
+Sonoma County,201305,60.5
+Sonoma County,201306,64.6
+Sonoma County,201307,66
+Sonoma County,201308,66.1
+Sonoma County,201309,64.6
+Sonoma County,201310,59.2
+Sonoma County,201311,54.7
+Sonoma County,201312,47.8
+Sonoma County,201401,53.5
+Sonoma County,201402,51.2
+Sonoma County,201403,54.9
+Sonoma County,201404,57
+Sonoma County,201405,61.9
+Sonoma County,201406,64.7
+Sonoma County,201407,68
+Sonoma County,201408,67
+Sonoma County,201409,66.2
+Sonoma County,201410,64.2
+Sonoma County,201411,55.6
+Sonoma County,201412,52.4
+Sonoma County,201501,52.3
+Sonoma County,201502,55.4
+Sonoma County,201503,57.4
+Sonoma County,201504,56
+Sonoma County,201505,57.7
+Sonoma County,201506,65.8
+Sonoma County,201507,67.6
+Sonoma County,201508,68.7
+Sonoma County,201509,67.6
+Sonoma County,201510,65.6
+Sonoma County,201511,51.6
+Sonoma County,201512,47
+Sonoma County,201601,49
+Sonoma County,201602,55.2
+Sonoma County,201603,52.9
+Sonoma County,201604,57.6
+Sonoma County,201605,59.8
+Sonoma County,201606,65.5
+Sonoma County,201607,66.6
+Sonoma County,201608,65.5
+Sonoma County,201609,65.8
+Sonoma County,201610,59.3
+Sonoma County,201611,54.2
+Sonoma County,201612,46.5
+Sonoma County,201701,46.3
+Sonoma County,201702,49.9
+Sonoma County,201703,54
+Sonoma County,201704,54.2
+Sonoma County,201705,60.2
+Sonoma County,201706,65.4
+Sonoma County,201707,68.4
+Sonoma County,201708,69
+Sonoma County,201709,69.1
+Sonoma County,201710,62.9
+Sonoma County,201711,53.1
+Sonoma County,201712,49.2
+Sonoma County,201801,50.2
+Sonoma County,201802,51.2
+Sonoma County,201803,50
+Sonoma County,201804,54.6
+Sonoma County,201805,59.5
+Sonoma County,201806,64.6
+Sonoma County,201807,68.6
+Sonoma County,201808,66.9
+Sonoma County,201809,64.6
+Sonoma County,201810,62.2
+Sonoma County,201811,55.3
+Sonoma County,201812,49
+Sonoma County,201901,50.5
+Sonoma County,201902,44.8
+Sonoma County,201903,50.4
+Sonoma County,201904,57.7
+Sonoma County,201905,56.7
+Sonoma County,201906,65.4
+Sonoma County,201907,67.2
+Sonoma County,201908,69.7
+Sonoma County,201909,66.3
+Sonoma County,201910,61.1
+Sonoma County,201911,55
+Sonoma County,201912,49.6
+Sonoma County,202001,48.8
+Sonoma County,202002,53.6
+Sonoma County,202003,49.9
+Sonoma County,202004,56.2
+Sonoma County,202005,60.6
+Sonoma County,202006,65.7
+Sonoma County,202007,66.8
+Sonoma County,202008,70.8
+Sonoma County,202009,69.5
+Sonoma County,202010,67.6
+Stanislaus County,201101,45.5
+Stanislaus County,201102,47.2
+Stanislaus County,201103,52.4
+Stanislaus County,201104,57.3
+Stanislaus County,201105,60.8
+Stanislaus County,201106,69.2
+Stanislaus County,201107,75.7
+Stanislaus County,201108,75.4
+Stanislaus County,201109,74.9
+Stanislaus County,201110,64.6
+Stanislaus County,201111,51.3
+Stanislaus County,201112,44.9
+Stanislaus County,201201,47.9
+Stanislaus County,201202,50.4
+Stanislaus County,201203,52.2
+Stanislaus County,201204,59
+Stanislaus County,201205,66.7
+Stanislaus County,201206,71.3
+Stanislaus County,201207,75.8
+Stanislaus County,201208,78.3
+Stanislaus County,201209,74.4
+Stanislaus County,201210,65
+Stanislaus County,201211,55.5
+Stanislaus County,201212,46.6
+Stanislaus County,201301,44.8
+Stanislaus County,201302,48.3
+Stanislaus County,201303,57
+Stanislaus County,201304,62.9
+Stanislaus County,201305,67.5
+Stanislaus County,201306,74.2
+Stanislaus County,201307,78.8
+Stanislaus County,201308,75.3
+Stanislaus County,201309,71
+Stanislaus County,201310,62.5
+Stanislaus County,201311,55
+Stanislaus County,201312,46
+Stanislaus County,201401,51.5
+Stanislaus County,201402,52.9
+Stanislaus County,201403,57.6
+Stanislaus County,201404,61.3
+Stanislaus County,201405,68
+Stanislaus County,201406,73.8
+Stanislaus County,201407,79.1
+Stanislaus County,201408,76.5
+Stanislaus County,201409,73.7
+Stanislaus County,201410,67.1
+Stanislaus County,201411,55.3
+Stanislaus County,201412,51.2
+Stanislaus County,201501,48.4
+Stanislaus County,201502,55.1
+Stanislaus County,201503,60.6
+Stanislaus County,201504,60.8
+Stanislaus County,201505,63.7
+Stanislaus County,201506,75.9
+Stanislaus County,201507,77.1
+Stanislaus County,201508,76.1
+Stanislaus County,201509,74.2
+Stanislaus County,201510,68.8
+Stanislaus County,201511,50.7
+Stanislaus County,201512,45.6
+Stanislaus County,201601,49.2
+Stanislaus County,201602,54.7
+Stanislaus County,201603,55.8
+Stanislaus County,201604,61.9
+Stanislaus County,201605,66.8
+Stanislaus County,201606,75.7
+Stanislaus County,201607,78.1
+Stanislaus County,201608,76.7
+Stanislaus County,201609,72.4
+Stanislaus County,201610,63.7
+Stanislaus County,201611,56.3
+Stanislaus County,201612,46.7
+Stanislaus County,201701,46.8
+Stanislaus County,201702,51.9
+Stanislaus County,201703,57
+Stanislaus County,201704,58.8
+Stanislaus County,201705,67.4
+Stanislaus County,201706,75.1
+Stanislaus County,201707,80.3
+Stanislaus County,201708,79.5
+Stanislaus County,201709,73.6
+Stanislaus County,201710,64.4
+Stanislaus County,201711,56.6
+Stanislaus County,201712,48.8
+Stanislaus County,201801,51.5
+Stanislaus County,201802,51.5
+Stanislaus County,201803,53.5
+Stanislaus County,201804,60.1
+Stanislaus County,201805,65.4
+Stanislaus County,201806,73.6
+Stanislaus County,201807,80.8
+Stanislaus County,201808,76.1
+Stanislaus County,201809,72.1
+Stanislaus County,201810,65.4
+Stanislaus County,201811,55.7
+Stanislaus County,201812,49.4
+Stanislaus County,201901,50.1
+Stanislaus County,201902,47.1
+Stanislaus County,201903,53.5
+Stanislaus County,201904,62.9
+Stanislaus County,201905,62.4
+Stanislaus County,201906,74.8
+Stanislaus County,201907,77.5
+Stanislaus County,201908,78.4
+Stanislaus County,201909,72.4
+Stanislaus County,201910,62.9
+Stanislaus County,201911,56.2
+Stanislaus County,201912,50
+Stanislaus County,202001,48.5
+Stanislaus County,202002,53.6
+Stanislaus County,202003,52.8
+Stanislaus County,202004,60.6
+Stanislaus County,202005,68.6
+Stanislaus County,202006,74.1
+Stanislaus County,202007,77.8
+Stanislaus County,202008,80.1
+Stanislaus County,202009,76.3
+Stanislaus County,202010,69.1
+Sutter County,201101,46.3
+Sutter County,201102,48.9
+Sutter County,201103,53
+Sutter County,201104,59.1
+Sutter County,201105,63.3
+Sutter County,201106,71.6
+Sutter County,201107,76.9
+Sutter County,201108,76.3
+Sutter County,201109,76.6
+Sutter County,201110,64.5
+Sutter County,201111,52
+Sutter County,201112,46.8
+Sutter County,201201,48.5
+Sutter County,201202,51.8
+Sutter County,201203,53
+Sutter County,201204,60.9
+Sutter County,201205,69.4
+Sutter County,201206,74.1
+Sutter County,201207,77.9
+Sutter County,201208,79.6
+Sutter County,201209,75.5
+Sutter County,201210,65.6
+Sutter County,201211,56
+Sutter County,201212,47.4
+Sutter County,201301,45.4
+Sutter County,201302,50.8
+Sutter County,201303,58
+Sutter County,201304,64.4
+Sutter County,201305,70
+Sutter County,201306,76.2
+Sutter County,201307,80.3
+Sutter County,201308,77
+Sutter County,201309,72.4
+Sutter County,201310,63.6
+Sutter County,201311,56.8
+Sutter County,201312,46.8
+Sutter County,201401,52.6
+Sutter County,201402,53.8
+Sutter County,201403,58.7
+Sutter County,201404,63.5
+Sutter County,201405,71.4
+Sutter County,201406,77.2
+Sutter County,201407,81
+Sutter County,201408,78
+Sutter County,201409,75.4
+Sutter County,201410,67.9
+Sutter County,201411,55.8
+Sutter County,201412,52.4
+Sutter County,201501,50.2
+Sutter County,201502,56.7
+Sutter County,201503,61.8
+Sutter County,201504,63.1
+Sutter County,201505,67.2
+Sutter County,201506,79
+Sutter County,201507,79.9
+Sutter County,201508,78.3
+Sutter County,201509,75
+Sutter County,201510,69.8
+Sutter County,201511,51.4
+Sutter County,201512,47
+Sutter County,201601,49.1
+Sutter County,201602,55.8
+Sutter County,201603,57.3
+Sutter County,201604,64.3
+Sutter County,201605,70
+Sutter County,201606,77.3
+Sutter County,201607,79.4
+Sutter County,201608,78.2
+Sutter County,201609,74.3
+Sutter County,201610,63.5
+Sutter County,201611,55.9
+Sutter County,201612,46.2
+Sutter County,201701,46.4
+Sutter County,201702,52.8
+Sutter County,201703,57.8
+Sutter County,201704,60.3
+Sutter County,201705,70.7
+Sutter County,201706,77.6
+Sutter County,201707,81.8
+Sutter County,201708,81.4
+Sutter County,201709,76
+Sutter County,201710,65.2
+Sutter County,201711,55.6
+Sutter County,201712,49.3
+Sutter County,201801,50
+Sutter County,201802,51.8
+Sutter County,201803,54.1
+Sutter County,201804,61.2
+Sutter County,201805,68.8
+Sutter County,201806,75.9
+Sutter County,201807,81.9
+Sutter County,201808,76.7
+Sutter County,201809,73
+Sutter County,201810,66.2
+Sutter County,201811,55.4
+Sutter County,201812,48.8
+Sutter County,201901,49.9
+Sutter County,201902,47.5
+Sutter County,201903,54.1
+Sutter County,201904,64.3
+Sutter County,201905,65.3
+Sutter County,201906,77.4
+Sutter County,201907,78.8
+Sutter County,201908,80
+Sutter County,201909,73
+Sutter County,201910,62.9
+Sutter County,201911,56.6
+Sutter County,201912,49.3
+Sutter County,202001,48.3
+Sutter County,202002,54.6
+Sutter County,202003,54.4
+Sutter County,202004,62.8
+Sutter County,202005,70.5
+Sutter County,202006,76.6
+Sutter County,202007,79.9
+Sutter County,202008,82.2
+Sutter County,202009,77.6
+Sutter County,202010,70.6
+Tehama County,201101,45.8
+Tehama County,201102,44.3
+Tehama County,201103,45.8
+Tehama County,201104,51.5
+Tehama County,201105,55.9
+Tehama County,201106,66.4
+Tehama County,201107,74.4
+Tehama County,201108,75.2
+Tehama County,201109,74.3
+Tehama County,201110,60.7
+Tehama County,201111,47.4
+Tehama County,201112,45.1
+Tehama County,201201,45.7
+Tehama County,201202,46.9
+Tehama County,201203,46.2
+Tehama County,201204,53.7
+Tehama County,201205,63.3
+Tehama County,201206,68.5
+Tehama County,201207,75.1
+Tehama County,201208,78.1
+Tehama County,201209,73.7
+Tehama County,201210,61.4
+Tehama County,201211,51
+Tehama County,201212,42
+Tehama County,201301,43.8
+Tehama County,201302,47
+Tehama County,201303,52.7
+Tehama County,201304,58.8
+Tehama County,201305,64
+Tehama County,201306,72.6
+Tehama County,201307,79.4
+Tehama County,201308,74.4
+Tehama County,201309,68
+Tehama County,201310,60
+Tehama County,201311,52.9
+Tehama County,201312,45.8
+Tehama County,201401,52.1
+Tehama County,201402,48
+Tehama County,201403,52
+Tehama County,201404,57.2
+Tehama County,201405,65.2
+Tehama County,201406,73.6
+Tehama County,201407,79.8
+Tehama County,201408,76
+Tehama County,201409,72.2
+Tehama County,201410,63.3
+Tehama County,201411,51.6
+Tehama County,201412,46.7
+Tehama County,201501,50.4
+Tehama County,201502,53.1
+Tehama County,201503,56.8
+Tehama County,201504,57.3
+Tehama County,201505,62.7
+Tehama County,201506,76.9
+Tehama County,201507,77.2
+Tehama County,201508,75.4
+Tehama County,201509,71.1
+Tehama County,201510,65.7
+Tehama County,201511,47.3
+Tehama County,201512,41.3
+Tehama County,201601,44.1
+Tehama County,201602,51.8
+Tehama County,201603,50.6
+Tehama County,201604,58.2
+Tehama County,201605,63.4
+Tehama County,201606,72.8
+Tehama County,201607,76.8
+Tehama County,201608,77
+Tehama County,201609,71.3
+Tehama County,201610,57.2
+Tehama County,201611,50.5
+Tehama County,201612,42.3
+Tehama County,201701,41.8
+Tehama County,201702,46
+Tehama County,201703,51.3
+Tehama County,201704,52.7
+Tehama County,201705,65.2
+Tehama County,201706,73.5
+Tehama County,201707,80
+Tehama County,201708,80
+Tehama County,201709,71.7
+Tehama County,201710,62.2
+Tehama County,201711,49.9
+Tehama County,201712,47.4
+Tehama County,201801,47.2
+Tehama County,201802,47.6
+Tehama County,201803,47.3
+Tehama County,201804,54.9
+Tehama County,201805,64.3
+Tehama County,201806,72.5
+Tehama County,201807,81
+Tehama County,201808,75.3
+Tehama County,201809,70.5
+Tehama County,201810,62.4
+Tehama County,201811,53.2
+Tehama County,201812,44.4
+Tehama County,201901,46.5
+Tehama County,201902,39.4
+Tehama County,201903,47.6
+Tehama County,201904,58.5
+Tehama County,201905,60
+Tehama County,201906,73.4
+Tehama County,201907,76.2
+Tehama County,201908,77.2
+Tehama County,201909,68.3
+Tehama County,201910,59.3
+Tehama County,201911,54.8
+Tehama County,201912,44.6
+Tehama County,202001,44.5
+Tehama County,202002,51
+Tehama County,202003,48.1
+Tehama County,202004,57.8
+Tehama County,202005,63.6
+Tehama County,202006,71.8
+Tehama County,202007,78.5
+Tehama County,202008,79.2
+Tehama County,202009,74.6
+Tehama County,202010,68
+Trinity County,201101,41.3
+Trinity County,201102,38.3
+Trinity County,201103,40.7
+Trinity County,201104,45
+Trinity County,201105,50
+Trinity County,201106,60.1
+Trinity County,201107,67.9
+Trinity County,201108,69.5
+Trinity County,201109,67.4
+Trinity County,201110,54.3
+Trinity County,201111,42.5
+Trinity County,201112,37.3
+Trinity County,201201,38.9
+Trinity County,201202,40.9
+Trinity County,201203,40.1
+Trinity County,201204,48
+Trinity County,201205,55.6
+Trinity County,201206,60
+Trinity County,201207,68.8
+Trinity County,201208,72.6
+Trinity County,201209,67.8
+Trinity County,201210,56.3
+Trinity County,201211,45.6
+Trinity County,201212,36.9
+Trinity County,201301,37.5
+Trinity County,201302,40.8
+Trinity County,201303,46.6
+Trinity County,201304,51.2
+Trinity County,201305,56.6
+Trinity County,201306,65.1
+Trinity County,201307,74
+Trinity County,201308,69.7
+Trinity County,201309,63.4
+Trinity County,201310,52.6
+Trinity County,201311,45.9
+Trinity County,201312,36.9
+Trinity County,201401,42.8
+Trinity County,201402,42.5
+Trinity County,201403,46.3
+Trinity County,201404,50.9
+Trinity County,201405,57.2
+Trinity County,201406,65.2
+Trinity County,201407,74.9
+Trinity County,201408,71.6
+Trinity County,201409,67.2
+Trinity County,201410,57
+Trinity County,201411,46.4
+Trinity County,201412,42.6
+Trinity County,201501,44.7
+Trinity County,201502,47
+Trinity County,201503,50.8
+Trinity County,201504,50.2
+Trinity County,201505,57.3
+Trinity County,201506,70.3
+Trinity County,201507,72.3
+Trinity County,201508,70.2
+Trinity County,201509,64.5
+Trinity County,201510,59.9
+Trinity County,201511,42.4
+Trinity County,201512,37.1
+Trinity County,201601,40.1
+Trinity County,201602,45.2
+Trinity County,201603,45.1
+Trinity County,201604,52.6
+Trinity County,201605,57.2
+Trinity County,201606,65.3
+Trinity County,201607,70.5
+Trinity County,201608,72.8
+Trinity County,201609,65
+Trinity County,201610,51.8
+Trinity County,201611,46.6
+Trinity County,201612,36
+Trinity County,201701,36.3
+Trinity County,201702,40.7
+Trinity County,201703,45.8
+Trinity County,201704,46.8
+Trinity County,201705,57.8
+Trinity County,201706,65.5
+Trinity County,201707,72.9
+Trinity County,201708,74.8
+Trinity County,201709,65.7
+Trinity County,201710,54.5
+Trinity County,201711,44.6
+Trinity County,201712,38.6
+Trinity County,201801,42.1
+Trinity County,201802,40.3
+Trinity County,201803,42.1
+Trinity County,201804,48.9
+Trinity County,201805,58.3
+Trinity County,201806,64.3
+Trinity County,201807,74.4
+Trinity County,201808,70.4
+Trinity County,201809,64.4
+Trinity County,201810,55.4
+Trinity County,201811,46.1
+Trinity County,201812,39.2
+Trinity County,201901,41.6
+Trinity County,201902,34.6
+Trinity County,201903,42.7
+Trinity County,201904,51.7
+Trinity County,201905,55.1
+Trinity County,201906,65.1
+Trinity County,201907,69.4
+Trinity County,201908,71.9
+Trinity County,201909,62.6
+Trinity County,201910,52.2
+Trinity County,201911,47.9
+Trinity County,201912,39.6
+Trinity County,202001,39.6
+Trinity County,202002,44
+Trinity County,202003,42.4
+Trinity County,202004,51.7
+Trinity County,202005,56.1
+Trinity County,202006,64.4
+Trinity County,202007,72.3
+Trinity County,202008,73.9
+Trinity County,202009,68.2
+Trinity County,202010,60.5
+Tulare County,201101,39.9
+Tulare County,201102,39.2
+Tulare County,201103,43.6
+Tulare County,201104,48.9
+Tulare County,201105,53
+Tulare County,201106,62.8
+Tulare County,201107,71.2
+Tulare County,201108,71.6
+Tulare County,201109,68.8
+Tulare County,201110,57.1
+Tulare County,201111,44.3
+Tulare County,201112,38.5
+Tulare County,201201,42.8
+Tulare County,201202,41.7
+Tulare County,201203,44.5
+Tulare County,201204,50.9
+Tulare County,201205,59.6
+Tulare County,201206,65.7
+Tulare County,201207,71.4
+Tulare County,201208,75.2
+Tulare County,201209,70
+Tulare County,201210,57.4
+Tulare County,201211,48.7
+Tulare County,201212,39.7
+Tulare County,201301,38.1
+Tulare County,201302,40.5
+Tulare County,201303,49.4
+Tulare County,201304,54
+Tulare County,201305,59.3
+Tulare County,201306,69
+Tulare County,201307,75.6
+Tulare County,201308,71.2
+Tulare County,201309,65.8
+Tulare County,201310,54.6
+Tulare County,201311,48.4
+Tulare County,201312,40.8
+Tulare County,201401,46.2
+Tulare County,201402,45.4
+Tulare County,201403,49.2
+Tulare County,201404,53.2
+Tulare County,201405,60
+Tulare County,201406,68.7
+Tulare County,201407,75.2
+Tulare County,201408,71.7
+Tulare County,201409,68.6
+Tulare County,201410,60.9
+Tulare County,201411,49.4
+Tulare County,201412,42.4
+Tulare County,201501,43.2
+Tulare County,201502,49
+Tulare County,201503,52.5
+Tulare County,201504,51.8
+Tulare County,201505,55.8
+Tulare County,201506,70.3
+Tulare County,201507,71.2
+Tulare County,201508,72.6
+Tulare County,201509,68.3
+Tulare County,201510,59.8
+Tulare County,201511,42.9
+Tulare County,201512,37.5
+Tulare County,201601,40.1
+Tulare County,201602,46.4
+Tulare County,201603,47.4
+Tulare County,201604,52.8
+Tulare County,201605,57.9
+Tulare County,201606,69.9
+Tulare County,201607,73.4
+Tulare County,201608,72.1
+Tulare County,201609,65.2
+Tulare County,201610,56
+Tulare County,201611,48.9
+Tulare County,201612,39.6
+Tulare County,201701,38.2
+Tulare County,201702,42.9
+Tulare County,201703,47.8
+Tulare County,201704,50.7
+Tulare County,201705,58.5
+Tulare County,201706,68.7
+Tulare County,201707,75.6
+Tulare County,201708,73.9
+Tulare County,201709,65.1
+Tulare County,201710,57.4
+Tulare County,201711,49.6
+Tulare County,201712,44
+Tulare County,201801,44.7
+Tulare County,201802,42
+Tulare County,201803,43.9
+Tulare County,201804,52.5
+Tulare County,201805,58.1
+Tulare County,201806,67.6
+Tulare County,201807,76.6
+Tulare County,201808,72.8
+Tulare County,201809,67.3
+Tulare County,201810,56.4
+Tulare County,201811,48.6
+Tulare County,201812,40.6
+Tulare County,201901,41.8
+Tulare County,201902,36.7
+Tulare County,201903,44.2
+Tulare County,201904,53.7
+Tulare County,201905,52.9
+Tulare County,201906,67.6
+Tulare County,201907,71.8
+Tulare County,201908,72.6
+Tulare County,201909,64.7
+Tulare County,201910,54.4
+Tulare County,201911,49.3
+Tulare County,201912,40.7
+Tulare County,202001,40.5
+Tulare County,202002,44.9
+Tulare County,202003,42.9
+Tulare County,202004,51.1
+Tulare County,202005,59.8
+Tulare County,202006,66.2
+Tulare County,202007,73.3
+Tulare County,202008,75.2
+Tulare County,202009,69.5
+Tulare County,202010,62.1
+Tuolumne County,201101,38
+Tuolumne County,201102,34.5
+Tuolumne County,201103,37.9
+Tuolumne County,201104,42.8
+Tuolumne County,201105,46.5
+Tuolumne County,201106,56.2
+Tuolumne County,201107,64.7
+Tuolumne County,201108,66.2
+Tuolumne County,201109,64.2
+Tuolumne County,201110,52.7
+Tuolumne County,201111,41.3
+Tuolumne County,201112,36.9
+Tuolumne County,201201,40.8
+Tuolumne County,201202,38.3
+Tuolumne County,201203,39.3
+Tuolumne County,201204,45.9
+Tuolumne County,201205,54
+Tuolumne County,201206,60.3
+Tuolumne County,201207,67.1
+Tuolumne County,201208,70.4
+Tuolumne County,201209,65.6
+Tuolumne County,201210,54
+Tuolumne County,201211,44.4
+Tuolumne County,201212,33.6
+Tuolumne County,201301,35.8
+Tuolumne County,201302,37
+Tuolumne County,201303,44.6
+Tuolumne County,201304,48.6
+Tuolumne County,201305,53.7
+Tuolumne County,201306,63.3
+Tuolumne County,201307,70
+Tuolumne County,201308,65.7
+Tuolumne County,201309,60.3
+Tuolumne County,201310,50.4
+Tuolumne County,201311,44.5
+Tuolumne County,201312,37.7
+Tuolumne County,201401,44.3
+Tuolumne County,201402,41.2
+Tuolumne County,201403,43.9
+Tuolumne County,201404,47.6
+Tuolumne County,201405,54.4
+Tuolumne County,201406,63.3
+Tuolumne County,201407,70.4
+Tuolumne County,201408,66.7
+Tuolumne County,201409,63.5
+Tuolumne County,201410,56.8
+Tuolumne County,201411,45.8
+Tuolumne County,201412,39.2
+Tuolumne County,201501,43.4
+Tuolumne County,201502,46
+Tuolumne County,201503,48.1
+Tuolumne County,201504,46.8
+Tuolumne County,201505,51
+Tuolumne County,201506,65.7
+Tuolumne County,201507,66.4
+Tuolumne County,201508,68.1
+Tuolumne County,201509,64.2
+Tuolumne County,201510,56.4
+Tuolumne County,201511,39.2
+Tuolumne County,201512,34.2
+Tuolumne County,201601,36.7
+Tuolumne County,201602,44.5
+Tuolumne County,201603,43
+Tuolumne County,201604,48.2
+Tuolumne County,201605,52.2
+Tuolumne County,201606,64.3
+Tuolumne County,201607,68.6
+Tuolumne County,201608,68.5
+Tuolumne County,201609,61.4
+Tuolumne County,201610,51.4
+Tuolumne County,201611,45
+Tuolumne County,201612,37.3
+Tuolumne County,201701,34.2
+Tuolumne County,201702,37.8
+Tuolumne County,201703,43.8
+Tuolumne County,201704,44.9
+Tuolumne County,201705,54.3
+Tuolumne County,201706,63.3
+Tuolumne County,201707,70.7
+Tuolumne County,201708,69.6
+Tuolumne County,201709,60.6
+Tuolumne County,201710,53.8
+Tuolumne County,201711,45.5
+Tuolumne County,201712,43
+Tuolumne County,201801,42.7
+Tuolumne County,201802,38.4
+Tuolumne County,201803,38
+Tuolumne County,201804,47.2
+Tuolumne County,201805,53.1
+Tuolumne County,201806,63
+Tuolumne County,201807,71.8
+Tuolumne County,201808,68
+Tuolumne County,201809,63
+Tuolumne County,201810,52.6
+Tuolumne County,201811,46.8
+Tuolumne County,201812,38
+Tuolumne County,201901,39.4
+Tuolumne County,201902,30.8
+Tuolumne County,201903,38.8
+Tuolumne County,201904,48.5
+Tuolumne County,201905,48.2
+Tuolumne County,201906,61.8
+Tuolumne County,201907,66.6
+Tuolumne County,201908,68.4
+Tuolumne County,201909,60
+Tuolumne County,201910,51.2
+Tuolumne County,201911,46.6
+Tuolumne County,201912,37.7
+Tuolumne County,202001,38.9
+Tuolumne County,202002,42.2
+Tuolumne County,202003,38.4
+Tuolumne County,202004,47
+Tuolumne County,202005,54.9
+Tuolumne County,202006,61.2
+Tuolumne County,202007,68.8
+Tuolumne County,202008,70.8
+Tuolumne County,202009,66.2
+Tuolumne County,202010,59.7
+Ventura County,201101,50
+Ventura County,201102,45
+Ventura County,201103,49.7
+Ventura County,201104,53.3
+Ventura County,201105,56.2
+Ventura County,201106,61.7
+Ventura County,201107,70.1
+Ventura County,201108,70.6
+Ventura County,201109,68.1
+Ventura County,201110,61
+Ventura County,201111,51.4
+Ventura County,201112,46.6
+Ventura County,201201,51.2
+Ventura County,201202,48.2
+Ventura County,201203,48.7
+Ventura County,201204,54.2
+Ventura County,201205,60.6
+Ventura County,201206,64.4
+Ventura County,201207,69
+Ventura County,201208,75
+Ventura County,201209,71.6
+Ventura County,201210,62.6
+Ventura County,201211,54.6
+Ventura County,201212,46.9
+Ventura County,201301,47.2
+Ventura County,201302,47.7
+Ventura County,201303,53.9
+Ventura County,201304,56.7
+Ventura County,201305,62.2
+Ventura County,201306,67.4
+Ventura County,201307,71.9
+Ventura County,201308,70.7
+Ventura County,201309,69
+Ventura County,201310,59.6
+Ventura County,201311,55.3
+Ventura County,201312,50.6
+Ventura County,201401,55.1
+Ventura County,201402,51.8
+Ventura County,201403,54.5
+Ventura County,201404,56.6
+Ventura County,201405,62.2
+Ventura County,201406,66.3
+Ventura County,201407,72.6
+Ventura County,201408,70.6
+Ventura County,201409,70.9
+Ventura County,201410,64.4
+Ventura County,201411,56.9
+Ventura County,201412,50.3
+Ventura County,201501,52.7
+Ventura County,201502,54.2
+Ventura County,201503,57.6
+Ventura County,201504,55.5
+Ventura County,201505,57
+Ventura County,201506,67.6
+Ventura County,201507,70.2
+Ventura County,201508,73.3
+Ventura County,201509,72.3
+Ventura County,201510,67.4
+Ventura County,201511,52.9
+Ventura County,201512,47.6
+Ventura County,201601,48.7
+Ventura County,201602,55.2
+Ventura County,201603,52.7
+Ventura County,201604,56.2
+Ventura County,201605,57.6
+Ventura County,201606,68.2
+Ventura County,201607,71.7
+Ventura County,201608,71.6
+Ventura County,201609,67.7
+Ventura County,201610,61.2
+Ventura County,201611,56.4
+Ventura County,201612,48.6
+Ventura County,201701,46.7
+Ventura County,201702,49
+Ventura County,201703,54.2
+Ventura County,201704,56.8
+Ventura County,201705,59.6
+Ventura County,201706,67.7
+Ventura County,201707,73.8
+Ventura County,201708,73.6
+Ventura County,201709,67.8
+Ventura County,201710,64.2
+Ventura County,201711,57.5
+Ventura County,201712,52.8
+Ventura County,201801,54.4
+Ventura County,201802,49.6
+Ventura County,201803,49.6
+Ventura County,201804,55.4
+Ventura County,201805,57.4
+Ventura County,201806,64.8
+Ventura County,201807,75.5
+Ventura County,201808,73
+Ventura County,201809,68
+Ventura County,201810,61.8
+Ventura County,201811,56.1
+Ventura County,201812,48.8
+Ventura County,201901,49.8
+Ventura County,201902,43.5
+Ventura County,201903,50.5
+Ventura County,201904,56.9
+Ventura County,201905,55.5
+Ventura County,201906,65.5
+Ventura County,201907,70.6
+Ventura County,201908,71.7
+Ventura County,201909,68.5
+Ventura County,201910,61.3
+Ventura County,201911,55.4
+Ventura County,201912,48.6
+Ventura County,202001,50
+Ventura County,202002,51.3
+Ventura County,202003,48.8
+Ventura County,202004,55.6
+Ventura County,202005,62.1
+Ventura County,202006,66.1
+Ventura County,202007,70.1
+Ventura County,202008,74.7
+Ventura County,202009,72.7
+Ventura County,202010,66.6
+Yolo County,201101,46.4
+Yolo County,201102,48.5
+Yolo County,201103,52.3
+Yolo County,201104,58.2
+Yolo County,201105,61.9
+Yolo County,201106,69.8
+Yolo County,201107,75.5
+Yolo County,201108,74.6
+Yolo County,201109,75.6
+Yolo County,201110,64.5
+Yolo County,201111,51.4
+Yolo County,201112,46.9
+Yolo County,201201,48.6
+Yolo County,201202,51.8
+Yolo County,201203,52.4
+Yolo County,201204,59.5
+Yolo County,201205,67.9
+Yolo County,201206,72.5
+Yolo County,201207,75.4
+Yolo County,201208,77.6
+Yolo County,201209,73.4
+Yolo County,201210,65
+Yolo County,201211,55.1
+Yolo County,201212,47.1
+Yolo County,201301,45.1
+Yolo County,201302,50.1
+Yolo County,201303,56.7
+Yolo County,201304,64
+Yolo County,201305,68.7
+Yolo County,201306,74.2
+Yolo County,201307,77.8
+Yolo County,201308,75.2
+Yolo County,201309,71.6
+Yolo County,201310,63.1
+Yolo County,201311,56.2
+Yolo County,201312,46.8
+Yolo County,201401,52.9
+Yolo County,201402,53.6
+Yolo County,201403,58.2
+Yolo County,201404,62.1
+Yolo County,201405,69.7
+Yolo County,201406,75.2
+Yolo County,201407,79.1
+Yolo County,201408,76.5
+Yolo County,201409,74
+Yolo County,201410,67.6
+Yolo County,201411,55.5
+Yolo County,201412,52.1
+Yolo County,201501,50.1
+Yolo County,201502,56
+Yolo County,201503,60.5
+Yolo County,201504,62.1
+Yolo County,201505,64.9
+Yolo County,201506,76.5
+Yolo County,201507,78.1
+Yolo County,201508,76.9
+Yolo County,201509,74
+Yolo County,201510,69.1
+Yolo County,201511,51.3
+Yolo County,201512,47
+Yolo County,201601,48.9
+Yolo County,201602,55
+Yolo County,201603,56.4
+Yolo County,201604,62.7
+Yolo County,201605,68.1
+Yolo County,201606,75.7
+Yolo County,201607,77.4
+Yolo County,201608,75.8
+Yolo County,201609,72.9
+Yolo County,201610,62.3
+Yolo County,201611,55.4
+Yolo County,201612,46.2
+Yolo County,201701,46.1
+Yolo County,201702,51.8
+Yolo County,201703,56.9
+Yolo County,201704,59
+Yolo County,201705,68.4
+Yolo County,201706,75.2
+Yolo County,201707,79
+Yolo County,201708,78.7
+Yolo County,201709,74
+Yolo County,201710,64.9
+Yolo County,201711,54.5
+Yolo County,201712,49.1
+Yolo County,201801,49.7
+Yolo County,201802,52
+Yolo County,201803,52.6
+Yolo County,201804,59.1
+Yolo County,201805,66.7
+Yolo County,201806,73.7
+Yolo County,201807,79.7
+Yolo County,201808,74.4
+Yolo County,201809,71.4
+Yolo County,201810,65.7
+Yolo County,201811,55.5
+Yolo County,201812,48.6
+Yolo County,201901,50.1
+Yolo County,201902,46.6
+Yolo County,201903,53.2
+Yolo County,201904,62.8
+Yolo County,201905,63.3
+Yolo County,201906,75.4
+Yolo County,201907,76.5
+Yolo County,201908,78.4
+Yolo County,201909,71.9
+Yolo County,201910,63.1
+Yolo County,201911,56
+Yolo County,201912,49.4
+Yolo County,202001,48.5
+Yolo County,202002,54.7
+Yolo County,202003,53.2
+Yolo County,202004,61.7
+Yolo County,202005,68.5
+Yolo County,202006,74.8
+Yolo County,202007,77.6
+Yolo County,202008,80.3
+Yolo County,202009,76.1
+Yolo County,202010,70
+Yuba County,201101,46.4
+Yuba County,201102,46.5
+Yuba County,201103,48.9
+Yuba County,201104,54.7
+Yuba County,201105,59.2
+Yuba County,201106,67.9
+Yuba County,201107,75
+Yuba County,201108,75.9
+Yuba County,201109,75.3
+Yuba County,201110,62.2
+Yuba County,201111,50
+Yuba County,201112,46.8
+Yuba County,201201,47.9
+Yuba County,201202,49.4
+Yuba County,201203,49.6
+Yuba County,201204,57.2
+Yuba County,201205,66.2
+Yuba County,201206,70.9
+Yuba County,201207,76.4
+Yuba County,201208,79.2
+Yuba County,201209,75.1
+Yuba County,201210,63.3
+Yuba County,201211,53.9
+Yuba County,201212,44.6
+Yuba County,201301,44.6
+Yuba County,201302,48.8
+Yuba County,201303,55.5
+Yuba County,201304,61.3
+Yuba County,201305,66.6
+Yuba County,201306,73.9
+Yuba County,201307,79.8
+Yuba County,201308,75.3
+Yuba County,201309,69.8
+Yuba County,201310,61.3
+Yuba County,201311,55
+Yuba County,201312,46.6
+Yuba County,201401,52.9
+Yuba County,201402,51.2
+Yuba County,201403,55.7
+Yuba County,201404,60.1
+Yuba County,201405,67.7
+Yuba County,201406,74.6
+Yuba County,201407,80.4
+Yuba County,201408,76.7
+Yuba County,201409,73.3
+Yuba County,201410,65.3
+Yuba County,201411,54
+Yuba County,201412,48.6
+Yuba County,201501,50.8
+Yuba County,201502,55.4
+Yuba County,201503,59.2
+Yuba County,201504,59.4
+Yuba County,201505,64.4
+Yuba County,201506,77.5
+Yuba County,201507,78
+Yuba County,201508,76.7
+Yuba County,201509,73.3
+Yuba County,201510,67.7
+Yuba County,201511,49.2
+Yuba County,201512,44
+Yuba County,201601,46.3
+Yuba County,201602,54.3
+Yuba County,201603,53.7
+Yuba County,201604,60.8
+Yuba County,201605,66.1
+Yuba County,201606,74.8
+Yuba County,201607,77.8
+Yuba County,201608,77.2
+Yuba County,201609,71.9
+Yuba County,201610,60
+Yuba County,201611,53.4
+Yuba County,201612,44.6
+Yuba County,201701,43.8
+Yuba County,201702,49.4
+Yuba County,201703,54.8
+Yuba County,201704,56.2
+Yuba County,201705,67.3
+Yuba County,201706,75
+Yuba County,201707,80.7
+Yuba County,201708,80.3
+Yuba County,201709,73
+Yuba County,201710,64
+Yuba County,201711,53.2
+Yuba County,201712,49.7
+Yuba County,201801,49.2
+Yuba County,201802,49.6
+Yuba County,201803,50.6
+Yuba County,201804,58
+Yuba County,201805,66
+Yuba County,201806,73.9
+Yuba County,201807,81.6
+Yuba County,201808,76.3
+Yuba County,201809,72.1
+Yuba County,201810,64.5
+Yuba County,201811,55.3
+Yuba County,201812,46.7
+Yuba County,201901,48.5
+Yuba County,201902,43.4
+Yuba County,201903,50.8
+Yuba County,201904,61
+Yuba County,201905,61.9
+Yuba County,201906,74.8
+Yuba County,201907,77.3
+Yuba County,201908,78
+Yuba County,201909,69.9
+Yuba County,201910,61.1
+Yuba County,201911,55.9
+Yuba County,201912,47.7
+Yuba County,202001,46.7
+Yuba County,202002,53.2
+Yuba County,202003,50.7
+Yuba County,202004,59.5
+Yuba County,202005,66.8
+Yuba County,202006,73.6
+Yuba County,202007,78.5
+Yuba County,202008,80.5
+Yuba County,202009,76.4
+Yuba County,202010,69.6
