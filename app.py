@@ -13,6 +13,11 @@ model = pickle.load(open('model.pkl', 'rb'))
 def home():
     return render_template('index.html')
 
+@app.route('/tableau')
+def home():
+    return render_template('tableau.html')   
+    
+
 @app.route('/predict',methods=['POST'])
 def predict():
     '''
@@ -26,7 +31,7 @@ def predict():
     A = round(prediction[0], 2)
     W = round((prediction * 2)[0], 2)
 
-    return render_template('index.html', prediction_text=f'The 2020 Napa Valley wine grape yield should be about {A} acres.', wine_text=f'Assuming a low end yield of 2 tons of wine per acre, this is equivalent to {W} bottles of wine.')
+    return render_template('index.html', prediction_text=f'The 2020 Napa Valley wine grape yield should be about {A} acres based on data from 2011-2019.', wine_text=f'Assuming a low end yield of 2 tons of wine per acre, this is equivalent to {W} bottles of wine.')
 
 if __name__ == "__main__":
     app.run(debug=True)
