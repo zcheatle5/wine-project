@@ -1,0 +1,74 @@
+﻿varietal,type,bearing,non_bearing,total,bearing_percent,year
+Aglianico,red,46,9,55,0.84,2012
+Alicante Bouschet,red,1062,2,1064,1,2012
+Barbera,red,6621,37,6659,0.99,2012
+Cabernet Franc,red,3320,110,3430,0.97,2012
+Cabernet Sauvignon,red,75804,3486,79290,0.96,2012
+Carignane,red,3291,6,3297,1,2012
+Carmenere,red,56,1,56,1,2012
+Carnelian,red,782,0,782,1,2012
+Centurian,red,84,0,84,1,2012
+Charbono,red,86,3,89,0.97,2012
+Cinsaut,red,99,3,102,0.97,2012
+Counoise,red,51,6,56,0.91,2012
+Dolcetto,red,106,7,112,0.95,2012
+Dornfelder,red,47,41,88,0.53,2012
+Gamay ,red,308,3,311,0.99,2012
+Grenache,red,6213,138,6351,0.98,2012
+Malbec,red,1611,430,2041,0.79,2012
+Mataro,red,855,89,944,0.91,2012
+Merlot,red,44849,740,45589,0.98,2012
+Meunier,red,182,22,204,0.89,2012
+Mission,red,657,1,657,1,2012
+Montepulciano,red,76,16,92,0.83,2012
+Muscat Hamburg,red,219,136,355,0.62,2012
+Nebbiolo,red,151,15,166,0.91,2012
+Petit Verdot,red,1998,101,2099,0.95,2012
+Petite Sirah,red,7756,579,8335,0.93,2012
+Pinot Noir,red,36988,2285,39273,0.94,2012
+Pinotage,red,55,0,56,0.98,2012
+Primitivo,red,210,44,254,0.83,2012
+Royalty,red,220,0,220,1,2012
+Rubired,red,10604,1228,11832,0.9,2012
+Ruby Cabernet,red,5861,114,5975,0.98,2012
+Salvador,red,109,0,109,1,2012
+Sangiovese,red,1781,100,1881,0.95,2012
+Souzao,red,78,0,78,1,2012
+Syrah,red,18825,183,19009,0.99,2012
+Tannat,red,245,42,287,0.85,2012
+Tempranillo,red,877,52,929,0.94,2012
+Teroldego,red,78,2,80,0.98,2012
+Touriga Nacional,red,225,5,229,0.98,2012
+Zinfandel,red,47869,486,48354,0.99,2012
+Other Red Wine,red,5856,195,6051,0.97,2012
+Albarino,white,104,72,176,0.59,2012
+Burger,white,1189,0,1189,1,2012
+Catarratto,white,81,15,96,0.84,2012
+Chardonnay,white,92791,2719,95511,0.97,2012
+Chenin Blanc,white,6771,118,6888,0.98,2012
+Emerald Riesling,white,152,0,152,1,2012
+French Colombard,white,23689,455,24143,0.98,2012
+Gewurztraminer,white,1536,165,1701,0.9,2012
+Gray Riesling,white,51,0,51,1,2012
+Grenache Blanc,white,266,12,278,0.96,2012
+Gruner Veltliner,white,64,5,69,0.93,2012
+Malvasia Bianca,white,1216,86,1301,0.93,2012
+Marsanne,white,107,6,113,0.95,2012
+Muscat Blanc,white,1705,485,2190,0.78,2012
+Muscat of Alexandria,white,3119,723,3842,0.81,2012
+Muscat Orange,white,256,34,290,0.88,2012
+Palomino,white,290,0,290,1,2012
+Pinot Blanc,white,432,12,444,0.97,2012
+Pinot Gris,white,12529,763,13292,0.94,2012
+Roussanne,white,353,14,367,0.96,2012
+Sauvignon Blanc,white,15248,389,15636,0.98,2012
+Sauvignon Musque,white,211,17,228,0.93,2012
+Semillon,white,886,11,897,0.99,2012
+St. Emilion,white,198,0,198,1,2012
+Symphony,white,902,709,1611,0.56,2012
+Tocai Friulano,white,122,5,126,0.97,2012
+Triplett Blanc,white,856,0,856,1,2012
+Verdelho,white,89,2,90,0.99,2012
+Viognier,white,2936,84,3020,0.97,2012
+White Riesling,white,3835,312,4147,0.92,2012
+Other White Wine,white,3833,376,4209,0.91,2012

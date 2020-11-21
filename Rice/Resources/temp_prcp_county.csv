@@ -1,0 +1,523 @@
+County,Temp,Year,Total Pcp
+Alameda,57.9,2011,14.53
+Alameda,59.3,2012,20.78
+Alameda,59.5,2013,5.08
+Alameda,62,2014,19.88
+Alameda,61.1,2015,10.39
+Alameda,60.4,2016,22.55
+Alameda,60.5,2017,24.97
+Alameda,59.8,2018,16.57
+Alameda,59.6,2019,22.29
+Alpine,42.7,2011,33.58
+Alpine,45.1,2012,35.65
+Alpine,44.6,2013,13.55
+Alpine,46.8,2014,29.38
+Alpine,46.4,2015,30.36
+Alpine,45.9,2016,39.63
+Alpine,45.4,2017,64.24
+Alpine,45.7,2018,32.2
+Alpine,43.5,2019,47.21
+Amador,56.1,2011,33.13
+Amador,58.5,2012,40.6
+Amador,59.1,2013,12.25
+Amador,61,2014,31.29
+Amador,60.4,2015,26.66
+Amador,59.2,2016,41.01
+Amador,59.5,2017,55.94
+Amador,59.7,2018,34.04
+Amador,57.9,2019,48.65
+Butte,58.2,2011,38.73
+Butte,59.8,2012,53.46
+Butte,60.4,2013,12.19
+Butte,62.4,2014,43.72
+Butte,62,2015,20.74
+Butte,60.8,2016,55.96
+Butte,61.1,2017,56.41
+Butte,61,2018,34.51
+Butte,60.2,2019,60.1
+Calaveras,56.5,2011,32.11
+Calaveras,59,2012,37.79
+Calaveras,59.3,2013,11.14
+Calaveras,61.1,2014,29.56
+Calaveras,60.7,2015,25.26
+Calaveras,59.5,2016,40.49
+Calaveras,60,2017,51.55
+Calaveras,60,2018,32.63
+Calaveras,58.3,2019,48.25
+Colusa,60,2011,22.35
+Colusa,61.6,2012,29.95
+Colusa,62.1,2013,8.22
+Colusa,64.4,2014,28.67
+Colusa,63.9,2015,11.92
+Colusa,62.5,2016,25.49
+Colusa,62.9,2017,27.44
+Colusa,62.5,2018,18.08
+Colusa,61.7,2019,32.89
+Contra Costa,58.7,2011,15.69
+Contra Costa,60.2,2012,23.25
+Contra Costa,60.7,2013,5.27
+Contra Costa,62.7,2014,21.07
+Contra Costa,62,2015,9.28
+Contra Costa,61.2,2016,22.55
+Contra Costa,61.5,2017,26.84
+Contra Costa,61,2018,17.52
+Contra Costa,60.5,2019,23.29
+Del Norte,51.3,2011,67.35
+Del Norte,51.8,2012,102.62
+Del Norte,52.9,2013,35
+Del Norte,54.9,2014,67.16
+Del Norte,54.7,2015,69.35
+Del Norte,52.9,2016,97.59
+Del Norte,52.4,2017,92.56
+Del Norte,52.9,2018,54.46
+Del Norte,52.1,2019,79.65
+El Dorado,52.4,2011,41.67
+El Dorado,54.7,2012,52.88
+El Dorado,55,2013,16.06
+El Dorado,56.7,2014,39.91
+El Dorado,56.3,2015,32.49
+El Dorado,55.2,2016,53.14
+El Dorado,55.3,2017,73.52
+El Dorado,55.4,2018,40.29
+El Dorado,53.6,2019,60.52
+Fresno,54.3,2011,17.62
+Fresno,56.7,2012,16.34
+Fresno,56.8,2013,5.29
+Fresno,59,2014,12.44
+Fresno,57.6,2015,12.23
+Fresno,57.3,2016,19.6
+Fresno,57.3,2017,27.16
+Fresno,57.4,2018,16.87
+Fresno,55.9,2019,25.12
+Glenn,58.9,2011,22.55
+Glenn,60.2,2012,28.93
+Glenn,60.8,2013,7.59
+Glenn,62.8,2014,31.68
+Glenn,63.3,2015,12.36
+Glenn,60.9,2016,29.61
+Glenn,61.1,2017,28.56
+Glenn,61,2018,18.95
+Glenn,60.5,2019,39.12
+Humboldt,53,2011,51.17
+Humboldt,54.1,2012,74.5
+Humboldt,54.2,2013,21.3
+Humboldt,56.7,2014,54.59
+Humboldt,56.5,2015,50.55
+Humboldt,55.8,2016,79.86
+Humboldt,54.8,2017,76.72
+Humboldt,54.8,2018,48.62
+Humboldt,54.5,2019,71.48
+Imperial,73.3,2011,2.53
+Imperial,75.2,2012,2.48
+Imperial,74.4,2013,3.6
+Imperial,76.5,2014,2.06
+Imperial,75.9,2015,2.21
+Imperial,75.5,2016,3.06
+Imperial,76.3,2017,2.82
+Imperial,75.3,2018,2.07
+Imperial,72.8,2019,3.76
+Inyo,59.9,2011,3.92
+Inyo,62.5,2012,4.06
+Inyo,61.8,2013,3.52
+Inyo,63.6,2014,4.68
+Inyo,62.4,2015,5.17
+Inyo,62.3,2016,4.91
+Inyo,62.6,2017,7.68
+Inyo,62.7,2018,4.52
+Inyo,60,2019,10
+Kern,60.7,2011,6.71
+Kern,63.2,2012,5.81
+Kern,62.9,2013,3.6
+Kern,65,2014,6.17
+Kern,63.8,2015,5.56
+Kern,63.6,2016,9.21
+Kern,63.8,2017,9.68
+Kern,63.6,2018,7.03
+Kern,61.7,2019,13.32
+Kings,62.2,2011,6.98
+Kings,64.5,2012,5.6
+Kings,64.5,2013,2.37
+Kings,67.2,2014,6.15
+Kings,65.7,2015,4.58
+Kings,65.7,2016,7.61
+Kings,65.6,2017,8.21
+Kings,65.2,2018,5.61
+Kings,64.4,2019,9.69
+Lake,56,2011,37.29
+Lake,57.1,2012,53.91
+Lake,58.2,2013,12.35
+Lake,60.1,2014,48.5
+Lake,59.9,2015,25.36
+Lake,58,2016,55.34
+Lake,58.5,2017,56.99
+Lake,58.5,2018,34.37
+Lake,57.3,2019,60.95
+Lassen,45.9,2011,16.68
+Lassen,48.3,2012,21.64
+Lassen,47.3,2013,8.55
+Lassen,50.1,2014,20.3
+Lassen,49.7,2015,17.23
+Lassen,48.5,2016,23.63
+Lassen,48.3,2017,28.47
+Lassen,48,2018,18.88
+Lassen,46.6,2019,25.57
+Los Angeles,60.7,2011,12.03
+Los Angeles,62.9,2012,9.31
+Los Angeles,62.8,2013,4.95
+Los Angeles,64.8,2014,10.32
+Los Angeles,64.1,2015,7.11
+Los Angeles,63.7,2016,12.59
+Los Angeles,64.1,2017,13.69
+Los Angeles,63.5,2018,10.79
+Los Angeles,61.1,2019,23.4
+Madera,54.8,2011,20.05
+Madera,57.3,2012,20.75
+Madera,57.2,2013,6.64
+Madera,59.3,2014,13.96
+Madera,58.4,2015,14.42
+Madera,57.9,2016,24.08
+Madera,57.8,2017,29.76
+Madera,57.7,2018,20.72
+Madera,56.4,2019,25.3
+Marin,54.7,2011,28.49
+Marin,55.6,2012,44.26
+Marin,56.3,2013,8.4
+Marin,58.8,2014,40.24
+Marin,58.3,2015,15.93
+Marin,57.1,2016,40.81
+Marin,57.5,2017,45.85
+Marin,56.7,2018,30.49
+Marin,56.9,2019,46.7
+Mariposa,53.8,2011,28.19
+Mariposa,56.4,2012,29.99
+Mariposa,56.3,2013,9.39
+Mariposa,58.4,2014,19.44
+Mariposa,57.5,2015,20
+Mariposa,56.9,2016,34.7
+Mariposa,57,2017,41.99
+Mariposa,56.9,2018,30.17
+Mariposa,55,2019,38.06
+Mendocino,54.3,2011,42.9
+Mendocino,55.4,2012,59.58
+Mendocino,56,2013,15.5
+Mendocino,58.1,2014,55.43
+Mendocino,58,2015,35.42
+Mendocino,56.6,2016,65.92
+Mendocino,56.6,2017,61.04
+Mendocino,56.2,2018,41.72
+Mendocino,55.8,2019,62.39
+Merced,60.8,2011,10.04
+Merced,63.2,2012,10.16
+Merced,63,2013,3.5
+Merced,65.1,2014,10.12
+Merced,64,2015,6.98
+Merced,64,2016,14.46
+Merced,64,2017,13.02
+Merced,63.4,2018,10.5
+Merced,63,2019,13.85
+Modoc,45.5,2011,14.61
+Modoc,47.6,2012,17.61
+Modoc,46.8,2013,10.81
+Modoc,49.7,2014,18.21
+Modoc,49.8,2015,16.85
+Modoc,48.4,2016,19.17
+Modoc,48.2,2017,21.12
+Modoc,48,2018,17.29
+Modoc,46.7,2019,21.22
+Mono,43.2,2011,13.92
+Mono,46,2012,14.18
+Mono,45.3,2013,6.08
+Mono,47.2,2014,10.68
+Mono,46.4,2015,14.08
+Mono,46.3,2016,15.22
+Mono,45.8,2017,26.45
+Mono,46.1,2018,14.08
+Mono,43.5,2019,19.12
+Monterey,57.5,2011,20.3
+Monterey,58.8,2012,19.94
+Monterey,59.1,2013,4.18
+Monterey,61.7,2014,19.93
+Monterey,60.8,2015,11.24
+Monterey,60,2016,20.86
+Monterey,60.4,2017,25.02
+Monterey,59.9,2018,19.21
+Monterey,59.2,2019,30.5
+Napa,58.2,2011,27.53
+Napa,59.5,2012,39.43
+Napa,60.1,2013,6.72
+Napa,62,2014,33.28
+Napa,61.6,2015,13.88
+Napa,60.4,2016,36.01
+Napa,60.8,2017,43.3
+Napa,60.4,2018,24.56
+Napa,60,2019,43.5
+Nevada,50.7,2011,43.47
+Nevada,53,2012,62.85
+Nevada,53.2,2013,15.56
+Nevada,55,2014,48.42
+Nevada,54.8,2015,32.08
+Nevada,53.4,2016,65.78
+Nevada,53.7,2017,82.59
+Nevada,53.8,2018,45.36
+Nevada,52,2019,66.92
+Orange,63.2,2011,9.47
+Orange,65,2012,8.62
+Orange,64.3,2013,4.21
+Orange,67,2014,7.63
+Orange,67,2015,5.91
+Orange,66.1,2016,10.92
+Orange,66.3,2017,13.2
+Orange,65.8,2018,8.79
+Orange,63.9,2019,21.24
+Placer,52.2,2011,40.14
+Placer,54.4,2012,54.97
+Placer,54.6,2013,14.6
+Placer,56.4,2014,42.03
+Placer,56,2015,31
+Placer,55,2016,57.28
+Placer,55,2017,75.84
+Placer,55,2018,42.42
+Placer,53.4,2019,61.82
+Plumas,46.3,2011,35.98
+Plumas,48.5,2012,52.28
+Plumas,47.9,2013,12.06
+Plumas,50.3,2014,39.05
+Plumas,50,2015,26.23
+Plumas,48.9,2016,52.75
+Plumas,48.7,2017,68.34
+Plumas,48.6,2018,35.36
+Plumas,47.1,2019,56.14
+Riverside,67.5,2011,6.34
+Riverside,69.7,2012,6.21
+Riverside,68.9,2013,4.87
+Riverside,70.8,2014,5.23
+Riverside,70,2015,5.43
+Riverside,70.1,2016,8.04
+Riverside,70.7,2017,7.94
+Riverside,70.2,2018,5.82
+Riverside,67.6,2019,12.78
+Sacramento,60.5,2011,17.39
+Sacramento,62.4,2012,22.58
+Sacramento,62.7,2013,6.41
+Sacramento,64.9,2014,18.89
+Sacramento,64.1,2015,9.56
+Sacramento,63.5,2016,22.67
+Sacramento,63.7,2017,27.87
+Sacramento,62.9,2018,18.95
+Sacramento,62.8,2019,25.88
+San Benito,57.6,2011,17.41
+San Benito,59.5,2012,16.7
+San Benito,59.7,2013,3.53
+San Benito,62.2,2014,15.71
+San Benito,61.1,2015,10.12
+San Benito,60.4,2016,17.65
+San Benito,60.7,2017,18.11
+San Benito,60.3,2018,15.78
+San Benito,59.1,2019,22.97
+San Bernardino,65.5,2011,4.77
+San Bernardino,68,2012,5.06
+San Bernardino,67,2013,4.37
+San Bernardino,69,2014,4.82
+San Bernardino,68.1,2015,5.54
+San Bernardino,68.1,2016,6.6
+San Bernardino,68.7,2017,5.56
+San Bernardino,68.4,2018,5.11
+San Bernardino,65.5,2019,10.79
+San Diego,62,2011,12.78
+San Diego,63.9,2012,9.8
+San Diego,63.4,2013,7.86
+San Diego,65.9,2014,8.07
+San Diego,64.9,2015,9.08
+San Diego,64.8,2016,13.17
+San Diego,65.2,2017,12.79
+San Diego,64.8,2018,9.69
+San Diego,62.5,2019,21.17
+San Francisco,56.1,2011,21.16
+San Francisco,56.5,2012,30.87
+San Francisco,57.1,2013,6.21
+San Francisco,59.9,2014,28.74
+San Francisco,59.4,2015,11.15
+San Francisco,58.3,2016,28.85
+San Francisco,58.5,2017,31.59
+San Francisco,57.6,2018,22.51
+San Francisco,57.9,2019,29.56
+San Joaquin,60.4,2011,11.61
+San Joaquin,62.2,2012,15.68
+San Joaquin,62.2,2013,5.06
+San Joaquin,64.5,2014,14.4
+San Joaquin,63.9,2015,7.69
+San Joaquin,63.3,2016,18.33
+San Joaquin,63.7,2017,19.08
+San Joaquin,63.3,2018,14.35
+San Joaquin,62.7,2019,17.6
+San Luis Obispo,58.4,2011,15.48
+San Luis Obispo,60.2,2012,13.9
+San Luis Obispo,60.6,2013,3.12
+San Luis Obispo,62.7,2014,12.18
+San Luis Obispo,61.4,2015,6.65
+San Luis Obispo,61.1,2016,16.06
+San Luis Obispo,61.7,2017,20.89
+San Luis Obispo,61.1,2018,14.4
+San Luis Obispo,59.7,2019,23.65
+San Mateo,56,2011,22.94
+San Mateo,56.6,2012,33.17
+San Mateo,57.2,2013,6.19
+San Mateo,59.6,2014,28.55
+San Mateo,59.2,2015,14.07
+San Mateo,58.2,2016,33.08
+San Mateo,58.4,2017,36.79
+San Mateo,57.6,2018,22.73
+San Mateo,57.9,2019,34.33
+Santa Barbara,57.6,2011,16.36
+Santa Barbara,59,2012,12.51
+Santa Barbara,59,2013,3.94
+Santa Barbara,61.8,2014,13.21
+Santa Barbara,61.2,2015,5.05
+Santa Barbara,60.4,2016,15.99
+Santa Barbara,60.7,2017,20.52
+Santa Barbara,60.2,2018,12.72
+Santa Barbara,58.9,2019,26.65
+Santa Clara,57.2,2011,19.71
+Santa Clara,58.6,2012,25.16
+Santa Clara,58.9,2013,5.12
+Santa Clara,61,2014,24.39
+Santa Clara,60.4,2015,13.73
+Santa Clara,59.9,2016,29.64
+Santa Clara,59.8,2017,31.53
+Santa Clara,59.5,2018,21.1
+Santa Clara,59,2019,32.17
+Santa Cruz,56.5,2011,28.46
+Santa Cruz,56.9,2012,36.02
+Santa Cruz,58,2013,6.07
+Santa Cruz,60.2,2014,33.51
+Santa Cruz,60.1,2015,17.02
+Santa Cruz,58.9,2016,40.44
+Santa Cruz,58.9,2017,47.63
+Santa Cruz,58.4,2018,27.33
+Santa Cruz,58.5,2019,46.24
+Shasta,53.8,2011,35.57
+Shasta,55.3,2012,50.76
+Shasta,56.2,2013,14.77
+Shasta,57.9,2014,44.52
+Shasta,58,2015,27.65
+Shasta,56.3,2016,57.21
+Shasta,56.6,2017,52.95
+Shasta,56.6,2018,34.13
+Shasta,55.2,2019,54.84
+Sierra,45.9,2011,40.07
+Sierra,48.2,2012,54.97
+Sierra,47.8,2013,13.57
+Sierra,50,2014,41.88
+Sierra,49.7,2015,31.09
+Sierra,48.6,2016,60.57
+Sierra,48.7,2017,80.2
+Sierra,48.7,2018,39.27
+Sierra,46.9,2019,60.82
+Siskiyou,47.6,2011,31.04
+Siskiyou,49.3,2012,45.16
+Siskiyou,49.8,2013,16.12
+Siskiyou,51.8,2014,36.62
+Siskiyou,51.9,2015,32.34
+Siskiyou,50.1,2016,48.93
+Siskiyou,50,2017,43.62
+Siskiyou,50.3,2018,26.23
+Siskiyou,49,2019,39.49
+Solano,59.5,2011,17.16
+Solano,61.1,2012,24.88
+Solano,61.5,2013,5.1
+Solano,63.5,2014,22.04
+Solano,62.8,2015,8.74
+Solano,61.9,2016,22.86
+Solano,62.2,2017,30.57
+Solano,61.6,2018,17.34
+Solano,61.6,2019,28.79
+Sonoma,55.9,2011,32.85
+Sonoma,56.9,2012,51.03
+Sonoma,57.5,2013,10.12
+Sonoma,59.7,2014,44.19
+Sonoma,59.4,2015,21.43
+Sonoma,58.2,2016,49.56
+Sonoma,58.5,2017,52.76
+Sonoma,58.1,2018,36.02
+Sonoma,57.9,2019,57.85
+Stanislaus,59.9,2011,11.89
+Stanislaus,61.9,2012,14.2
+Stanislaus,61.9,2013,4.37
+Stanislaus,64,2014,14.42
+Stanislaus,63.1,2015,8.63
+Stanislaus,63.2,2016,18.04
+Stanislaus,63.4,2017,16.82
+Stanislaus,62.9,2018,13.57
+Stanislaus,62.4,2019,17.77
+Sutter,61.3,2011,18.17
+Sutter,63.3,2012,22.78
+Sutter,63.5,2013,6.57
+Sutter,65.6,2014,20.03
+Sutter,65,2015,8.87
+Sutter,64.3,2016,21.39
+Sutter,64.6,2017,25.41
+Sutter,63.7,2018,17.61
+Sutter,63.3,2019,28.23
+Tehama,57.2,2011,29.58
+Tehama,58.8,2012,43.09
+Tehama,60,2013,11.42
+Tehama,61.5,2014,42.34
+Tehama,61.3,2015,19.56
+Tehama,59.7,2016,47.99
+Tehama,60.1,2017,40.84
+Tehama,60.1,2018,30.58
+Tehama,58.8,2019,48.44
+Trinity,51.2,2011,46.77
+Trinity,52.6,2012,69
+Trinity,53.4,2013,19.11
+Trinity,55.4,2014,55.3
+Trinity,55.6,2015,43.21
+Trinity,54,2016,74.92
+Trinity,53.7,2017,67.76
+Trinity,53.8,2018,39.76
+Trinity,52.9,2019,66.14
+Tulare,53.2,2011,17.94
+Tulare,55.6,2012,18.29
+Tulare,55.6,2013,6.87
+Tulare,57.6,2014,14.47
+Tulare,56.2,2015,15.27
+Tulare,55.8,2016,19.73
+Tulare,56,2017,27.33
+Tulare,55.9,2018,16.35
+Tulare,54.2,2019,29.53
+Tuolumne,48.5,2011,38.92
+Tuolumne,51.5,2012,42.11
+Tuolumne,51,2013,12.64
+Tuolumne,53.1,2014,30.42
+Tuolumne,52.5,2015,30.01
+Tuolumne,51.8,2016,45.14
+Tuolumne,51.8,2017,64.58
+Tuolumne,51.9,2018,37.4
+Tuolumne,49.8,2019,52.12
+Ventura,57,2011,16.52
+Ventura,58.9,2012,12.34
+Ventura,59.4,2013,4.93
+Ventura,61,2014,14.86
+Ventura,60.7,2015,6.82
+Ventura,59.7,2016,16.14
+Ventura,60.3,2017,20.91
+Ventura,59.5,2018,14.24
+Ventura,58.2,2019,31.01
+Yolo,60.5,2011,18.92
+Yolo,62.2,2012,25.72
+Yolo,62.5,2013,5.79
+Yolo,64.7,2014,21.62
+Yolo,63.9,2015,9.19
+Yolo,63.1,2016,22.92
+Yolo,63.1,2017,30.74
+Yolo,62.4,2018,17.84
+Yolo,62.2,2019,33.14
+Yuba,59.1,2011,33.62
+Yuba,61.1,2012,48.71
+Yuba,61.5,2013,11.15
+Yuba,63.4,2014,38.61
+Yuba,63,2015,19.52
+Yuba,61.7,2016,46.73
+Yuba,62.3,2017,55.01
+Yuba,62,2018,33.66
+Yuba,60.9,2019,52.15

@@ -1,0 +1,78 @@
+﻿varietal,type,bearing,non_bearing,total,bearing_percent,year
+Aglianico,red,76,5,81,0.94,2020
+Alicante Bouschet,red,863,10,874,0.99,2020
+Barbera,red,4916,449,5365,0.92,2020
+Cabernet Franc,red,3309,117,3426,0.97,2020
+Cabernet Sauvignon,red,90283,4571,94854,0.95,2020
+Carignane,red,2276,14,2289,0.99,2020
+Carmenere,red,66,6,72,0.92,2020
+Carnelian,red,262,0,262,1,2020
+Centurian,red,92,0,92,1,2020
+Charbono,red,76,1,77,0.99,2020
+Cinsaut,red,83,16,99,0.84,2020
+Counoise,red,52,7,59,0.88,2020
+Dolcetto,red,84,0,84,1,2020
+Dornfelder,red,67,1,68,0.99,2020
+Gamay,red,228,1,229,1,2020
+Graciano,red,57,2,59,0.97,2020
+Grenache,red,4058,213,4271,0.95,2020
+Lagrein,red,58,0,58,1,2020
+Malbec,red,3743,109,3851,0.97,2020
+Merlot,red,36658,449,37107,0.99,2020
+Meunier,red,173,3,176,0.98,2020
+Mission,red,352,52,404,0.87,2020
+Montepulciano,red,93,3,96,0.97,2020
+Mourvedre,red,1071,95,1166,0.92,2020
+Muscat Hamburg,red,299,5,304,0.98,2020
+Nebbiolo,red,138,2,140,0.99,2020
+Petit Verdot,red,3522,61,3583,0.98,2020
+Petite Sirah,red,11600,569,12169,0.95,2020
+Pinot Noir,red,45352,2690,48041,0.94,2020
+Pinotage,red,51,1,52,0.98,2020
+Primitivo,red,1275,65,1340,0.95,2020
+Royalty,red,230,0,230,1,2020
+Rubired,red,10976,12,10987,1,2020
+Ruby Cabernet,red,4195,0,4195,1,2020
+Sangiovese,red,1528,16,1544,0.99,2020
+Souzao,red,92,1,93,0.99,2020
+Syrah,red,15225,233,15458,0.98,2020
+Tannat,red,621,12,633,0.98,2020
+Tempranillo,red,921,24,945,0.97,2020
+Teroldego,red,972,74,1046,0.93,2020
+Touriga Nacional,red,296,5,301,0.98,2020
+Zinfandel,red,39381,679,40061,0.98,2020
+Other Red Wine,red,5731,119,5850,0.98,2020
+Albarino,white,324,132,456,0.71,2020
+Arneis,white,60,0,60,1,2020
+Burger,white,1103,0,1103,1,2020
+Catarratto,white,97,0,97,1,2020
+Chardonnay,white,89357,2954,92311,0.97,2020
+Chenin Blanc,white,4553,42,4595,0.99,2020
+French Colombard,white,17546,119,17665,0.99,2020
+Gewurztraminer,white,1569,66,1635,0.96,2020
+Grenache Blanc,white,362,274,636,0.57,2020
+Gruner Veltliner,white,153,2,155,0.99,2020
+Malvasia Bianca,white,995,0,995,1,2020
+Marsanne,white,120,6,125,0.96,2020
+Moscato Gaillo,white,151,0,151,1,2020
+Muscat Blanc,white,2854,82,2936,0.97,2020
+Muscat of Alexandria,white,4324,0,4324,1,2020
+Muscat Orange,white,325,0,325,1,2020
+Palomino,white,145,0,145,1,2020
+Picpoul Blanc,white,43,10,53,0.81,2020
+Pinot Blanc,white,324,6,330,0.98,2020
+Pinot Gris,white,15768,1139,16907,0.93,2020
+Roussanne,white,321,2,323,0.99,2020
+Sauvignon Blanc,white,14460,1282,15742,0.92,2020
+Sauvignon Musque,white,330,5,335,0.99,2020
+Sauvignon Vert,white,52,0,52,1,2020
+Semillon,white,541,15,556,0.97,2020
+St. Emilion,white,100,3,103,0.97,2020
+Symphony,white,1477,0,1477,1,2020
+Tocai Friulano,white,51,0,51,1,2020
+Triplett Blanc,white,675,0,675,1,2020
+Verdelho,white,147,1,147,1,2020
+Vermentino,white,101,17,118,0.86,2020
+Viognier,white,2581,19,2600,0.99,2020
+White Riesling,white,3781,5,3786,1,2020
+Other White Wine,white,3837,145,3982,0.96,2020

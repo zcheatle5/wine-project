@@ -1,0 +1,76 @@
+﻿varietal,type,bearing,non_bearing,total,bearing_percent,year
+Aglianico,red,58,5,63,0.92,2015
+Alicante Bouschet,red,941,140,1081,0.87,2015
+Barbera,red,5800,164,5964,0.97,2015
+Cabernet Franc,red,3429,154,3584,0.96,2015
+Cabernet Sauvignon,red,79864,8108,87972,0.91,2015
+Carignane,red,2460,313,2772,0.89,2015
+Carmenere,red,59,13,72,0.82,2015
+Carnelian,red,369,0,369,1,2015
+Centurian,red,82,0,82,1,2015
+Charbono,red,89,1,90,0.99,2015
+Cinsaut,red,80,5,84,0.95,2015
+Counoise,red,54,0,54,1,2015
+Dolcetto,red,112,0,112,1,2015
+Dornfelder,red,67,0,67,1,2015
+Gamay,red,288,36,324,0.89,2015
+Grenache,red,5722,187,5909,0.97,2015
+Malbec,red,2740,937,3677,0.75,2015
+Mataro,red,1009,38,1047,0.96,2015
+Merlot,red,43622,839,44460,0.98,2015
+Meunier,red,204,1,205,1,2015
+Mission,red,635,1,635,1,2015
+Montepulciano,red,82,26,108,0.76,2015
+Muscat Hamburg,red,425,37,462,0.92,2015
+Nebbiolo,red,156,1,157,0.99,2015
+Petit Verdot,red,2409,207,2616,0.92,2015
+Petite Sirah,red,8825,1149,9974,0.88,2015
+Pinot Noir,red,39340,3472,42812,0.92,2015
+Pinotage,red,53,0,53,1,2015
+Primitivo,red,375,610,985,0.38,2015
+Royalty,red,230,0,230,1,2015
+Rubired,red,12146,487,12633,0.96,2015
+Ruby Cabernet,red,5528,191,5719,0.97,2015
+Sangiovese,red,1811,27,1838,0.99,2015
+Souzao,red,81,9,90,0.9,2015
+Syrah,red,18137,339,18476,0.98,2015
+Tannat,red,337,209,546,0.62,2015
+Tempranillo,red,898,75,973,0.92,2015
+Teroldego,red,87,205,292,0.3,2015
+Touriga Francesca,red,74,0,74,1,2015
+Touriga Nacional,red,256,2,258,0.99,2015
+Zinfandel,red,46435,1392,47827,0.97,2015
+Other Red Wine,red,5547,165,5712,0.97,2015
+Albarino,white,230,17,247,0.93,2015
+Burger,white,978,0,978,1,2015
+Catarratto,white,148,2,150,0.99,2015
+Chardonnay,white,94279,3547,97826,0.96,2015
+Chenin Blanc,white,5050,132,5183,0.97,2015
+Emerald Riesling,white,54,0,54,1,2015
+French Colombard,white,19787,2275,22062,0.9,2015
+Gewurztraminer,white,1731,253,1983,0.87,2015
+Grenache Blanc,white,255,65,319,0.8,2015
+Gruner Veltliner,white,145,4,149,0.97,2015
+Malvasia Bianca,white,1270,3,1273,1,2015
+Marsanne,white,117,9,126,0.93,2015
+Moscato Gaillo,white,1,150,151,0.01,2015
+Muscat Blanc,white,2339,671,3011,0.78,2015
+Muscat of Alexandria,white,4403,464,4867,0.9,2015
+Muscat Orange,white,308,78,385,0.8,2015
+Palomino,white,213,0,213,1,2015
+Pinot Blanc,white,419,3,422,0.99,2015
+Pinot Gris,white,13080,1930,15009,0.87,2015
+Roussanne,white,337,8,345,0.98,2015
+Sauvignon Blanc,white,14781,404,15185,0.97,2015
+Sauvignon Musque,white,322,1,323,1,2015
+Sauvignon Vert,white,56,0,56,1,2015
+Semillon,white,844,4,848,1,2015
+St. Emilion,white,198,3,201,0.99,2015
+Symphony,white,1687,0,1687,1,2015
+Tocai Friulano,white,116,0,116,1,2015
+Triplett Blanc,white,944,4,948,1,2015
+Verdelho,white,96,60,157,0.61,2015
+Vermentino,white,27,39,66,0.41,2015
+Viognier,white,2982,60,3042,0.98,2015
+White Riesling,white,4021,517,4538,0.89,2015
+Other White Wine,white,3836,102,3937,0.97,2015
