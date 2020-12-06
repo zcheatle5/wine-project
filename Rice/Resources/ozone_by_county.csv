@@ -1,0 +1,487 @@
+Year,Days Ozone,County
+2011,137,Alameda
+2011,0,Alpine
+2011,363,Amador
+2011,180,Butte
+2011,246,Calaveras
+2011,221,Colusa
+2011,261,Contra Costa
+2011,0,Del Norte
+2011,352,El Dorado
+2011,192,Fresno
+2011,225,Glenn
+2011,214,Humboldt
+2011,233,Imperial
+2011,280,Inyo
+2011,216,Kern
+2011,200,Kings
+2011,364,Lake
+2011,162,Los Angeles
+2011,143,Madera
+2011,113,Marin
+2011,296,Mariposa
+2011,31,Mendocino
+2011,179,Merced
+2011,0,Mono
+2011,262,Monterey
+2011,154,Napa
+2011,342,Nevada
+2011,79,Orange
+2011,240,Placer
+2011,0,Plumas
+2011,184,Riverside
+2011,224,Sacramento
+2011,314,San Benito
+2011,216,San Bernardino
+2011,137,San Diego
+2011,124,San Francisco
+2011,206,San Joaquin
+2011,197,San Luis Obispo
+2011,158,San Mateo
+2011,182,Santa Barbara
+2011,95,Santa Clara
+2011,244,Santa Cruz
+2011,353,Shasta
+2011,338,Siskiyou
+2011,212,Solano
+2011,174,Sonoma
+2011,194,Stanislaus
+2011,144,Sutter
+2011,220,Tehama
+2011,0,Trinity
+2011,208,Tulare
+2011,355,Tuolumne
+2011,333,Ventura
+2011,164,Yolo
+2012,180,Alameda
+2012,0,Alpine
+2012,363,Amador
+2012,230,Butte
+2012,281,Calaveras
+2012,106,Colusa
+2012,293,Contra Costa
+2012,0,Del Norte
+2012,366,El Dorado
+2012,222,Fresno
+2012,267,Glenn
+2012,205,Humboldt
+2012,229,Imperial
+2012,280,Inyo
+2012,218,Kern
+2012,210,Kings
+2012,360,Lake
+2012,176,Los Angeles
+2012,210,Madera
+2012,152,Marin
+2012,305,Mariposa
+2012,203,Mendocino
+2012,236,Merced
+2012,0,Mono
+2012,246,Monterey
+2012,198,Napa
+2012,353,Nevada
+2012,112,Orange
+2012,260,Placer
+2012,0,Plumas
+2012,185,Riverside
+2012,264,Sacramento
+2012,348,San Benito
+2012,227,San Bernardino
+2012,147,San Diego
+2012,140,San Francisco
+2012,195,San Joaquin
+2012,245,San Luis Obispo
+2012,141,San Mateo
+2012,274,Santa Barbara
+2012,168,Santa Clara
+2012,293,Santa Cruz
+2012,356,Shasta
+2012,345,Siskiyou
+2012,231,Solano
+2012,205,Sonoma
+2012,202,Stanislaus
+2012,232,Sutter
+2012,282,Tehama
+2012,0,Trinity
+2012,243,Tulare
+2012,364,Tuolumne
+2012,247,Ventura
+2012,256,Yolo
+2013,83,Alameda
+2013,0,Alpine
+2013,365,Amador
+2013,221,Butte
+2013,229,Calaveras
+2013,151,Colusa
+2013,119,Contra Costa
+2013,0,Del Norte
+2013,362,El Dorado
+2013,215,Fresno
+2013,207,Glenn
+2013,144,Humboldt
+2013,198,Imperial
+2013,286,Inyo
+2013,177,Kern
+2013,198,Kings
+2013,362,Lake
+2013,176,Los Angeles
+2013,191,Madera
+2013,80,Marin
+2013,289,Mariposa
+2013,54,Mendocino
+2013,198,Merced
+2013,0,Mono
+2013,219,Monterey
+2013,129,Napa
+2013,337,Nevada
+2013,101,Orange
+2013,211,Placer
+2013,0,Plumas
+2013,198,Riverside
+2013,220,Sacramento
+2013,321,San Benito
+2013,229,San Bernardino
+2013,152,San Diego
+2013,85,San Francisco
+2013,88,San Joaquin
+2013,174,San Luis Obispo
+2013,116,San Mateo
+2013,254,Santa Barbara
+2013,154,Santa Clara
+2013,242,Santa Cruz
+2013,351,Shasta
+2013,338,Siskiyou
+2013,180,Solano
+2013,218,Sonoma
+2013,218,Stanislaus
+2013,233,Sutter
+2013,297,Tehama
+2013,0,Trinity
+2013,220,Tulare
+2013,364,Tuolumne
+2013,234,Ventura
+2013,277,Yolo
+2014,155,Alameda
+2014,0,Alpine
+2014,359,Amador
+2014,228,Butte
+2014,279,Calaveras
+2014,159,Colusa
+2014,172,Contra Costa
+2014,0,Del Norte
+2014,355,El Dorado
+2014,231,Fresno
+2014,259,Glenn
+2014,89,Humboldt
+2014,109,Imperial
+2014,294,Inyo
+2014,230,Kern
+2014,204,Kings
+2014,352,Lake
+2014,170,Los Angeles
+2014,221,Madera
+2014,59,Marin
+2014,305,Mariposa
+2014,166,Mendocino
+2014,250,Merced
+2014,0,Mono
+2014,263,Monterey
+2014,74,Napa
+2014,358,Nevada
+2014,69,Orange
+2014,244,Placer
+2014,0,Plumas
+2014,205,Riverside
+2014,247,Sacramento
+2014,345,San Benito
+2014,214,San Bernardino
+2014,208,San Diego
+2014,136,San Francisco
+2014,224,San Joaquin
+2014,179,San Luis Obispo
+2014,185,San Mateo
+2014,247,Santa Barbara
+2014,200,Santa Clara
+2014,244,Santa Cruz
+2014,354,Shasta
+2014,347,Siskiyou
+2014,172,Solano
+2014,227,Sonoma
+2014,248,Stanislaus
+2014,200,Sutter
+2014,330,Tehama
+2014,0,Trinity
+2014,223,Tulare
+2014,334,Tuolumne
+2014,237,Ventura
+2014,242,Yolo
+2015,180,Alameda
+2015,0,Alpine
+2015,364,Amador
+2015,237,Butte
+2015,274,Calaveras
+2015,154,Colusa
+2015,213,Contra Costa
+2015,0,Del Norte
+2015,350,El Dorado
+2015,227,Fresno
+2015,243,Glenn
+2015,183,Humboldt
+2015,147,Imperial
+2015,286,Inyo
+2015,231,Kern
+2015,197,Kings
+2015,361,Lake
+2015,189,Los Angeles
+2015,223,Madera
+2015,178,Marin
+2015,327,Mariposa
+2015,136,Mendocino
+2015,217,Merced
+2015,0,Mono
+2015,258,Monterey
+2015,145,Napa
+2015,356,Nevada
+2015,128,Orange
+2015,267,Placer
+2015,0,Plumas
+2015,194,Riverside
+2015,193,Sacramento
+2015,341,San Benito
+2015,202,San Bernardino
+2015,208,San Diego
+2015,164,San Francisco
+2015,170,San Joaquin
+2015,191,San Luis Obispo
+2015,230,San Mateo
+2015,251,Santa Barbara
+2015,187,Santa Clara
+2015,254,Santa Cruz
+2015,354,Shasta
+2015,343,Siskiyou
+2015,201,Solano
+2015,267,Sonoma
+2015,202,Stanislaus
+2015,233,Sutter
+2015,311,Tehama
+2015,0,Trinity
+2015,206,Tulare
+2015,364,Tuolumne
+2015,226,Ventura
+2015,230,Yolo
+2016,214,Alameda
+2016,0,Alpine
+2016,366,Amador
+2016,199,Butte
+2016,280,Calaveras
+2016,248,Colusa
+2016,223,Contra Costa
+2016,0,Del Norte
+2016,365,El Dorado
+2016,217,Fresno
+2016,210,Glenn
+2016,229,Humboldt
+2016,144,Imperial
+2016,313,Inyo
+2016,231,Kern
+2016,184,Kings
+2016,363,Lake
+2016,174,Los Angeles
+2016,217,Madera
+2016,221,Marin
+2016,270,Mariposa
+2016,193,Mendocino
+2016,225,Merced
+2016,0,Mono
+2016,262,Monterey
+2016,166,Napa
+2016,359,Nevada
+2016,173,Orange
+2016,290,Placer
+2016,0,Plumas
+2016,210,Riverside
+2016,221,Sacramento
+2016,352,San Benito
+2016,204,San Bernardino
+2016,224,San Diego
+2016,154,San Francisco
+2016,144,San Joaquin
+2016,249,San Luis Obispo
+2016,119,San Mateo
+2016,259,Santa Barbara
+2016,191,Santa Clara
+2016,255,Santa Cruz
+2016,363,Shasta
+2016,342,Siskiyou
+2016,208,Solano
+2016,298,Sonoma
+2016,202,Stanislaus
+2016,204,Sutter
+2016,325,Tehama
+2016,0,Trinity
+2016,222,Tulare
+2016,354,Tuolumne
+2016,232,Ventura
+2016,281,Yolo
+2017,110,Alameda
+2017,0,Alpine
+2017,362,Amador
+2017,218,Butte
+2017,226,Calaveras
+2017,202,Colusa
+2017,138,Contra Costa
+2017,0,Del Norte
+2017,327,El Dorado
+2017,234,Fresno
+2017,207,Glenn
+2017,258,Humboldt
+2017,171,Imperial
+2017,288,Inyo
+2017,253,Kern
+2017,201,Kings
+2017,350,Lake
+2017,169,Los Angeles
+2017,242,Madera
+2017,143,Marin
+2017,257,Mariposa
+2017,185,Mendocino
+2017,213,Merced
+2017,0,Mono
+2017,232,Monterey
+2017,113,Napa
+2017,353,Nevada
+2017,202,Orange
+2017,300,Placer
+2017,0,Plumas
+2017,234,Riverside
+2017,204,Sacramento
+2017,333,San Benito
+2017,219,San Bernardino
+2017,242,San Diego
+2017,131,San Francisco
+2017,198,San Joaquin
+2017,211,San Luis Obispo
+2017,164,San Mateo
+2017,253,Santa Barbara
+2017,201,Santa Clara
+2017,228,Santa Cruz
+2017,354,Shasta
+2017,138,Siskiyou
+2017,199,Solano
+2017,249,Sonoma
+2017,228,Stanislaus
+2017,172,Sutter
+2017,302,Tehama
+2017,0,Trinity
+2017,236,Tulare
+2017,362,Tuolumne
+2017,250,Ventura
+2017,269,Yolo
+2018,72,Alameda
+2018,0,Alpine
+2018,364,Amador
+2018,203,Butte
+2018,141,Calaveras
+2018,176,Colusa
+2018,107,Contra Costa
+2018,0,Del Norte
+2018,353,El Dorado
+2018,231,Fresno
+2018,154,Glenn
+2018,251,Humboldt
+2018,129,Imperial
+2018,311,Inyo
+2018,246,Kern
+2018,186,Kings
+2018,344,Lake
+2018,175,Los Angeles
+2018,210,Madera
+2018,135,Marin
+2018,265,Mariposa
+2018,151,Mendocino
+2018,196,Merced
+2018,0,Mono
+2018,212,Monterey
+2018,165,Napa
+2018,327,Nevada
+2018,192,Orange
+2018,297,Placer
+2018,0,Plumas
+2018,232,Riverside
+2018,202,Sacramento
+2018,321,San Benito
+2018,215,San Bernardino
+2018,202,San Diego
+2018,126,San Francisco
+2018,154,San Joaquin
+2018,234,San Luis Obispo
+2018,138,San Mateo
+2018,266,Santa Barbara
+2018,166,Santa Clara
+2018,221,Santa Cruz
+2018,343,Shasta
+2018,241,Siskiyou
+2018,184,Solano
+2018,280,Sonoma
+2018,203,Stanislaus
+2018,166,Sutter
+2018,239,Tehama
+2018,0,Trinity
+2018,233,Tulare
+2018,348,Tuolumne
+2018,213,Ventura
+2018,249,Yolo
+2019,175,Alameda
+2019,0,Alpine
+2019,355,Amador
+2019,231,Butte
+2019,322,Calaveras
+2019,228,Colusa
+2019,242,Contra Costa
+2019,0,Del Norte
+2019,356,El Dorado
+2019,259,Fresno
+2019,277,Glenn
+2019,272,Humboldt
+2019,210,Imperial
+2019,319,Inyo
+2019,260,Kern
+2019,190,Kings
+2019,356,Lake
+2019,197,Los Angeles
+2019,260,Madera
+2019,222,Marin
+2019,296,Mariposa
+2019,229,Mendocino
+2019,250,Merced
+2019,0,Mono
+2019,288,Monterey
+2019,265,Napa
+2019,326,Nevada
+2019,262,Orange
+2019,307,Placer
+2019,0,Plumas
+2019,247,Riverside
+2019,240,Sacramento
+2019,347,San Benito
+2019,246,San Bernardino
+2019,176,San Diego
+2019,172,San Francisco
+2019,233,San Joaquin
+2019,282,San Luis Obispo
+2019,209,San Mateo
+2019,295,Santa Barbara
+2019,218,Santa Clara
+2019,262,Santa Cruz
+2019,352,Shasta
+2019,262,Siskiyou
+2019,224,Solano
+2019,265,Sonoma
+2019,245,Stanislaus
+2019,249,Sutter
+2019,323,Tehama
+2019,0,Trinity
+2019,242,Tulare
+2019,358,Tuolumne
+2019,284,Ventura
+2019,279,Yolo

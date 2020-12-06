@@ -1,0 +1,640 @@
+Year,Acreage Planted,Varietal,Type
+2011,7,Aglianico,Red
+2011,1,Alicante Bouschet,Red
+2011,15,Barbera,Red
+2011,29,Cabernet Franc,Red
+2011,1393,Cabernet Sauvignon,Red
+2011,3,Carignane,Red
+2011,0,Carmenere,Red
+2011,1,Charbono,Red
+2011,1,Cinsaut,Red
+2011,4,Counoise,Red
+2011,1,Dolcetto,Red
+2011,19,Dornfelder,Red
+2011,0,Gamay,Red
+2011,22,Graciano,Red
+2011,95,Grenache,Red
+2011,0,Lagrein,Red
+2011,447,Malbec,Red
+2011,433,Merlot,Red
+2011,8,Meunier,Red
+2011,0,Mission,Red
+2011,0,Montepulciano,Red
+2011,38,Mourvedre,Red
+2011,0,Muscat Hamburg,Red
+2011,1,Nebbiolo,Red
+2011,164,Petit Verdot,Red
+2011,505,Petite Sirah,Red
+2011,687,Pinot Noir,Red
+2011,0,Pinotage,Red
+2011,16,Primitivo,Red
+2011,297,Rubired,Red
+2011,0,Ruby Cabernet,Red
+2011,32,Sangiovese,Red
+2011,0,Souzao,Red
+2011,45,Syrah,Red
+2011,9,Tannat,Red
+2011,16,Tempranillo,Red
+2011,6,Teroldego,Red
+2011,1,Touriga Nacional,Red
+2011,130,Zinfandel,Red
+2011,41,Other Red Wine,Red
+2011,19,Albarino,White
+2011,0,Arneis,White
+2011,1039,Chardonnay,White
+2011,83,Chenin Blanc,White
+2011,515,French Colombard,White
+2011,139,Gewurztraminer,White
+2011,13,Grenache Blanc,White
+2011,9,Gruner Veltliner,White
+2011,84,Malvasia Bianca,White
+2011,0,Marsanne,White
+2011,0,Moscato Gaillo,White
+2011,257,Muscat Blanc,White
+2011,996,Muscat of Alexandria,White
+2011,24,Muscat Orange,White
+2011,8,Picpoul Blanc,White
+2011,7,Pinot Blanc,White
+2011,45,Pinot Gris,White
+2011,7,Roussanne,White
+2011,220,Sauvignon Blanc,White
+2011,76,Sauvignon Musque,White
+2011,40,Sauvignon Vert,White
+2011,12,Semillon,White
+2011,0,St. Emilion,White
+2011,230,Symphony,White
+2011,4,Tocai Friulano,White
+2011,0,Triplett Blanc,White
+2011,5,Verdelho,White
+2011,6,Vermentino,White
+2011,11,Viognier,White
+2011,55,White Riesling,White
+2011,112,Other White Wine,White
+2018,0,Aglianico,Red
+2018,0,Alicante Bouschet,Red
+2018,8,Barbera,Red
+2018,33,Cabernet Franc,Red
+2018,1784,Cabernet Sauvignon,Red
+2018,12,Carignane,Red
+2018,0,Carmenere,Red
+2018,0,Charbono,Red
+2018,3,Cinsaut,Red
+2018,6,Counoise,Red
+2018,0,Dolcetto,Red
+2018,0,Dornfelder,Red
+2018,0,Gamay,Red
+2018,2,Graciano,Red
+2018,61,Grenache,Red
+2018,0,Lagrein,Red
+2018,17,Malbec,Red
+2018,170,Merlot,Red
+2018,0,Meunier,Red
+2018,50,Mission,Red
+2018,0,Montepulciano,Red
+2018,26,Mourvedre,Red
+2018,0,Muscat Hamburg,Red
+2018,0,Nebbiolo,Red
+2018,18,Petit Verdot,Red
+2018,177,Petite Sirah,Red
+2018,882,Pinot Noir,Red
+2018,0,Pinotage,Red
+2018,14,Primitivo,Red
+2018,0,Rubired,Red
+2018,0,Ruby Cabernet,Red
+2018,6,Sangiovese,Red
+2018,0,Souzao,Red
+2018,72,Syrah,Red
+2018,10,Tannat,Red
+2018,6,Tempranillo,Red
+2018,15,Teroldego,Red
+2018,1,Touriga Nacional,Red
+2018,39,Zinfandel,Red
+2018,26,Other Red Wine,Red
+2018,3,Albarino,White
+2018,0,Arneis,White
+2018,1122,Chardonnay,White
+2018,17,Chenin Blanc,White
+2018,0,French Colombard,White
+2018,50,Gewurztraminer,White
+2018,1,Grenache Blanc,White
+2018,1,Gruner Veltliner,White
+2018,0,Malvasia Bianca,White
+2018,0,Marsanne,White
+2018,0,Moscato Gaillo,White
+2018,0,Muscat Blanc,White
+2018,0,Muscat of Alexandria,White
+2018,0,Muscat Orange,White
+2018,4,Picpoul Blanc,White
+2018,0,Pinot Blanc,White
+2018,448,Pinot Gris,White
+2018,0,Roussanne,White
+2018,434,Sauvignon Blanc,White
+2018,1,Sauvignon Musque,White
+2018,0,Sauvignon Vert,White
+2018,6,Semillon,White
+2018,0,St. Emilion,White
+2018,0,Symphony,White
+2018,0,Tocai Friulano,White
+2018,0,Triplett Blanc,White
+2018,0,Verdelho,White
+2018,9,Vermentino,White
+2018,14,Viognier,White
+2018,1,White Riesling,White
+2018,11,Other White Wine,White
+2016,2,Aglianico,Red
+2016,0,Alicante Bouschet,Red
+2016,65,Barbera,Red
+2016,73,Cabernet Franc,Red
+2016,3224,Cabernet Sauvignon,Red
+2016,1,Carignane,Red
+2016,2,Carmenere,Red
+2016,0,Charbono,Red
+2016,4,Cinsaut,Red
+2016,1,Counoise,Red
+2016,0,Dolcetto,Red
+2016,0,Dornfelder,Red
+2016,0,Gamay,Red
+2016,4,Graciano,Red
+2016,68,Grenache,Red
+2016,1,Lagrein,Red
+2016,58,Malbec,Red
+2016,105,Merlot,Red
+2016,0,Meunier,Red
+2016,0,Mission,Red
+2016,1,Montepulciano,Red
+2016,23,Mourvedre,Red
+2016,0,Muscat Hamburg,Red
+2016,2,Nebbiolo,Red
+2016,284,Petit Verdot,Red
+2016,676,Petite Sirah,Red
+2016,1056,Pinot Noir,Red
+2016,0,Pinotage,Red
+2016,28,Primitivo,Red
+2016,80,Rubired,Red
+2016,0,Ruby Cabernet,Red
+2016,7,Sangiovese,Red
+2016,0,Souzao,Red
+2016,117,Syrah,Red
+2016,58,Tannat,Red
+2016,34,Tempranillo,Red
+2016,274,Teroldego,Red
+2016,0,Touriga Nacional,Red
+2016,203,Zinfandel,Red
+2016,26,Other Red Wine,Red
+2016,35,Albarino,White
+2016,0,Arneis,White
+2016,1063,Chardonnay,White
+2016,54,Chenin Blanc,White
+2016,35,French Colombard,White
+2016,0,Gewurztraminer,White
+2016,7,Grenache Blanc,White
+2016,17,Gruner Veltliner,White
+2016,2,Malvasia Bianca,White
+2016,1,Marsanne,White
+2016,0,Moscato Gaillo,White
+2016,2,Muscat Blanc,White
+2016,1,Muscat of Alexandria,White
+2016,11,Muscat Orange,White
+2016,5,Picpoul Blanc,White
+2016,3,Pinot Blanc,White
+2016,600,Pinot Gris,White
+2016,4,Roussanne,White
+2016,277,Sauvignon Blanc,White
+2016,3,Sauvignon Musque,White
+2016,0,Sauvignon Vert,White
+2016,5,Semillon,White
+2016,0,St. Emilion,White
+2016,8,Symphony,White
+2016,0,Tocai Friulano,White
+2016,0,Triplett Blanc,White
+2016,2,Verdelho,White
+2016,4,Vermentino,White
+2016,13,Viognier,White
+2016,6,White Riesling,White
+2016,14,Other White Wine,White
+2017,5,Aglianico,Red
+2017,10,Alicante Bouschet,Red
+2017,7,Barbera,Red
+2017,55,Cabernet Franc,Red
+2017,1817,Cabernet Sauvignon,Red
+2017,2,Carignane,Red
+2017,6,Carmenere,Red
+2017,0,Charbono,Red
+2017,1,Cinsaut,Red
+2017,1,Counoise,Red
+2017,0,Dolcetto,Red
+2017,0,Dornfelder,Red
+2017,0,Gamay,Red
+2017,0,Graciano,Red
+2017,115,Grenache,Red
+2017,0,Lagrein,Red
+2017,53,Malbec,Red
+2017,216,Merlot,Red
+2017,1,Meunier,Red
+2017,0,Mission,Red
+2017,3,Montepulciano,Red
+2017,48,Mourvedre,Red
+2017,0,Muscat Hamburg,Red
+2017,1,Nebbiolo,Red
+2017,20,Petit Verdot,Red
+2017,357,Petite Sirah,Red
+2017,1389,Pinot Noir,Red
+2017,1,Pinotage,Red
+2017,42,Primitivo,Red
+2017,12,Rubired,Red
+2017,0,Ruby Cabernet,Red
+2017,4,Sangiovese,Red
+2017,0,Souzao,Red
+2017,114,Syrah,Red
+2017,1,Tannat,Red
+2017,12,Tempranillo,Red
+2017,59,Teroldego,Red
+2017,0,Touriga Nacional,Red
+2017,221,Zinfandel,Red
+2017,52,Other Red Wine,Red
+2017,72,Albarino,White
+2017,0,Arneis,White
+2017,877,Chardonnay,White
+2017,2,Chenin Blanc,White
+2017,5,French Colombard,White
+2017,0,Gewurztraminer,White
+2017,14,Grenache Blanc,White
+2017,0,Gruner Veltliner,White
+2017,0,Malvasia Bianca,White
+2017,5,Marsanne,White
+2017,0,Moscato Gaillo,White
+2017,0,Muscat Blanc,White
+2017,0,Muscat of Alexandria,White
+2017,0,Muscat Orange,White
+2017,6,Picpoul Blanc,White
+2017,0,Pinot Blanc,White
+2017,666,Pinot Gris,White
+2017,1,Roussanne,White
+2017,618,Sauvignon Blanc,White
+2017,3,Sauvignon Musque,White
+2017,0,Sauvignon Vert,White
+2017,8,Semillon,White
+2017,3,St. Emilion,White
+2017,0,Symphony,White
+2017,0,Tocai Friulano,White
+2017,0,Triplett Blanc,White
+2017,0,Verdelho,White
+2017,1,Vermentino,White
+2017,3,Viognier,White
+2017,2,White Riesling,White
+2017,41,Other White Wine,White
+2012,4,Aglianico,Red
+2012,139,Alicante Bouschet,Red
+2012,45,Barbera,Red
+2012,61,Cabernet Franc,Red
+2012,3832,Cabernet Sauvignon,Red
+2012,301,Carignane,Red
+2012,1,Carmenere,Red
+2012,0,Charbono,Red
+2012,2,Cinsaut,Red
+2012,0,Counoise,Red
+2012,0,Dolcetto,Red
+2012,0,Dornfelder,Red
+2012,36,Gamay,Red
+2012,0,Graciano,Red
+2012,205,Grenache,Red
+2012,0,Lagrein,Red
+2012,635,Malbec,Red
+2012,262,Merlot,Red
+2012,0,Meunier,Red
+2012,0,Mission,Red
+2012,2,Montepulciano,Red
+2012,25,Mourvedre,Red
+2012,57,Muscat Hamburg,Red
+2012,0,Nebbiolo,Red
+2012,116,Petit Verdot,Red
+2012,357,Petite Sirah,Red
+2012,1000,Pinot Noir,Red
+2012,0,Pinotage,Red
+2012,127,Primitivo,Red
+2012,171,Rubired,Red
+2012,121,Ruby Cabernet,Red
+2012,21,Sangiovese,Red
+2012,7,Souzao,Red
+2012,101,Syrah,Red
+2012,156,Tannat,Red
+2012,16,Tempranillo,Red
+2012,0,Teroldego,Red
+2012,0,Touriga Nacional,Red
+2012,493,Zinfandel,Red
+2012,202,Other Red Wine,Red
+2012,2,Albarino,White
+2012,2,Arneis,White
+2012,1183,Chardonnay,White
+2012,68,Chenin Blanc,White
+2012,2006,French Colombard,White
+2012,233,Gewurztraminer,White
+2012,12,Grenache Blanc,White
+2012,4,Gruner Veltliner,White
+2012,1,Malvasia Bianca,White
+2012,3,Marsanne,White
+2012,150,Moscato Gaillo,White
+2012,536,Muscat Blanc,White
+2012,527,Muscat of Alexandria,White
+2012,73,Muscat Orange,White
+2012,3,Picpoul Blanc,White
+2012,3,Pinot Blanc,White
+2012,188,Pinot Gris,White
+2012,5,Roussanne,White
+2012,279,Sauvignon Blanc,White
+2012,1,Sauvignon Musque,White
+2012,0,Sauvignon Vert,White
+2012,2,Semillon,White
+2012,3,St. Emilion,White
+2012,0,Symphony,White
+2012,0,Tocai Friulano,White
+2012,0,Triplett Blanc,White
+2012,16,Verdelho,White
+2012,13,Vermentino,White
+2012,24,Viognier,White
+2012,342,White Riesling,White
+2012,12,Other White Wine,White
+2015,9,Aglianico,Red
+2015,4,Alicante Bouschet,Red
+2015,15,Barbera,Red
+2015,71,Cabernet Franc,Red
+2015,3534,Cabernet Sauvignon,Red
+2015,0,Carignane,Red
+2015,3,Carmenere,Red
+2015,2,Charbono,Red
+2015,4,Cinsaut,Red
+2015,1,Counoise,Red
+2015,0,Dolcetto,Red
+2015,2,Dornfelder,Red
+2015,0,Gamay,Red
+2015,4,Graciano,Red
+2015,110,Grenache,Red
+2015,2,Lagrein,Red
+2015,115,Malbec,Red
+2015,84,Merlot,Red
+2015,3,Meunier,Red
+2015,1,Mission,Red
+2015,5,Montepulciano,Red
+2015,20,Mourvedre,Red
+2015,0,Muscat Hamburg,Red
+2015,4,Nebbiolo,Red
+2015,315,Petit Verdot,Red
+2015,678,Petite Sirah,Red
+2015,1141,Pinot Noir,Red
+2015,0,Pinotage,Red
+2015,12,Primitivo,Red
+2015,313,Rubired,Red
+2015,77,Ruby Cabernet,Red
+2015,11,Sangiovese,Red
+2015,0,Souzao,Red
+2015,42,Syrah,Red
+2015,4,Tannat,Red
+2015,36,Tempranillo,Red
+2015,119,Teroldego,Red
+2015,0,Touriga Nacional,Red
+2015,171,Zinfandel,Red
+2015,98,Other Red Wine,Red
+2015,10,Albarino,White
+2015,0,Arneis,White
+2015,949,Chardonnay,White
+2015,10,Chenin Blanc,White
+2015,5,French Colombard,White
+2015,3,Gewurztraminer,White
+2015,21,Grenache Blanc,White
+2015,0,Gruner Veltliner,White
+2015,0,Malvasia Bianca,White
+2015,1,Marsanne,White
+2015,0,Moscato Gaillo,White
+2015,5,Muscat Blanc,White
+2015,0,Muscat of Alexandria,White
+2015,0,Muscat Orange,White
+2015,4,Picpoul Blanc,White
+2015,45,Pinot Blanc,White
+2015,1295,Pinot Gris,White
+2015,5,Roussanne,White
+2015,301,Sauvignon Blanc,White
+2015,4,Sauvignon Musque,White
+2015,0,Sauvignon Vert,White
+2015,1,Semillon,White
+2015,1,St. Emilion,White
+2015,0,Symphony,White
+2015,1,Tocai Friulano,White
+2015,0,Triplett Blanc,White
+2015,0,Verdelho,White
+2015,7,Vermentino,White
+2015,3,Viognier,White
+2015,65,White Riesling,White
+2015,23,Other White Wine,White
+2014,2,Aglianico,Red
+2014,14,Alicante Bouschet,Red
+2014,74,Barbera,Red
+2014,56,Cabernet Franc,Red
+2014,3404,Cabernet Sauvignon,Red
+2014,8,Carignane,Red
+2014,1,Carmenere,Red
+2014,0,Charbono,Red
+2014,1,Cinsaut,Red
+2014,0,Counoise,Red
+2014,0,Dolcetto,Red
+2014,0,Dornfelder,Red
+2014,0,Gamay,Red
+2014,2,Graciano,Red
+2014,87,Grenache,Red
+2014,0,Lagrein,Red
+2014,204,Malbec,Red
+2014,485,Merlot,Red
+2014,0,Meunier,Red
+2014,0,Mission,Red
+2014,17,Montepulciano,Red
+2014,31,Mourvedre,Red
+2014,0,Muscat Hamburg,Red
+2014,2,Nebbiolo,Red
+2014,157,Petit Verdot,Red
+2014,917,Petite Sirah,Red
+2014,2056,Pinot Noir,Red
+2014,0,Pinotage,Red
+2014,224,Primitivo,Red
+2014,281,Rubired,Red
+2014,82,Ruby Cabernet,Red
+2014,14,Sangiovese,Red
+2014,1,Souzao,Red
+2014,221,Syrah,Red
+2014,37,Tannat,Red
+2014,22,Tempranillo,Red
+2014,261,Teroldego,Red
+2014,43,Touriga Nacional,Red
+2014,452,Zinfandel,Red
+2014,45,Other Red Wine,Red
+2014,18,Albarino,White
+2014,1,Arneis,White
+2014,2212,Chardonnay,White
+2014,322,Chenin Blanc,White
+2014,304,French Colombard,White
+2014,7,Gewurztraminer,White
+2014,54,Grenache Blanc,White
+2014,0,Gruner Veltliner,White
+2014,0,Malvasia Bianca,White
+2014,5,Marsanne,White
+2014,0,Moscato Gaillo,White
+2014,50,Muscat Blanc,White
+2014,2,Muscat of Alexandria,White
+2014,3,Muscat Orange,White
+2014,1,Picpoul Blanc,White
+2014,0,Pinot Blanc,White
+2014,1628,Pinot Gris,White
+2014,10,Roussanne,White
+2014,154,Sauvignon Blanc,White
+2014,0,Sauvignon Musque,White
+2014,0,Sauvignon Vert,White
+2014,4,Semillon,White
+2014,0,St. Emilion,White
+2014,0,Symphony,White
+2014,0,Tocai Friulano,White
+2014,0,Triplett Blanc,White
+2014,35,Verdelho,White
+2014,22,Vermentino,White
+2014,42,Viognier,White
+2014,32,White Riesling,White
+2014,17,Other White Wine,White
+2013,9,Aglianico,Red
+2013,6,Alicante Bouschet,Red
+2013,94,Barbera,Red
+2013,91,Cabernet Franc,Red
+2013,4304,Cabernet Sauvignon,Red
+2013,9,Carignane,Red
+2013,5,Carmenere,Red
+2013,0,Charbono,Red
+2013,2,Cinsaut,Red
+2013,2,Counoise,Red
+2013,1,Dolcetto,Red
+2013,0,Dornfelder,Red
+2013,1,Gamay,Red
+2013,0,Graciano,Red
+2013,91,Grenache,Red
+2013,21,Lagrein,Red
+2013,207,Malbec,Red
+2013,339,Merlot,Red
+2013,1,Meunier,Red
+2013,0,Mission,Red
+2013,13,Montepulciano,Red
+2013,25,Mourvedre,Red
+2013,0,Muscat Hamburg,Red
+2013,2,Nebbiolo,Red
+2013,331,Petit Verdot,Red
+2013,778,Petite Sirah,Red
+2013,1460,Pinot Noir,Red
+2013,0,Pinotage,Red
+2013,493,Primitivo,Red
+2013,127,Rubired,Red
+2013,0,Ruby Cabernet,Red
+2013,7,Sangiovese,Red
+2013,2,Souzao,Red
+2013,152,Syrah,Red
+2013,30,Tannat,Red
+2013,66,Tempranillo,Red
+2013,232,Teroldego,Red
+2013,1,Touriga Nacional,Red
+2013,778,Zinfandel,Red
+2013,168,Other Red Wine,Red
+2013,5,Albarino,White
+2013,0,Arneis,White
+2013,1969,Chardonnay,White
+2013,27,Chenin Blanc,White
+2013,905,French Colombard,White
+2013,2,Gewurztraminer,White
+2013,30,Grenache Blanc,White
+2013,2,Gruner Veltliner,White
+2013,4,Malvasia Bianca,White
+2013,4,Marsanne,White
+2013,0,Moscato Gaillo,White
+2013,304,Muscat Blanc,White
+2013,247,Muscat of Alexandria,White
+2013,8,Muscat Orange,White
+2013,2,Picpoul Blanc,White
+2013,0,Pinot Blanc,White
+2013,727,Pinot Gris,White
+2013,4,Roussanne,White
+2013,133,Sauvignon Blanc,White
+2013,0,Sauvignon Musque,White
+2013,1,Sauvignon Vert,White
+2013,4,Semillon,White
+2013,0,St. Emilion,White
+2013,0,Symphony,White
+2013,0,Tocai Friulano,White
+2013,4,Triplett Blanc,White
+2013,3,Verdelho,White
+2013,13,Vermentino,White
+2013,21,Viognier,White
+2013,238,White Riesling,White
+2013,48,Other White Wine,White
+2019,0,Aglianico,Red
+2019,0,Alicante Bouschet,Red
+2019,434,Barbera,Red
+2019,29,Cabernet Franc,Red
+2019,970,Cabernet Sauvignon,Red
+2019,0,Carignane,Red
+2019,0,Carmenere,Red
+2019,1,Charbono,Red
+2019,11,Cinsaut,Red
+2019,0,Counoise,Red
+2019,0,Dolcetto,Red
+2019,1,Dornfelder,Red
+2019,1,Gamay,Red
+2019,0,Graciano,Red
+2019,37,Grenache,Red
+2019,0,Lagrein,Red
+2019,39,Malbec,Red
+2019,64,Merlot,Red
+2019,3,Meunier,Red
+2019,2,Mission,Red
+2019,0,Montepulciano,Red
+2019,22,Mourvedre,Red
+2019,5,Muscat Hamburg,Red
+2019,1,Nebbiolo,Red
+2019,23,Petit Verdot,Red
+2019,35,Petite Sirah,Red
+2019,419,Pinot Noir,Red
+2019,0,Pinotage,Red
+2019,8,Primitivo,Red
+2019,0,Rubired,Red
+2019,0,Ruby Cabernet,Red
+2019,7,Sangiovese,Red
+2019,1,Souzao,Red
+2019,46,Syrah,Red
+2019,2,Tannat,Red
+2019,6,Tempranillo,Red
+2019,0,Teroldego,Red
+2019,4,Touriga Nacional,Red
+2019,420,Zinfandel,Red
+2019,41,Other Red Wine,Red
+2019,57,Albarino,White
+2019,0,Arneis,White
+2019,955,Chardonnay,White
+2019,23,Chenin Blanc,White
+2019,114,French Colombard,White
+2019,16,Gewurztraminer,White
+2019,259,Grenache Blanc,White
+2019,1,Gruner Veltliner,White
+2019,0,Malvasia Bianca,White
+2019,1,Marsanne,White
+2019,0,Moscato Gaillo,White
+2019,82,Muscat Blanc,White
+2019,0,Muscat of Alexandria,White
+2019,0,Muscat Orange,White
+2019,0,Picpoul Blanc,White
+2019,6,Pinot Blanc,White
+2019,25,Pinot Gris,White
+2019,1,Roussanne,White
+2019,230,Sauvignon Blanc,White
+2019,1,Sauvignon Musque,White
+2019,0,Sauvignon Vert,White
+2019,2,Semillon,White
+2019,0,St. Emilion,White
+2019,0,Symphony,White
+2019,0,Tocai Friulano,White
+2019,0,Triplett Blanc,White
+2019,0,Verdelho,White
+2019,6,Vermentino,White
+2019,3,Viognier,White
+2019,2,White Riesling,White
+2019,94,Other White Wine,White
