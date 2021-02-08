@@ -34,9 +34,14 @@ https://winos-app.herokuapp.com
 
 ## Team Members
 [Adam McVey](https://github.com/adamemcvey)
+
 [Jiuhe (Rosa) Zhu](https://github.com/Jiuhe2020)
+
 [Matthew Berkley](https://github.com/mberkley25)
+
 [Laura Rice](https://github.com/LRiceBall)
+
 [Gianni Adamo](https://github.com/gianx1)
+
 [Zac Cheatle](https://github.com/zcheatle5)
 
