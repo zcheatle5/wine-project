@@ -7,13 +7,6 @@ https://winos-app.herokuapp.com
 - California hosts some of the world's largest wine companies and it produces 90 percent of American-made wine. It also supplies more than 60 percent of all wine consumed in the country.
 - In this project, we took a look at the yearly grape yield of California by grape varietal and county, then compared it with yearly and monthly temperatures, precipitation, and ozone levels. We also did an analysis of temperature and precipitation on the month of January for dormant season. Finally, we used Scikit-Learn machine learning library’s linear regression model to predict the wine grape production for the future.
 
-## Team Members
-      - Adam McVey
-      - Jiuhe (Rosa) Zhu
-      - Matthew Berkley
-      - Laura Rice
-      - Gianni Adamo
-      - Zac Cheatle
       
 ## Tools Used
 1. ETL and Data Cleaning
@@ -36,3 +29,14 @@ https://winos-app.herokuapp.com
 ## References
 1. California Wine Facts: https://www.wine-searcher.com/regions-california
 2. Lifecycle of a Wine Grapevine: https://winefolly.com/deep-dive/lifecycle-of-a-wine-grapevine/
+
+
+
+## Team Members
+      - [Adam McVey](https://github.com/adamemcvey)
+      - [Jiuhe (Rosa) Zhu](https://github.com/Jiuhe2020)
+      - [Matthew Berkley](https://github.com/mberkley25)
+      - [Laura Rice](https://github.com/LRiceBall)
+      - [Gianni Adamo](https://github.com/gianx1)
+      - [Zac Cheatle](https://github.com/zcheatle5)
+
