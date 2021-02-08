@@ -2,6 +2,7 @@
 ![wine_image](https://inn-entertainment.com/wp-content/uploads/2017/06/Sunset-over-California-Winery.jpg)
 ## Project Deployment Link
 [Wine VS Global Warming App](https://winos-app.herokuapp.com) 
+
 [Wine VS Global Warming Tableau](https://public.tableau.com/profile/laura.rice#!/vizhome/Wine_Project_16053945889300/Wine_Story?publish=yes)
 
 ## Introduction
