@@ -1,4 +1,4 @@
-# Weather Influence on Wine Production in California 
+# Global Warming & Weather Influence on Wine Production in California 
 ![wine_image](https://inn-entertainment.com/wp-content/uploads/2017/06/Sunset-over-California-Winery.jpg)
 ## Project Deployment Link
 [Wine VS Global Warming App](https://winos-app.herokuapp.com) 
